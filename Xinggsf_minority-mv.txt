@@ -1,0 +1,120 @@
+[Adblock Plus 2.0]
+! Title: 乘风 小众视频过滤规则
+! Version: 202402121
+! Expires: 1 day
+! Homepage: https://github.com/xinggsf/Adblock-Plus-Rule/issues
+
+##a.disabled
+
+! 禁用AI奇观
+iqiyi.com##+js(set, Object.prototype.isSupportAI, false)
+||security.iqiyi.com/static/cook/v1/cooksdk.js
+||stc.iqiyipic.com/js/sdkpack/vippay.js
+||stc.iqiyipic.com/js/sdkpack/barrage
+! 要用弹幕注释下条规则
+||t7z.cupid.iqiyi.com/show$script,important
+
+! le.com
+gentags.net
+gtags.net
+||webrtc.github.io^$script,3p
+
+! ||cp31.ott.cibntv.net/*/ad/X*.ts?$xhr,redirect=noop-0.1s.mp3,domain=v.youku.com
+v.youku.com##.vip_info,#uerCenter,#youkubarrage-controller,li.fn-phonewatch
+||acs.youku.com/h5/mopen.youku.danmu.
+
+||api.bilibili.com/x/click-interface/click/$xhr
+chat.bilibili.com
+||hdslb.com/bfs/seed/log/report/log-reporter.js
+||hdslb.com/bfs/seed/jinkela/$subdocument
+||bilibili.com/page-proxy/game-nav.html$subdocument
+
+v.qq.com##.wrapper.mod_vip_popup, #mask_layer
+||mfm.video.qq.com/danmu
+dm.video.qq.com
+||video.qq.com/danmu_manage/$xhr
+tv.sohu.com###qflivetg,div.right>.adv
+
+www.douyu.com##.is-fullScreenPage .ToTopBtn, div.layout-Player~*, .multiBitRate-da4b60, .watermark-442a18, .player-dialog~*, .ChargeTask+div, .HeaderGif-right, .HeaderGif-left,#js-room-activity
+|https://sta-op.douyucdn.cn/front-publish/butterfly-
+butterfly.douyucdn.cn
+gift.douyucdn.cn
+rank.douyucdn.cn
+||shark2.douyucdn.cn/front-publish/live-landlordsactivity-
+||shark2.douyucdn.cn/front-publish/live-luckybaggift-activity-master/
+||shark2.douyucdn.cn/front-publish/live-festivalactivity-
+||shark2.douyucdn.cn/front-publish/live-master/js/room/activity_
+||shark2.douyucdn.cn/front-publish/live-cloud-game-master/
+||shark2.douyucdn.cn/front-publish/live-game-guess-master/
+||webconf.douyucdn.cn/resource/common/gift
+
+m.huya.com##video:style(object-fit:fill!important)
+m.huya.com##.video-con:style(height:100vh!important;padding:0!important;position:static!important;)
+m.huya.com##.ssr-wrapper>:not(.live-wrap)
+www.huya.com##.room-footer,#player-subscribe-wap,#player-gift-wrap,#huya-ab, .player-banner-gift,#player-marquee-wrap
+|https://a.msstatic.com/huya/main3/assets/img/room/gift/$important
+|https://a.msstatic.com/huya/main3/assets/css/room/gift_$important
+|https://a.msstatic.com/huya/main3/modules/chat$important
+|https://a.msstatic.com/huya/main3/modules/gift/$important
+zhanqi.tv##.chat-gg-area,a[href*="/ad.click?"]
+
+*.gif|$image,domain=91meijutv.com|acgndmku.com|bimiacg4.net|tvyb03.com|kuhuiv.com
+! 禁用左右快捷键 nangua99.com,xxdm2.com##+js(set,jQuery.fn.keydown,trueFunc)
+88mv.org,91meijutv.com,olevod.com,tvyb03.com,vidhub.*##a[target=_blank][href^=http]
+88mv.org##.MacPlayer, .dplayer:style(height:600px!important)
+91meijutv.com##.dplayer-web-fullscreen-fix #player-sidebar
+91meijutv.com,gdzidong.com,mjw8.cc##.dplayer-web-fullscreen-fix #player-sidebar-is
+
+agedm.org##.ratio-16x9:style(--bs-aspect-ratio:0!important)
+bimiacg4.net##+js(acis,Object.defineProperty,location.href)
+bimiacg4.net##.tuiguang,#bkcl
+
+! 低端影视 ddys.art .one
+ddys.*##+js(set, Object.prototype.ads, null)
+! ddys.*##+js(set, Object.prototype.nopreroll_, true)
+ddys.*##.cfa_popup:remove()
+ddys.*###sajdhfbjwhe:remove()
+ddys.*##main.site-main > div:first-child:remove()
+
+||gdzidong.com/static/js/plugin.js^$script
+ikandy2.fun##div:has(>b[onclick])
+ikandy2.fun##img[onclick]:remove()
+ikandy2.fun##.marquee_outer, b[onclick]+a
+|https://ikandy2.fun/loadingbk.html^$subdocument
+|https://x.qcheng.cc/x/statics/js/fuck-debugger.js^$script
+||netease.com^$image,domain=ikandy2.fun
+
+im1907.top,nxflv.*##+js(noeval-if, pushState)
+www.nivod4.tv##.nav-ads:remove()
+www.nivod4.tv###my_saberfeedback_button
+||nivod4.tv/image/ad$image
+
+olevod.com##.adtip, .bg_wtop_banner, .guangao, .guangaoss, .wbalist_thumb
+||www.olevod.com/upload/site/202$image
+||static.olelive.com/uploads/file/$image
+! pkmp4.com btnull.*##+js(set,pycount,0) (set,jQuery.fn.getScript,noopFunc)
+||btnull.in/ajax/historys/
+||btnull.nu/ajax/historys/
+||btnull.org/ajax/historys/
+
+91meijutv.com,k8hdw.com,imjw.cc,qdm66.com##.close-box.tips
+qdm66.com###gongao
+www.ttsp.tv###playad1
+||img.imyyds.com/upload/vod/20211222-2/$image
+||img.imyyds.com/adimges/$image
+
+! TVB云播  港台影视
+tvyb03.com###hth,a[href="/e1111.html"]
+||cdn.bcebos.com/images/$image,domain=tvyb03.com
+tvyb03.com##+js(acis,document.writeln)
+
+vidhub2.cc,vidhub.tv##.adpcc,#player_pause
+vidhub2.cc,vidhub.tv##.MacPlayer:style(height:630px!important)
+||vidhub2.cc/upload/art/rgsp-$image
+||vidhub2.cc/player/buffer.html$subdocument
+||vidhub.tv/player/buffer.html$subdocument
+
+! www.916dm.fans www.dmtvw.com : www.xyhdmw.com dm84.tv www.kktvn.com
+|https://abb.$script,3p
+prplads.com
+搜狐网络科技.中国
