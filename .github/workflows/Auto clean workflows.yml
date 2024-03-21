@@ -2,14 +2,17 @@ name: 'Auto cleaning of workflow logs'
 
 on:
   schedule:
-    - cron: '0 0 * * 0'
+    - cron: '0 20 * * 0'
   workflow_dispatch:
 
 jobs:
-  del_workflow:
+  del_runs:
     runs-on: ubuntu-latest
     steps:
-      - name: Delete workflow runs
-        uses: GitRML/delete-workflow-runs@main
+      - name: Delete Workflow Runs
+        uses: Mattraks/delete-workflow-runs@v2.0.6
         with:
-          retain_days: '3'
+          token: ${{ github.token }}
+          repository: ${{ github.repository }}
+          retain_days: 1
+          keep_minimum_runs: 0
