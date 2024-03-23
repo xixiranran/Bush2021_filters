@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: M7d0TIE/vMGBk3licucPuQ
-! Version: 202403231511
+! Checksum: a2NHzSHuRE6Qoty5ZZ6WJQ
+! Version: 202403231811
 ! Title: EasyList
-! Last modified: 23 Mar 2024 15:11 UTC
+! Last modified: 23 Mar 2024 18:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -68115,6 +68115,7 @@ newegg.com##.sponsored-brands
 cheknews.ca##.sponsored-by
 washingtontimes.com##.sponsored-heading
 breakingdefense.com##.sponsored-inline
+freesvg.org##.sponsored-main-detail
 justwatch.com##.sponsored-recommendation
 crn.com##.sponsored-resources
 search.brave.com##.sponsored-unit_wrapper

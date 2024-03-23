@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: /KztBQ4jfXH3zvGulwmOlw
-! Version: 202403231511
+! Checksum: kyTfHXsZLWySjle4tA8jfg
+! Version: 202403231811
 ! Title: EasyPrivacy
-! Last modified: 23 Mar 2024 15:11 UTC
+! Last modified: 23 Mar 2024 18:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -10815,6 +10815,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||contador.biobiochile.cl^
 ||contadores.miarroba.com^
 ||contadores.miarroba.es^
+||count.sibbo.net^
 ||creatives.sunmedia.tv^
 ||ctx.citiservi.es^
 ||datanoticias.prisasd.com^
