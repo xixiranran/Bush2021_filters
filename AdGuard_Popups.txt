@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: ucrrLO/l1D7G/08OTxEgnQ
-! Diff-Path: ../patches/19_optimized/19_optimized-s-1711636692-3600.patch
+! Checksum: QJvV+FgCj8i3IW3kv6XvcQ
+! Diff-Path: ../patches/19_optimized/19_optimized-s-1711647584-3600.patch
 ! Title: AdGuard Popups filter (Optimized)
 ! Description: Blocks all kinds of pop-ups that are not necessary for websites' operation according to our Filter policy.
-! Version: 2.0.34.0
-! TimeUpdated: 2024-03-28T14:32:40+00:00
+! Version: 2.0.34.2
+! TimeUpdated: 2024-03-28T17:32:17+00:00
 ! Expires: 5 days (update frequency)
 ://yandex.*/images/_$xmlhttprequest,method=post
 ya.ru,yandex.*##:matches-path(/images).Root > div.MastHead
@@ -1416,7 +1416,7 @@ polzadom.ru,mirinteresa.ru##+js(abort-current-script, document.getElementById, /
 !#safari_cb_affinity(general)
 news.de,mainpost.de,aufderbuehne.de,trainingsworld.com,zaubertopf.de,totallygamergirl.com,maclife.de,kuechengoetter.de,survivethis.news,prad.de,infranken.de,nachrichten.at,moviejones.de,np-coburg.de,frankenpost.de,insuedthueringen.de,augsburger-allgemeine.de,4fansites.de,general-anzeiger-bonn.de,kurier.de,knuddels.de,fumsmagazin.de,reisefrage.net,motorradfrage.net,autofrage.net,sportlerfrage.net,gesundheitsfrage.net,finanzfrage.net,wer-weiss-was.de,spielfilm.de,jappy.com,serienjunkies.de,woxikon.de,wize.life,computerfrage.net,gutefrage.net,teckbote.de,ligainsider.de,woxikon.de,rp-online.de,frag-mutti.de,ksta.de,sol.de,noz.de,mopo.de,express.de,berliner-kurier.de,berliner-zeitung.de#@#.full_AD
 !#safari_cb_affinity
-hdrezka1tqbbd.org,hdrezka1qkpbx.org,hdrezka320rtq.org,rezka-ua.tv,hdrezkabmmshq.org,hdrezkafh28d9.org,hdrezkasmakyy.org,hdrezkafhs83u.org,hdrezkahs920s.org,hdrezka.in,hdrezkat5ee2w.org,hdrezka66yhfg.net,hdrezka.rest,hdrezkahf22hh.net,hdrezkahdg24s.net,hdrezkabbdh4d.net,hdrezkajjfhr5.net,27p6qp79zyr1.net,hdrezka19139.org,hdrezkap3g.org,hdrezkapez.org,hdrezkarty.org,hdrezkacvb.org,hdrezka.ag,upivi.com,hdrezka.me,ikinopoisk.com,kinopub.me,3ivi.com,rezkify.com,bestofkinopoisk.com,rezkery.com,rezkily.com,hdrezkaonline.com,mrhdrezka.com,hdrezka.sh,livekinopoisk.com,cokinopoisk.com,hdrezka-ag.com,hdrezka.club,hdrezka.cm,hdrezka.co,hdrezka.name,hdrezka.site,hdrezka.today,hdrezka.tv,hdrezka.website,hdrezkaag.net,hdrezkayou.com,instahdrezka.com,freehdrezka.com,rezka.ag,tryhdrezka.com##+js(set-constant, window.abc, false)
+hdrezka8bdhtq.org,hdrezka1tqbbd.org,hdrezka1qkpbx.org,hdrezka320rtq.org,rezka-ua.tv,hdrezkabmmshq.org,hdrezkafh28d9.org,hdrezkasmakyy.org,hdrezkafhs83u.org,hdrezkahs920s.org,hdrezka.in,hdrezkat5ee2w.org,hdrezka66yhfg.net,hdrezka.rest,hdrezkahf22hh.net,hdrezkahdg24s.net,hdrezkabbdh4d.net,hdrezkajjfhr5.net,27p6qp79zyr1.net,hdrezka19139.org,hdrezkap3g.org,hdrezkapez.org,hdrezkarty.org,hdrezkacvb.org,hdrezka.ag,upivi.com,hdrezka.me,ikinopoisk.com,kinopub.me,3ivi.com,rezkify.com,bestofkinopoisk.com,rezkery.com,rezkily.com,hdrezkaonline.com,mrhdrezka.com,hdrezka.sh,livekinopoisk.com,cokinopoisk.com,hdrezka-ag.com,hdrezka.club,hdrezka.cm,hdrezka.co,hdrezka.name,hdrezka.site,hdrezka.today,hdrezka.tv,hdrezka.website,hdrezkaag.net,hdrezkayou.com,instahdrezka.com,freehdrezka.com,rezka.ag,tryhdrezka.com##+js(set-constant, window.abc, false)
 online-fix.me##+js(no-setTimeout-if, /[a-w0-9]{12\,}/)
 online-fix.me#$#div.quote a.btn { pointer-events: auto !important; }
 online-fix.me#?#.sidebar > div.sidebar-block:contains(Adblock)
@@ -1536,6 +1536,9 @@ api.flocktory.com
 ||unpkg.com/@textback/notification-widget
 ||widget.pico.tools^$third-party
 ||widget.privy.com^$third-party
+youdao.com##div#ServiceBox1
+youdao.com##.newUserCouponIndex
+tabs.ultimate-guitar.com##button + div[style]:has(> div > a[href^="https://www.ultimate-guitar.com/pro?"])
 nyanpedia.com###melmaga-popup
 green-osaka.com##div[class^="bfb-common-cta"]
 xiaozhongjishu.com###io-popup-tips
@@ -1622,6 +1625,7 @@ democracydocket.com###alert-bar
 nytimes.com###app > div > div[data-testid="onsite-messaging-unit-gateway"]:has(a[href^="https://www.nytimes.com/subscription?"])
 mobile-hoken.com##.popup._active
 ultimate-guitar.com##.SiteWideBanner
+ultimate-guitar.com##+js(set-cookie, auth_modal_shown, 1)
 banggood.com##.modal-newbie
 banggood.com##.suspended-banner-wrap
 blog.openreplay.com##astro-island[uid="1se2Xg"]
@@ -4882,6 +4886,7 @@ epaper.thehindu.com,h5.g123.jp,accounts.binance.com,zlavomat.sk,id.rambler.ru,pi
 /firebase-messaging.js$domain=euautodily.cz|euautoteile.de|euautoteile.at|euautoteile.ch|euautopezzi.it|euautopieces.fr|euautoczesci.pl|euantallaktika.gr|euautorecambios.es|euautopecas.pt|euautoonderdelen.be|euautodele.dk|eualkatresz.hu|euvaraosat.fi|euspares.co.uk|euavtodeli.si|euroautodiely.sk|euavtochasti.bg|euautodalys.lt|euautopiese.ro|euautoonderdelen.nl|euautodeler.co.no|euautodalas.lv|euautoosad.ee|eurobildelar.se|worldstar.com|tv1.nontondrama.click|tmailor.com|super.ru|gazeta.uz|thevoicemag.ru|novayagazeta.eu|zab.ru|nike.com.br|webursa.com|s.akiba-souken.com|bfm.ru|theswagsports.com|focus.ua|ukranews.com|comments.ua|coub.com|porno90.me|cnnamador.com|giallozafferano.it|fptplay.vn|jooble.org|mobile01.com|myinstants.com|pdalife.ru|rg.ru|m.iguides.ru|donanimhaber.com|profile.ru|womanhit.ru|news.noteru.com|narodna-pravda.ua|newstm.in|sabah.com.tr|dreamstime.com|popbee.com|avtovzglyad.ru|allbasketball.org|tw.news.yahoo.com|takvim.com.tr|ria.ru|pars.host|calculator-online.net|operanewsapp.com|ahaber.com.tr|tamindir.com|concursosnobrasil.com.br|kompas.com|news.ebc.net.tw|recyclingtoday.com|homedecoratione.com|khersondaily.com|mirtesen.ru|belsat.eu|op.gg|novayagazeta.ru|pocket-lint.com|turunculevye.com|bloomberght.com|stardima.com|aksam.com.tr|portamur.ru|fishki.net|ranking.goo.ne.jp|ohmymag.com|semnasem.org|bluradio.com|carwale.com|finanznachrichten.de|home.kingsoft.jp|sputnik.kg|sportskeeda.com|notizie.it|diarioregistrado.com|colombia.com|penangpropertytalk.com|m24.ru|yenisafak.com|mirf.ru|sozcu.com.tr|hindustantimes.com|elcordillerano.com.ar|sport-express.ru|mentoday.ru|es.memedroid.com|lublin112.pl|iguides.ru|lk21official.mom|news.tvbs.com.tw|lsm.lv
 shiftdelete.net,community.oneplus.com,lnc.nc,superfilmes.ph,meduza.global.ssl.fastly.net,meduza.io,yenisafak.com,offidocs.com,onedio.com,hpplus.jp,fullfilmcibaba1.com,joom.com,nbc.com,maximum.ru,ch3plus.com,dropmefiles.com,rg.ru,reddit.com,life.ru##+js(set-constant, Notification.requestPermission, noopFunc)
 macwelt.de,pcwelt.de##+js(set-constant, firebase.messaging, noopFunc)
+sr.de###safariPushCon
 ||varanoros.com/push/create
 republicworld.com,republicbharat.com##.noti-wrapper
 ladbible.com##div[class^="soft-notification-modal_modal"]
