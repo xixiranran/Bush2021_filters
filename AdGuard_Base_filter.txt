@@ -1,11 +1,24 @@
 ![Adblock Plus 2.0]
-! Checksum: 68+rX2DHKbEQdgbHfTm9kQ
-! Diff-Path: ../patches/2_optimized/2_optimized-s-1711712250-3600.patch
+! Checksum: idSbU04rCilJG1gsy989Nw
+! Diff-Path: ../patches/2_optimized/2_optimized-s-1711723064-3600.patch
 ! Title: AdGuard Base filter + EasyList (Optimized)
 ! Description: EasyList + AdGuard English filter. This filter is necessary for quality ad blocking.
-! Version: 2.3.28.88
-! TimeUpdated: 2024-03-29T11:33:11+00:00
+! Version: 2.3.28.91
+! TimeUpdated: 2024-03-29T14:33:31+00:00
 ! Expires: 5 days (update frequency)
+||pregainpotgut.top^
+||dedukicationan.info^
+||munpracticalwh.info^
+||debaucky.com^
+||daicagrithi.com^
+||lcxxwxo.com^
+||qynmfgnu.xyz^
+||esoussatsie.xyz^
+||continentalfinishdislike.com^
+||tuckedtucked.com^
+||bpaednxqd.com^
+||gautauzaiw.com^
+||rnhsrsn.com^
 ||zovidree.com^
 ||rbqlbolklrvmk.top^
 ||ajvkakodvgpe.com^
@@ -282,6 +295,7 @@
 ||piguiqproxy.com^$badfilter
 !+ NOT_PLATFORM(windows, mac, android)
 ||amgload.net^$third-party,badfilter
+||d2dzy45qo641nc.cloudfront.net^
 ||buzzer.xhofficial.com^
 ||d2psma0az3acui.cloudfront.net^
 ||ads.betweendigital.com^
@@ -810,9 +824,9 @@ santacruzsentinel.com,reviewjournal.com,record-bee.com,dailylocal.com,saratogian
 /wp-content/plugins/eazy-ad-unblocker/*
 /wp-content/plugins/adunblocker
 @@||gplinks.in/track/
-tipdoot.in,kishanganjnews.in,powerrangergames.com,flyshayari.com,pagalmp3status.com,mdsuuniversity.org,odishadjs.link,trancebazar.com,jankari4u.com,instander.me,friv4school.in,digitalfacts4u.com,odiasongsworld.com,raidersixgameapk.com,sarkariexam365.com,gentletrail.in,mghindinews.in,netflixvip.in,pmyojanasarkari.in,picassoappk.com,geniuseducares.com,learnwithsaif.in,sugargliderfaqs.com,foreverhealth.in,eternalcbse.in,awolio.com,odiamusicsong.com,news36tech.com,minijankari.com,nhmgujarat.in,jobwaala.in,w3hindi.in,kaisekareblog.com,theringtonesworld.in,picassoappk.com,bmremix.in,odiasongmuzic.com,bharatsarkarijobalert.com,mpscstudyhub.com,djppclub.com,indiasarkari.com,ojasnew.in,mystudyhelp.in,aditechz.com,blog24.me,onpointgame.net,doge25.in,kejriwalyojana.com,onlinegratuitycalculator.com,gplinks.co,rontymobile.in#$?##SmileyBanner { remove: true; }
-tipdoot.in,kishanganjnews.in,powerrangergames.com,flyshayari.com,pagalmp3status.com,mdsuuniversity.org,odishadjs.link,trancebazar.com,jankari4u.com,instander.me,friv4school.in,digitalfacts4u.com,odiasongsworld.com,raidersixgameapk.com,sarkariexam365.com,gentletrail.in,mghindinews.in,netflixvip.in,pmyojanasarkari.in,picassoappk.com,geniuseducares.com,learnwithsaif.in,sugargliderfaqs.com,foreverhealth.in,eternalcbse.in,awolio.com,odiamusicsong.com,news36tech.com,minijankari.com,nhmgujarat.in,jobwaala.in,w3hindi.in,kaisekareblog.com,theringtonesworld.in,picassoappk.com,bmremix.in,odiasongmuzic.com,bharatsarkarijobalert.com,mpscstudyhub.com,djppclub.com,indiasarkari.com,ojasnew.in,mystudyhelp.in,aditechz.com,blog24.me,onpointgame.net,doge25.in,kejriwalyojana.com,onlinegratuitycalculator.com,gplinks.co,rontymobile.in###AdbModel
-tipdoot.in,kishanganjnews.in,powerrangergames.com,flyshayari.com,pagalmp3status.com,mdsuuniversity.org,odishadjs.link,trancebazar.com,jankari4u.com,instander.me,friv4school.in,digitalfacts4u.com,odiasongsworld.com,raidersixgameapk.com,sarkariexam365.com,gentletrail.in,mghindinews.in,netflixvip.in,pmyojanasarkari.in,picassoappk.com,geniuseducares.com,learnwithsaif.in,sugargliderfaqs.com,foreverhealth.in,eternalcbse.in,awolio.com,odiamusicsong.com,news36tech.com,minijankari.com,nhmgujarat.in,jobwaala.in,w3hindi.in,kaisekareblog.com,theringtonesworld.in,picassoappk.com,bmremix.in,odiasongmuzic.com,bharatsarkarijobalert.com,mpscstudyhub.com,djppclub.com,indiasarkari.com,ojasnew.in,mystudyhelp.in,aditechz.com,blog24.me,onpointgame.net,doge25.in,kejriwalyojana.com,onlinegratuitycalculator.com,gplinks.co,rontymobile.in##+js(remove-node-text, script, AdbModel)
+dinakondukathe.com,nrvlivability.org,remixodia.link,aksharamedia.com,mcqquestionbank.com,barmanmusic.com.in,msdsu.org,newsivae.in,tipdoot.in,kishanganjnews.in,powerrangergames.com,flyshayari.com,pagalmp3status.com,mdsuuniversity.org,odishadjs.link,trancebazar.com,jankari4u.com,instander.me,friv4school.in,digitalfacts4u.com,odiasongsworld.com,sarkariexam365.com,gentletrail.in,mghindinews.in,netflixvip.in,pmyojanasarkari.in,picassoappk.com,geniuseducares.com,learnwithsaif.in,sugargliderfaqs.com,foreverhealth.in,eternalcbse.in,odiamusicsong.com,news36tech.com,minijankari.com,nhmgujarat.in,jobwaala.in,w3hindi.in,kaisekareblog.com,theringtonesworld.in,picassoappk.com,bmremix.in,odiasongmuzic.com,bharatsarkarijobalert.com,mpscstudyhub.com,indiasarkari.com,ojasnew.in,mystudyhelp.in,aditechz.com,blog24.me,onpointgame.net,doge25.in,kejriwalyojana.com,onlinegratuitycalculator.com,gplinks.co,rontymobile.in#$?##SmileyBanner { remove: true; }
+dinakondukathe.com,nrvlivability.org,remixodia.link,aksharamedia.com,mcqquestionbank.com,barmanmusic.com.in,msdsu.org,newsivae.in,tipdoot.in,kishanganjnews.in,powerrangergames.com,flyshayari.com,pagalmp3status.com,mdsuuniversity.org,odishadjs.link,trancebazar.com,jankari4u.com,instander.me,friv4school.in,digitalfacts4u.com,odiasongsworld.com,sarkariexam365.com,gentletrail.in,mghindinews.in,netflixvip.in,pmyojanasarkari.in,picassoappk.com,geniuseducares.com,learnwithsaif.in,sugargliderfaqs.com,foreverhealth.in,eternalcbse.in,odiamusicsong.com,news36tech.com,minijankari.com,nhmgujarat.in,jobwaala.in,w3hindi.in,kaisekareblog.com,theringtonesworld.in,picassoappk.com,bmremix.in,odiasongmuzic.com,bharatsarkarijobalert.com,mpscstudyhub.com,indiasarkari.com,ojasnew.in,mystudyhelp.in,aditechz.com,blog24.me,onpointgame.net,doge25.in,kejriwalyojana.com,onlinegratuitycalculator.com,gplinks.co,rontymobile.in###AdbModel
+dinakondukathe.com,nrvlivability.org,remixodia.link,aksharamedia.com,mcqquestionbank.com,barmanmusic.com.in,msdsu.org,newsivae.in,tipdoot.in,kishanganjnews.in,powerrangergames.com,flyshayari.com,pagalmp3status.com,mdsuuniversity.org,odishadjs.link,trancebazar.com,jankari4u.com,instander.me,friv4school.in,digitalfacts4u.com,odiasongsworld.com,sarkariexam365.com,gentletrail.in,mghindinews.in,netflixvip.in,pmyojanasarkari.in,picassoappk.com,geniuseducares.com,learnwithsaif.in,sugargliderfaqs.com,foreverhealth.in,eternalcbse.in,odiamusicsong.com,news36tech.com,minijankari.com,nhmgujarat.in,jobwaala.in,w3hindi.in,kaisekareblog.com,theringtonesworld.in,picassoappk.com,bmremix.in,odiasongmuzic.com,bharatsarkarijobalert.com,mpscstudyhub.com,indiasarkari.com,ojasnew.in,mystudyhelp.in,aditechz.com,blog24.me,onpointgame.net,doge25.in,kejriwalyojana.com,onlinegratuitycalculator.com,gplinks.co,rontymobile.in##+js(remove-node-text, script, AdbModel)
 pwrpa.cc,link4earn.com,atglinks.com,megaurl.in,megafly.in,pandaznetwork.com,tii.la,ckk.ai,xpshort.com,kinemaster.cc,rajsayt.xyz,insurglobal.xyz,linkszia.co,usanewstoday.club,tlin.me,pndx.live,cutp.in,aylink.info,try2link.com,usdshort.com,onroid.com,filmyzilla-in.xyz,zirof.com,samaa-pro.com,earnme.club,adshort.*,adurly.cc,nini08.com,shortlink.prz.pw,swzz.xyz,mixfaucet.com,crazyblog.in,adlinkweb.com,linkbr.xyz,baominh.tech,shortz.one,newsalret.com,clickscoin.com,seulink.online,toptap.website,ez4short.com,gtlink.co,upshrink.com,beingtek.com,link.rota.cc,insuranceblog.xyz,coinsparty.com,katflys.com,webo.one,linkfly.io,coinadfly.com,ownurl.site,coinsurl.com,clk.ink,dl.tech-story.net,cpm10.org,theicongenerator.com,rancah.com,kingurls.com,link.asiaon.top,download.sharenulled.net,lucidcam.com,clikern.com,adsmoker.com,gifans.com,zipurls.com,theblissempire.com,xfiles.io,upfiles.*,filezipa.com,arab-chat.club,dz-linkk.com,jp88.xyz,shorterall.com,promo-visits.site,cryptourl.net,shrink.icu,rshrt.com,ptc.wtf,tei.ai,exey.*,url4cut.xyz,claimfreebits.com,shrlink.top,webshort.in,eririo.club,jameeltips.us,freshi.site,yxoshort.com,pewgame.com,turkdown.com,foxseotools.com,earnwithshortlink.com,tui.click,shrx.in,short.food-royal.com,linkpoi.me,adpop.me,galaxy-link.space,link.ltc24.com,kiiw.icu,vshort.link,adnit.xyz,fwarycash.moviestar.fun,finanzas-vida.com,linkebr.com,clickhouse.xyz,bloggingguidance.com,smoner.com,charexempire.com,cut-fly.com,tl.tc,forex-trnd.com,linkshorts.*,mycut.me,cuts-url.com,gainbtc.click,voxc.org,gonety.com,menjelajahi.com,st23q.com,hotel.menjelajahi.com,viraloc.com,beautyram.info,ccurl.net,shrt10.com,yourtechnology.online,1shorten.com,cashearn.cc,cryptoads.space,adcorto.me,shrinkforearn.in,seulink.net,modapk.link,holaurl.com,adbl.live,miklpro.com,kutt.io,afly.pro,cutlink.link,short88.com,pngit.live,exe.app,adcorto.xyz,okec.uk,viral-topics.com,paidtomoney.com,passgen.icu,lite-link.xyz,pureshort.link,recipestutorials.com,droplink.co,tawiia.com,vvc.vc,lite-link.com,bdnewsx.com,curto.win,linksfire.co,internewstv.com,ivn3.com,illink.net,4rl.ru,trinddz.com,ilinks.in,techupme.com,bitfly.io,earnguap.com,imagenesderopaparaperros.com,pslfive.com,url.namaidani.com,c-ut.com,toroox.com,4cash.me,shrinkme.in,fir3.net,softairbay.com,link1s.net,doctor-groups.com,abdeo8.com,apksvip.com,gibit.xyz,claimcrypto.cc,pkr.pw,todaynewspk.win,shrinke.me,wordcounter.icu,try2link.net,stfly.me,shorthub.co,dz4win.com,real-sky.com,bolssc.com,short2.cash,fx4vip.com,cutdl.xyz,shortearn.in,megalink.vip,adsrt.live,linksly.co,link1s.*,veneapp.com,cheappath.com,shortzon.com,arabplus2.co,linkurl.me,profitlink.info,zagl.info,shorthitz.com,savelink.site,axuur.com,tmearn.com,samapro.me,mondainai.moe,2ota.com,pnd.*,popimed.com,tipsforce.com,aii.sh,intothelink.com,7r6.com,iir.ai,tii.ai,biroads.com,adsrt.net,afly.us,coredp.com,bestearnonline.com,dz4link.com,gamesrs.com,ouofly.com,clicksbee.com,linkshrnk.com,linkad.in,fc.lc,techrfour.com,exee.io,rifurl.com,shurt.pw,owllink.net,birdurls.com,oncehelp.com,donia2link.com,cutlinks.pro,adclic.pro,shortpaid.com,s-url.xyz,adbull.tech,adbull.org,slink.bid,wplink.online,linkviet.xyz,dutchycorp.space,encurta.eu,adsrt.org,leechpremium.link,earnload.co,gpmojo.co,shrinkhere.xyz,readnnews.com,bitearns.com,wheeledu.com,gplinks.co,sedoinfo.com,memoo.xyz,neonlink.net,cashurl.in,bitcoinly.in,wealthh.xyz,supersimple.online,freeshrinker.com,linkviet.top,salez.site,unishort.com,dayy.site,caat.site,shortearn.eu,adbull.site,shrinx.net,2xs.io,earnload.com,jo2win.com,spiin.xyz,cleft.xyz,repayone.net,adslinkfly.online,ndoqp.com,go99tech.com,gplinks.in,waar.site,stfly.io,seosence.com,eio.io,cutwin.com,uii.io,acorpe.com,shrinkerhub.com,techbeast.xyz,techofaqs.com,zoom-link.com,short.pe,myhealthlytips.com,shorten.sh,megalink.pro,pingit.im,clik.pw,uiz.io,latestseoupdate.com,payskip.org,fasshi.xyz,shrinkme.io,urlcloud.us,2-cars.club,ex-foary.com,linkfinal.com,dearresult.com,ultraurls.com,shrinkurl.org,exe.io,liclink.com,shortearn.org,linkviet.net,adsafelink.com,enrt.eu,lkop.me,trendfaq.com,linkvietvip.com,suqdz.com,trendpick.info,egovtjob.in,getlink.deadtoonsindia.net,digitallearn.online,bollyreveal.com,shrtfly.net,mysiterank.org,digitalcafez.com,shotfly.in,adbilty.me##+js(set-constant, app_vars.force_disable_adblock, undefined)
 #@#.ad-box
 ckk.ai,xpshort.com#@#.ad-BANNER
@@ -9013,6 +9027,7 @@ $xmlhttprequest,third-party,denyallow=linkvertise.com|fastly.net|statically.io|s
 ||olalivehdplay.ru/blast.js
 ||lovesomecommunity.com/blast.js
 ||b4ucast.com/blast.js
+desidime.com##div[id^="div-ad"]
 coincodex.com##.ldb-top2
 coincodex.com##.StickyBottom
 coincodex.com##.side-col div[class][style]:has(> a[target="_blank"] > img)
@@ -22441,6 +22456,7 @@ browsershots.org#@#.advert_area
 ||cagothie.net^
 ||caiteesh.net^
 ||caizutoh.xyz^
+||cajanwammus.top^
 ||cajrijrhov.com^
 ||calamitydisc.com^
 ||calcpol.com^
@@ -22704,6 +22720,7 @@ browsershots.org#@#.advert_area
 ||chitika.net^
 ||chitsnooked.com^
 ||chl7rysobc3ol6xla.com^
+||chnmating.top^
 ||choaboox.com^
 ||choachim.com^
 ||choaglee.com^
@@ -22719,6 +22736,7 @@ browsershots.org#@#.advert_area
 ||chooroogru.net^
 ||chooxaur.com^
 ||choppedwhisperinggirlie.com^
+||choreasjayhawk.top^
 ||choruslockdownbumpy.com^
 ||choto.xyz^
 ||choughigrool.com^
@@ -24989,6 +25007,7 @@ browsershots.org#@#.advert_area
 ||gaunchdelimes.com^
 ||gauntletjanitorjail.com^
 ||gaustele.xyz^
+||gautauzaiw.com^
 ||gauvaiho.net^
 ||gauwoocoasik.com^
 ||gauzedecoratedcomplimentary.com^
@@ -25663,6 +25682,7 @@ browsershots.org#@#.advert_area
 ||hognaivee.com^
 ||hohamsie.net^
 ||hoickpinyons.com^
+||hoidenzaniest.top^
 ||hoisquit.buzz^
 ||hokarsoud.com^
 ||holdenthusiastichalt.com^
@@ -25784,6 +25804,7 @@ browsershots.org#@#.advert_area
 ||huronews.com^
 ||hurriedpiano.com^
 ||husbandnights.com^
+||husbihasqf.com^
 ||husfly.com^
 ||huskypartydance.com^
 ||huvohjvpaog.com^
@@ -26330,6 +26351,7 @@ browsershots.org#@#.advert_area
 ||jkdzimao.com^
 ||jkha742.xyz^
 ||jkwxaryiaoof.com^
+||jkzakzalzoewy.top^
 ||jlcvoastmbsk.com^
 ||jlfqyjbkea.com^
 ||jljejxvgnk.com^
@@ -26497,6 +26519,7 @@ browsershots.org#@#.advert_area
 ||kelekkraits.com^
 ||kendosliny.com^
 ||kenoscoulee.com^
+||kentlecosts.top^
 ||keppendragoon.top^
 ||kerryfluence.com^
 ||kesseolluck.com^
@@ -26755,6 +26778,7 @@ browsershots.org#@#.advert_area
 ||lcncbusdg.com^
 ||lcrhtauvic.com^
 ||lcwoewvvmhj.com^
+||lcxxwxo.com^
 ||ldcadfuway.com^
 ||ldrenandthe.org^
 ||lduhtrp.net^
@@ -27604,6 +27628,7 @@ browsershots.org#@#.advert_area
 ||muffled-apartment.com^
 ||mugpothop.com^
 ||mugrikees.com^
+||muhlyramrod.top^
 ||muipe.xyz^
 ||mukhtarproving.com^
 ||mulberrydoubloons.com^
@@ -29911,6 +29936,7 @@ browsershots.org#@#.advert_area
 ||rndhaunteran.com^
 ||rndnoibattor.com^
 ||rndskittytor.com^
+||rnhsrsn.com^
 ||rnldustal.com^
 ||rnmd.net^
 ||rnmentsecon.xyz^
@@ -32815,6 +32841,7 @@ browsershots.org#@#.advert_area
 ||xmlppcbuzz.com^
 ||xmlrtb.com^
 ||xmlwiz.com^
+||xmqmuitc.com^
 ||xms.lol^
 ||xmsflzmygw.com^
 ||xnedglnnwrexss.com^
@@ -33016,6 +33043,7 @@ browsershots.org#@#.advert_area
 ||yyselrqpyu.com^
 ||yzlfobyscos.com^
 ||zabanit.xyz^
+||zacatevouchee.top^
 ||zachunsears.com^
 ||zaemi.xyz^
 ||zaihxti.com^
