@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: VYgR7emCZ8ZqEQtI4G/BqQ
-! Version: 202403301501
+! Checksum: d6hLmqUNBPpxMbDKlc/YQg
+! Version: 202403301811
 ! Title: EasyList
-! Last modified: 30 Mar 2024 15:01 UTC
+! Last modified: 30 Mar 2024 18:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17078,6 +17078,7 @@ _800x80_
 ##.widget-group-Ads
 ##.widget-highlight-ads
 ##.widget-sponsor
+##.widget-sponsor--container
 ##.widget-text-ad
 ##.widget.carbonads-widget
 ##.widget1-ad
@@ -67543,6 +67544,7 @@ filepuma.com##.cRight_footer
 fmforums.com##.cWidgetContainer
 money.com##.ca-widget-inline
 thecable.ng##.cableads_mid
+strategie-bourse.com##.cadre_encadre_pub
 cafonline.com##.caf-o-sponsors-nav
 clutchpoints.com##.cafemedia-clutchpoints-header
 challonge.com##.cake-unit
