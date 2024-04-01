@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: vbEE7/GCfEjV0sZwN6nzKg
-! Diff-Path: ../patches/224_optimized/224_optimized-s-1711946208-3600.patch
+! Checksum: e56jZ0VhDIuXz94oaFg9mw
+! Diff-Path: ../patches/224_optimized/224_optimized-s-1711971446-3600.patch
 ! Title: AdGuard Chinese filter (Optimized)
 ! Description: EasyList China + AdGuard Chinese filter. Filter list that specifically removes ads on websites in Chinese language.
-! Version: 2.1.13.48
-! TimeUpdated: 2024-04-01T04:32:29+00:00
+! Version: 2.1.13.50
+! TimeUpdated: 2024-04-01T11:32:38+00:00
 ! Expires: 5 days (update frequency)
 ||1x5jlh.xyz^$popup
 ||98765.pw^
@@ -263,6 +263,7 @@ yunduanxin.xyz###adb-mask
 yaociyuan.bid##+js(set-constant, killads, true)
 520cc.cc##+js(no-setTimeout-if, myModal)
 520cc.cc##+js(set-constant, all520dddaaa2022ccc, true)
+@@||520click.com/ad.php$domain=520cc.cc
 manwa.me#@#.ad-area
 manwa.me#$#.ad-area { position: absolute !important; left: -3000px !important; }
 ||manwa.me/static/custom/files/300X250.gif$image,redirect=1x1.gif,important
@@ -4512,6 +4513,7 @@ newduba.cn###jq_youxi
 ||fmssoj.icu^
 ||mpn56e.cn^
 ||polepole.cn^
+||jyuwkba.top^
 ||zsjpi.cn^
 ||zttuvj.xyz^
 ||ztxjutz.xyz^
@@ -20775,6 +20777,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=bhshu.net|louzho
 @@||dushu.ru^$script,domain=bhshu.net
 @@||zhaiyd5.com^$script,domain=louzhong8.com|miwens.com
 bamxs.com##body > a
+bamxs.com###inglestore
 bookrb.com##a[href="/rmtj.html"]
 booktxts.com##div[style*="position:"]
 bxwx888.org###addiv3
