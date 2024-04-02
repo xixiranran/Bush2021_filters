@@ -1,11 +1,12 @@
 ![Adblock Plus 2.0]
-! Checksum: Q8bxL3tCYUcWYHzfhJVTmA
-! Diff-Path: ../patches/2_optimized/2_optimized-s-1712047168-3600.patch
+! Checksum: 8pNU5uGj+NDzNIDZAiTGnw
+! Diff-Path: ../patches/2_optimized/2_optimized-s-1712057833-3600.patch
 ! Title: AdGuard Base filter + EasyList (Optimized)
 ! Description: EasyList + AdGuard English filter. This filter is necessary for quality ad blocking.
-! Version: 2.3.29.31
-! TimeUpdated: 2024-04-02T08:33:21+00:00
+! Version: 2.3.29.34
+! TimeUpdated: 2024-04-02T11:33:09+00:00
 ! Expires: 5 days (update frequency)
+||cryptoatom.care^
 ||rokymedia.com^
 ||pregainpotgut.top^
 ||dedukicationan.info^
@@ -1231,7 +1232,7 @@ freemcserver.net##+js(abort-on-property-read, stpd)
 @@||static.foxnews.com/static/strike/scripts/libs/prebid.js$domain=freemcserver.net
 freemcserver.net##+js(abort-on-property-read, pbjs)
 $subdocument,redirect-rule=noop.html,domain=ytlarge.com
-@@||ytlarge.com^$script,subdocument,~third-party
+@@||ytlarge.com^$script,subdocument,xmlhttprequest,~third-party
 @@||fundingchoicesmessages.google.com^$domain=ytlarge.com
 @@||pagead2.googlesyndication.com^$domain=ytlarge.com
 @@||tpc.googlesyndication.com^$domain=ytlarge.com
@@ -5571,6 +5572,7 @@ gostynska.pl,ddbelchatow.pl,jarocinska.pl,klodzko24.eu,nowaruda24.pl,portalplock
 glospowiatusredzkiego.pl,wgospodarce.pl,gostynska.pl,ddbelchatow.pl,jarocinska.pl,klodzko24.eu,nowaruda24.pl,portalplock.pl,korsosanockie.pl,korsokolbuszowskie.pl,korso.pl,korso24.pl,forsal.pl,zwielkopolski24.pl,se.pl,dziennik.pl,rawicz24.pl,tko.pl,tvn.pl,roweroweporady.pl,tulodz.pl,weszlo.com##+js(set-constant, questpassGuard, noopFunc)
 roweroweporady.pl#@#.ad_container
 ||cdn.questvert.pl/publishers/*/qpscript.js
+motofocus.pl###placeholder-billboard
 stockwatch.pl##div[class*="-"] > span[data-adsourl]:first-child + img:last-child
 stockwatch.pl##div[class*="-"]:has(> span[data-adsourl]:first-child + img:last-child)
 inzynieria.com##.karta-art-qs
@@ -5765,6 +5767,7 @@ ciekawostkihistoryczne.pl#@#.full-width-ad
 ciekawostkihistoryczne.pl##.placeholderAds
 tubagliwic.pl##+js(abort-current-script, $, adshowed)
 biznesradar.pl##.ac--billboard
+bithub.pl##div[class^="clickout-native_"]
 bithub.pl##div[data-adid] > a[target="_blank"] > img
 zmiksowani.pl#@#.gadContainer
 zmiksowani.pl##+js(set-constant, isAdFucker, false)
@@ -9145,6 +9148,8 @@ $xmlhttprequest,third-party,denyallow=linkvertise.com|fastly.net|statically.io|s
 ||olalivehdplay.ru/blast.js
 ||lovesomecommunity.com/blast.js
 ||b4ucast.com/blast.js
+imgur.com##div[id*="/InContent/"][style*="min-height: 250px;"]
+amateurpornvidz.com##div[style="height:280px;"]
 luxuretv.com##iframe[data-src^="https://rokymedia.com/"]
 luxuretv.com###vz_im_ad
 arcfly.net##.elementor-widget-foxiz-ad-image
