@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Sr3qPLFbe2NxmRAg9BysSg
-! Version: 202404040100
+! Checksum: qDT/pGLp/5DVXoJf4JqP4A
+! Version: 202404040311
 ! Title: EasyList
-! Last modified: 04 Apr 2024 01:00 UTC
+! Last modified: 04 Apr 2024 03:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -63697,6 +63697,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||123animehub.cc/final
 ||1337x.*/images/x28.jpg
 ||1337x.*/images/x2x8.jpg
+||1337x.vpnonly.site^
 ||2merkato.com/images/banners/
 ||2oceansvibe.com/?custom=takeover
 ||4f.to/spns/
@@ -67547,6 +67548,7 @@ hanime.tv##.desktop.htvad
 randomarchive.com##.desktop[style="text-align:center"]
 australiangolfdigest.com.au##.desktop_header
 inquirer.net##.desktop_smdc-FT-survey
+cyclingstage.com##.desktopad
 coingape.com##.desktopds
 flashscore.co.za,flashscore.com,livescore.in,soccer24.com##.detailLeaderboard
 floridapolitics.com##.dfad
@@ -72480,6 +72482,7 @@ redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youp
 @@||moatads.com^$script,domain=imsa.com
 @@||motortrader.com.my/advert/$image,~third-party
 @@||mtouch.facebook.com/ads/api/preview/$domain=business.facebook.com
+@@||nascar.com/wp-content/themes/ndms-2023/assets/js/inc/ads/prebid8.$~third-party
 @@||newscgp.com/prod/prebid/nyp/pb.js$domain=nypost.com
 @@||nextcloud.com/remote.php/$~third-party,xmlhttprequest
 @@||nflcdn.com/static/site/$script,domain=nfl.com
