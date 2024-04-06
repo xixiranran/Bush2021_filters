@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: SVALpK46RDdBNGK04WEqUw
-! Version: 202404060311
+! Checksum: LdSAD8TyEcYBzcZH8hPt8w
+! Version: 202404060611
 ! Title: EasyList
-! Last modified: 06 Apr 2024 03:11 UTC
+! Last modified: 06 Apr 2024 06:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1344,6 +1344,7 @@
 ://promo.$~media,third-party,domain=~myshopify.com|~promo.com|~shopifycloud.com|~slidely.com
 ://pt.*?psid=$third-party
 ://uads.$third-party,xmlhttprequest
+=bT1zdXY1JnI9$third-party,xmlhttprequest
 =half-page-ad&
 ?ab=1&zoneid=
 ?adspot_
@@ -36502,6 +36503,7 @@ browsershots.org#@#.advert_area
 ||ksehinkitw.hair^
 ||kshzlyvbaaa.com^
 ||ksnbiepnvjdi.com^
+||ksnbtmz.com^
 ||kssvsjfhxpzwfd.com^
 ||kstjqjuaw.xyz^
 ||kstvhknmhfppbf.com^
@@ -65264,6 +65266,7 @@ tweaktown.com###DesktopTop
 newser.com###DivStoryAdContainer
 stripes.com###FeatureAd
 esports.gg,howlongagogo.com,neatorama.com###FreeStarVideoAdContainer
+esports.gg###FreeStarVideoAdContainer_VCT
 titantv.com###GridPlayer
 appatic.com,gamescensor.com###HTML2
 fanlesstech.com###HTML2 > .widget-content
