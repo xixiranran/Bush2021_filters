@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: 1Sog1Y83HjTBwAc5SgWGBA
-! Diff-Path: ../patches/19_optimized/19_optimized-s-1712673748-3600.patch
+! Checksum: Yb0BZu37rV8LnDwfvWwpXQ
+! Diff-Path: ../patches/19_optimized/19_optimized-s-1712684241-3600.patch
 ! Title: AdGuard Popups filter (Optimized)
 ! Description: Blocks all kinds of pop-ups that are not necessary for websites' operation according to our Filter policy.
-! Version: 2.0.34.53
-! TimeUpdated: 2024-04-09T14:37:41+00:00
+! Version: 2.0.34.55
+! TimeUpdated: 2024-04-09T17:33:39+00:00
 ! Expires: 5 days (update frequency)
 ://yandex.*/images/_$xmlhttprequest,method=post
 ya.ru,yandex.*##:matches-path(/images).Root > div.MastHead
@@ -1560,6 +1560,11 @@ api.flocktory.com
 ||unpkg.com/@textback/notification-widget
 ||widget.pico.tools^$third-party
 ||widget.privy.com^$third-party
+lopinion.fr#$#body > div.tp-modal:has(> div.tp-iframe-wrapper > iframe[id^="offer-"]) { display: none !important; }
+lopinion.fr#$#.tp-backdrop { display: none !important; }
+lopinion.fr#$#html > body[class] { overflow: auto !important; touch-action: auto !important; height: auto !important; }
+lopinion.fr#$#html { overflow: auto !important; touch-action: auto !important; }
+lopinion.fr##.agfFooter
 docsity.com##+js(set-session-storage-item, closeIntentModalShown, 1)
 pakamera.pl##+js(set-cookie, viewedpaw, true)
 qiita.com##.style-1y0vgst
@@ -7779,6 +7784,7 @@ ithillel.ua##.widget-lead-magnet_form
 kto-chto-gde.ru##.banner-yandex
 bmu.edu.in##.sticky > li:has(> p.subs)
 paramountplus.com###feedback-form
+today.ua##.article_telegram
 pokeroff.ru##.top-banner
 riatomsk.ru##.stat-zen
 riatomsk.ru##.master-notice
