@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: PSv39E7QvaPqTI5ds7iDSg
-! Version: 202405280620
+! Checksum: IMphtgDz0EWK9/khdV8VPg
+! Version: 202405280911
 ! Title: EasyList
-! Last modified: 28 May 2024 06:20 UTC
+! Last modified: 28 May 2024 09:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -16108,6 +16108,7 @@ miuithemers.com#@#.ads-left
 hatenacorp.jp,milf300.com#@#.ads-link
 forbes.com#@#.ads-loaded
 fireload.com#@#.ads-mobile
+fuse-box.info#@#.ads-row
 juicesky.com#@#.ads-title
 pop-music.ir#@#.ads-top
 mastersclub.jp#@#.ads.widget
