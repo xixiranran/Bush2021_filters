@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: PwgICLB7IiDqYH7EyLMSMw
-! Version: 202406241231
+! Checksum: VeqatkYnw+NmgHDMQzg74A
+! Version: 202406241511
 ! Title: EasyList
-! Last modified: 24 Jun 2024 12:31 UTC
+! Last modified: 24 Jun 2024 15:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -487,7 +487,6 @@
 /banman/ad.aspx
 /banner-ad-
 /banner-ad.$~script
-/banner-ad_
 /banner-ads-rotator/*$script,stylesheet
 /banner-ads/*$image,domain=~1agosto.com
 /banner-affiliate-$image
@@ -564,7 +563,7 @@
 /dfpNew.min.js
 /didna_config.js
 /direct.hd?n=
-/discourse-adplugin-
+/discourse-adplugin-$script
 /displayad?
 /displayAdFrame.
 /dmcads_$script
@@ -784,7 +783,6 @@
 /plugins/ad-invalid-click-protector/*$script
 /plugins/adrotate-pro/*$script
 /plugins/adrotate/*$script
-/plugins/ads-
 /plugins/ads/*$~xmlhttprequest
 /plugins/adsanity-$script,stylesheet
 /plugins/advanced-ads/*$domain=~wordpress.org
@@ -869,7 +867,6 @@
 /resources/ads/*$~xmlhttprequest
 /responsive/ad_$subdocument
 /responsive_ads.js
-/right-ad-
 /right_ad.
 /right_ads.
 /rightad.js
@@ -64407,6 +64404,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||phuketwan.com/img/b/
 ||picrew.me/vol/ads/
 ||pimpandhost.com/mikakoki/
+||pinkmonkey.com/includes/right-ad-columns.html
 ||pixlr.com/dad/
 ||pixlr.com/fad/
 ||plainenglish.io/assets/sponsors/
@@ -71344,7 +71342,7 @@ greatandhra.com##ul.sortable-list > div
 backgrounds.wetransfer.net##we-wallpaper
 ! :has()
 puzzle-aquarium.com,puzzle-battleships.com,puzzle-binairo.com,puzzle-bridges.com,puzzle-chess.com,puzzle-dominosa.com,puzzle-futoshiki.com,puzzle-galaxies.com,puzzle-heyawake.com,puzzle-hitori.com,puzzle-jigsaw-sudoku.com,puzzle-kakurasu.com,puzzle-kakuro.com,puzzle-killer-sudoku.com,puzzle-light-up.com,puzzle-lits.com,puzzle-loop.com,puzzle-masyu.com,puzzle-minesweeper.com,puzzle-nonograms.com,puzzle-norinori.com,puzzle-nurikabe.com,puzzle-pipes.com,puzzle-shakashaka.com,puzzle-shikaku.com,puzzle-shingoki.com,puzzle-skyscrapers.com,puzzle-slant.com,puzzle-star-battle.com,puzzle-stitches.com,puzzle-sudoku.com,puzzle-tapa.com,puzzle-tents.com,puzzle-thermometers.com,puzzle-words.com###Skyscraper:has(> #bannerSide)
-windowscentral.com###article-body > [data-widget-id].hawk-nest:has(.hawk-affiliate-link-button)
+windowscentral.com###article-body > .hawk-nest[data-widget-id]:has(a[class^="hawk-affiliate-link-"][class$="-button"])
 puzzle-aquarium.com,puzzle-battleships.com,puzzle-binairo.com,puzzle-bridges.com,puzzle-chess.com,puzzle-dominosa.com,puzzle-futoshiki.com,puzzle-galaxies.com,puzzle-heyawake.com,puzzle-hitori.com,puzzle-jigsaw-sudoku.com,puzzle-kakurasu.com,puzzle-kakuro.com,puzzle-killer-sudoku.com,puzzle-light-up.com,puzzle-lits.com,puzzle-loop.com,puzzle-masyu.com,puzzle-minesweeper.com,puzzle-nonograms.com,puzzle-norinori.com,puzzle-nurikabe.com,puzzle-pipes.com,puzzle-shakashaka.com,puzzle-shikaku.com,puzzle-shingoki.com,puzzle-skyscrapers.com,puzzle-slant.com,puzzle-star-battle.com,puzzle-stitches.com,puzzle-sudoku.com,puzzle-tapa.com,puzzle-tents.com,puzzle-thermometers.com,puzzle-words.com###btIn:has(> #bannerTop)
 winaero.com###content p:has(~ ins.adsbygoogle)
 radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.pt,radio.se###headerTopBar ~ div > div:has(div#RAD_D_station_top)
