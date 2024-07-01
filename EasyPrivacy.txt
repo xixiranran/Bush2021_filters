@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: J4M54Uc0TG2uya0pp9WZuA
-! Version: 202407011820
+! Checksum: EipPbsjPd5WFRzq1uAr33Q
+! Version: 202407012111
 ! Title: EasyPrivacy
-! Last modified: 01 Jul 2024 18:20 UTC
+! Last modified: 01 Jul 2024 21:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2162,6 +2162,7 @@
 /swell-ct-ad-data
 /swell-ct-pv^
 /swlapi/stats|
+/symplr-analytics-
 /sync.gif?partner_
 /sync?visitor_id=
 /synd.aspx
@@ -11198,6 +11199,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||api.privacyguides.net^
 ||api.streamelements.com/science/
 ||api.takealot.com^$ping
+||api.vk.com/method/statEvents.
 ||app-bnkr.b-cdn.net/js/lv.js
 ||app.box.com/app-api/split-proxy/api/metrics
 ||app.box.com/gen204
