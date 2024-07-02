@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: M7hSjqqLp1FsIZt2do3SvA
-! Version: 202407020910
+! Checksum: dA0mWv84Wr/MnFNEJnaI9g
+! Version: 202407021231
 ! Title: EasyList
-! Last modified: 02 Jul 2024 09:10 UTC
+! Last modified: 02 Jul 2024 12:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -13831,6 +13831,7 @@ _800x80_
 ##.showads
 ##.showcaseAd
 ##.showcasead
+##.shr-ads-container
 ##.sidbaread
 ##.side-ad
 ##.side-ad-300
@@ -55909,6 +55910,7 @@ browsershots.org#@#.advert_area
 ||bc98ad.xyz^$document,popup
 ||bcbe.site^$document,popup
 ||bd5a57.xyz^$document,popup
+||c31133f7.xyz^$document,popup
 ||ca3d.site^$document,popup
 ||ca9246.xyz^$document,popup
 ||caa2c4.xyz^$document,popup
@@ -55917,6 +55919,7 @@ browsershots.org#@#.advert_area
 ||cfb98a.xyz^$document,popup
 ||content-loader.com^$document,popup
 ||css-load.com^$document,popup
+||d23d450d.xyz^$document,popup
 ||d477275c.xyz^$document,popup
 ||d84bc26d.site^$document,popup
 ||d8b0a5.xyz^$document,popup
@@ -65800,6 +65803,7 @@ kentonline.co.uk##.LeaderBack
 fivebooks.com##.Leaderboard-container
 nationalgeographic.com##.LinkedImage
 inverness-courier.co.uk,johnogroat-journal.co.uk,stamfordmercury.co.uk##.MPU
+tenby-today.co.uk##.MPUstyled__MPUWrapper-sc-1cdmm4p-0
 wayfair.com##.MediaNativePlacement-wrapper-link
 engadget.com##.Mih\(90px\)
 medievalists.net##.Mnet_TopLeft_970x250
@@ -65854,6 +65858,7 @@ engadget.com##.Td\(n\).Bdbc\(engadgetGutter\).Py\(40px\)
 dictionary.com##.TeixwVbjB8cchva8bDlg
 imgur.com##.Top300x600
 cnbc.com##.TopBanner-container
+tenby-today.co.uk##.TopBannerstyled__Wrapper-sc-x2ypns-0
 topgear.com##.TopContainer-sc-cy9ye3-1
 ndtv.com##.TpGnAd_ad-wr
 dappradar.com##.Tracker__StyledSmartLink-sc-u8v3nu-0
@@ -65934,6 +65939,7 @@ manualslib.com##.abp_adv_s-title
 pocketgamer.com##.abs
 albertsons.com##.abs-carousel-proxy > [aria-label="Promo or Ad Banner"]
 tfn.scot##.absolute-leaderboard
+tfn.scot##.absolute-mid-page-unit
 breitbart.com##.acadnotice
 gamesystemrequirements.com##.act_eng
 sneakernews.com##.active-footer-ad
@@ -66645,6 +66651,7 @@ myanimelist.net##.border_top
 appleinsider.com##.bottom
 blockchair.com##.bottom--buttons-container
 downforeveryoneorjustme.com,health.clevelandclinic.org##.bottom-0.fixed
+indiatimes.com##.bottom-ad-height
 reverso.net##.bottom-horizontal
 photographyreview.com##.bottom-leaderboard
 dappradar.com##.bottom-networks
