@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: wHTjocatZ2369JSHUMo45w
-! Diff-Path: ../patches/2_optimized/2_optimized-s-1720095166-3600.patch
+! Checksum: 0ta97YfDVwY0YUHskut0ug
+! Diff-Path: ../patches/2_optimized/2_optimized-s-1720103912-3600.patch
 ! Title: AdGuard Base filter + EasyList (Optimized)
 ! Description: EasyList + AdGuard English filter. This filter is necessary for quality ad blocking.
-! Version: 2.3.42.57
-! TimeUpdated: 2024-07-04T12:05:58+00:00
+! Version: 2.3.42.59
+! TimeUpdated: 2024-07-04T14:31:57+00:00
 ! Expires: 5 days (update frequency)
 ||xlvul.ajscdn.com^
 ||ahmar2four.xyz^
@@ -1628,6 +1628,9 @@ youporn.com##+js(remove-node-text, script, /window\.[\s\S]*?_zone_[\s\S]*?{"zone
 #@#.ads_banner
 ##.stickyads:not([style^="width: 32px"], [style^="width: 33px"], [style*="left: -43px"]):not(:empty)
 ##.ads_banner:not([style^="width: 32px"], [style^="width: 33px"])
+@@||timesunion.com/sites/jquery.adx.js
+@@||n730.timesunion.com/script.js
+||n730.timesunion.com/script.js$script,redirect=noop.js,important
 ||popcdn.day/magnitude.js
 u.co.uk##+js(no-fetch-if, v.fwmrm.net)
 theouterhaven.net##+js(addEventListener-defuser, load, detect-modal)
@@ -9465,6 +9468,10 @@ $script,third-party,denyallow=authkong.com|rsc.cdn77.org|linkvertise.com|fastly.
 $xmlhttprequest,third-party,denyallow=authkong.com|rsc.cdn77.org|linkvertise.com|fastly.net|statically.io|sharecast.ws|b-cdn.net|bunnycdn.ru|bootstrapcdn.com|cdn.ampproject.org|cloudflare.com|cdn.staticfile.org|disqus.com|disquscdn.com|dmca.com|ebacdn.com|facebook.net|fastlylb.net|fbcdn.net|fluidplayer.com|fontawesome.com|github.io|google.com|googleapis.com|googletagmanager.com|gstatic.com|jquery.com|jsdelivr.net|jwpcdn.com|jwplatform.com|polyfill.io|recaptcha.net|shrink.pe|twitter.com|ulogin.ru|unpkg.com|userapi.com|vidazoo.com|vk.com|yastatic.net|ytimg.com|zencdn.net|youtube.com|cackle.me|googleoptimize.com|vuukle.com|chatango.com|twimg.com|google-analytics.com|hcaptcha.com|raincaptcha.com|media-imdb.com|blogger.com|hwcdn.net|instagram.com|wp.com|fastcomments.com|plyr.io|cloudflare.net|rabbitstream.net|x.com,_____,domain=everia.club|projectfreetv.cyou|theflixertv.to|skidrowreloaded.com|upmovies.net|kickassanime.*|thestreameast.to|dlhd.*|nxbrew.com|ziperto.com|nowmaxtv.com
 ||claplivehdplay.ru/blast.js
 ||olalivehdplay.ru/blast.js
+goal.com##.component-promo-panels
+timesunion.com##div.package:has(> div > div[data-block-type="ad"])
+timesunion.com##div[data-eid="item-100624"]
+mobalytics.gg##div[style^="width: 400px; height:"]
 nayisahara.com##center > #btnx
 nayisahara.com##div[id$="-Ads"]
 foxnxx.com##div[style^="height:250px;max-width:300px;"]
@@ -19278,6 +19285,7 @@ browsershots.org#@#.advert_area
 ||1xroom.com^
 ||2020mustang.com^
 ||2022welcome.com^
+||2024jphatomenesys36.top^
 ||206ads.com^
 ||21wiz.com^
 ||22media.world^
@@ -19891,6 +19899,7 @@ browsershots.org#@#.advert_area
 ||aortismbutyric.com^
 ||ap3lorf0il.com^
 ||apatheticdrawerscolourful.com^
+||apcatcltoph.com^
 ||apglinks.net^
 ||api168168.com^
 ||apidata.info^
@@ -20728,6 +20737,7 @@ browsershots.org#@#.advert_area
 ||ciksolre.net^
 ||ciliarycetus.com^
 ||cimm.top^
+||cincherdatable.com^
 ||cinuraarrives.com^
 ||cipledecline.buzz^
 ||cippusforebye.com^
@@ -20832,6 +20842,7 @@ browsershots.org#@#.advert_area
 ||coinverti.com^
 ||colarak.com^
 ||coldflownews.com^
+||coldnessswarthyclinic.com^
 ||colenhackbut.com^
 ||colerajute.com^
 ||coliassfeurytheme.com^
@@ -22114,6 +22125,7 @@ browsershots.org#@#.advert_area
 ||grunikpazp.com^
 ||grunoaph.net^
 ||grushoungy.com^
+||gruwrebutnar.com^
 ||grygrothapi.pro^
 ||gscontxt.net^
 ||gsjln04hd.com^
@@ -22546,6 +22558,7 @@ browsershots.org#@#.advert_area
 ||instinctiveads.com^
 ||instructive-glass.com^
 ||instrumenttactics.com^
+||insultresignation.com^
 ||inswebt.com^
 ||integritydeceptive.com^
 ||intellectualhide.com^
@@ -23550,6 +23563,7 @@ browsershots.org#@#.advert_area
 ||newsyour.net^
 ||newtits.name^
 ||newvideoapp.pro^
+||newwinner.life^
 ||newzmaker.me^
 ||nextpsh.top^
 ||nezygmobha.com^
@@ -24757,6 +24771,7 @@ browsershots.org#@#.advert_area
 ||roledale.com^
 ||rollads.live^
 ||rollserver.xyz^
+||rolpenszimocca.com^
 ||romanticwait.com^
 ||romanunhedge.com^
 ||romashk9arfk10.com^
@@ -27805,6 +27820,7 @@ browsershots.org#@#.advert_area
 ||creative.141live.com^
 ||creative.myasian.live/widgets/
 ||creative.myavlive.com^
+||creative.tklivechat.com^
 ||deliver.ptgncdn.com^
 ||jeewoo.xctd.me^
 ||livejasmin.com^$third-party,domain=~awempire.com
@@ -30416,6 +30432,7 @@ beeg.porn##[class^="bb_show_"]
 hotleaks.tv,javrank.com##[class^="koukoku"]
 tube8.com##[data-spot-id]
 pornhub.com,redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youporngay.com##[href*="data:"]
+jav.gallery##[href="https://jjgirls.com/sex/GoChaturbate"]
 usasexguide.nl##[href^="https://instable-easher.com/"]
 ryuugames.com,yaoimangaonline.com##[href^="https://l.erodatalabs.com/s/"] > img
 sankakucomplex.com##[href^="https://s.zlink3.com/d.php"]
