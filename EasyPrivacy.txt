@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: frB++F+qhWlacxtHBo3Xig
-! Version: 202407091511
+! Checksum: SZ1fwdWYZhUTrp26Ql3yrA
+! Version: 202407091821
 ! Title: EasyPrivacy
-! Last modified: 09 Jul 2024 15:11 UTC
+! Last modified: 09 Jul 2024 18:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2802,6 +2802,9 @@ _WebVitalsReporter_
 ! *** easylist:easyprivacy/easyprivacy_general_emailtrackers.txt ***
 ! easyprivacy_general_emailtrackers.txt
 ! Email tracking pixels
+%2Fevent.gif%3F
+%2Fo.gif&
+%2Fopen.aspx%3F
 &mi_ecmp=
 -track-email-open?
 .acemlna.com/lt.php?$image
