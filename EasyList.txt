@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: /rJdSpBjIi4uMKKafD1a+g
-! Version: 202407090311
+! Checksum: jSq20QsnmwtTy2D8O4U8ww
+! Version: 202407090911
 ! Title: EasyList
-! Last modified: 09 Jul 2024 03:11 UTC
+! Last modified: 09 Jul 2024 09:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -16069,6 +16069,7 @@ browsershots.org#@#.advert_area
 ||00d84987c0.com^
 ||012024jhvjhkozekl.space^
 ||01220b75a7.com^
+||0127c96640.com^
 ||01c70a2a06.com^
 ||01counter.com^
 ||01d0c91c0d.com^
@@ -18758,6 +18759,7 @@ browsershots.org#@#.advert_area
 ||anmdr.link^
 ||anmgaxrujfru.com^
 ||anmiphglqn.com^
+||anmjqqtevhsqwb.com^
 ||anncmq.com^
 ||anncquyaxns.com^
 ||annesuspense.com^
@@ -20387,6 +20389,7 @@ browsershots.org#@#.advert_area
 ||beggarlymeatcan.com^
 ||beggingoppida.space^
 ||beginfrightsuit.com^
+||beginnerfurglow.com^
 ||beginnerhooligansnob.com^
 ||beginninggoondirections.com^
 ||beginningirresponsibility.com^
@@ -26035,6 +26038,7 @@ browsershots.org#@#.advert_area
 ||dtpeqgfaps.com^
 ||dtprofit.com^
 ||dtqbqmzzbeck.com^
+||dtqlltmmyb.com^
 ||dtscdn.com^
 ||dtscout.com^
 ||dtsedge.com^
@@ -31220,6 +31224,7 @@ browsershots.org#@#.advert_area
 ||hhoxwxfxgb.com^
 ||hhrsecure.com^
 ||hhtxjoa.com^
+||hhuohqramjit.com^
 ||hhvbdeewfgpnb.xyz^
 ||hhvivsbiip.com^
 ||hhxfjgiyiheil.com^
@@ -34035,6 +34040,7 @@ browsershots.org#@#.advert_area
 ||kaorpyqtjjld.com^
 ||kappalinks.com^
 ||kaqhfijxlkbfa.xyz^
+||kaqppajmofte.com^
 ||karafutem.com^
 ||karayarillock.cam^
 ||karlhalved.com^
@@ -64633,6 +64639,9 @@ $popup,third-party,domain=hentai2read.com|porn-tube-club.com
 magnet.so###AD
 advfn.com###APS_300_X_600
 advfn.com###APS_BILLBOARD
+seafoodsource.com###Ad1-300x250
+seafoodsource.com###Ad2-300x250
+seafoodsource.com###Ad3-300x250
 boredbro.com###AdBox728
 webcarstory.com###Ads
 search.avast.com###AsbAdContainer
@@ -66499,6 +66508,7 @@ thelocal.com,thelocal.dk,thelocal.se##.article-sponsored
 people.com##.articleContainer__rail
 audizine.com##.articleIMG
 accessonline.com##.article__content__desktop_banner
+seafoodsource.com##.article__in-article-ad
 financemagnates.com##.article__mpu-banner
 empireonline.com##.article_adContainer--filled__vtAYe
 pianu.com##.article_add
@@ -67970,6 +67980,7 @@ gogetaroomie.com##.left-space
 10minutemail.net##.leftXL
 livemint.com##.leftblockAd
 thehansindia.com##.level-after-1-2
+gizmodo.com##.lg\:min-h-\[300px\]
 mumsnet.com##.lg\:w-billboard
 dailyo.in##.lhsAdvertisement300
 latestly.com##.lhs_adv_970x90_div
@@ -68110,10 +68121,13 @@ heatmap.news##.middle_leaderboard
 fruitnet.com##.midpageAdvert
 extremetech.com##.min-h-24
 copyprogramming.com,imagecolorpicker.com##.min-h-250
+gizmodo.com##.min-h-\[1000px\]
+gizmodo.com##.min-h-\[250px\]
 radiome.ar,radiome.at,radiome.bo,radiome.ch,radiome.cl,radiome.com.do,radiome.com.ec,radiome.com.gr,radiome.com.ni,radiome.com.pa,radiome.com.py,radiome.com.sv,radiome.com.ua,radiome.com.uy,radiome.cz,radiome.de,radiome.fr,radiome.gt,radiome.hn,radiome.ht,radiome.lu,radiome.ml,radiome.org,radiome.pe,radiome.si,radiome.sk,radiome.sn,radyome.com##.min-h-\[250px\].mx-auto.w-full.hidden.my-1.lg\:flex.center-children
 uwufufu.com##.min-h-\[253px\]
+instavideosave.net##.min-h-\[280px\]
 uwufufu.com##.min-h-\[300px\]
-instavideosave.net##.min-h-\[350px\]
+gizmodo.com##.min-h-\[350px\]
 insiderintelligence.com##.min-h-top-banner
 stripes.com##.min-h90
 mumsnet.com##.min-w-\[300px\]
@@ -68303,6 +68317,7 @@ sentres.com##.oax_ad_leaderboard
 comiko.net##.ob-widget-items-container
 tennis.com##.oc-c-article__adv
 officedepot.com##.od-search-piq-banner-ads__lower-leaderboard
+gizmodo.com##.od-wrapper
 worldsoccertalk.com##.odds-slider-widget
 flashscore.co.za##.oddsPlacement
 kijiji.ca##.ofGHb
@@ -68856,6 +68871,7 @@ davidwalsh.name##.sidebar-sda-large
 coincodex.com##.sidebar-skyscraper
 ldjam.com##.sidebar-sponsor
 abovethelaw.com##.sidebar-sponsored
+hypebeast.com##.sidebar-spotlights
 proprivacy.com##.sidebar-top-vpn
 indianapublicmedia.org##.sidebar-upper-underwritings
 bigleaguepolitics.com##.sidebar-widget
@@ -70549,6 +70565,7 @@ officedepot.com##.od-col:has(.od-product-card-region-colors-sponsored)
 pollunit.com##.owl-carousel:has(.carousel-ad)
 hannaford.com##.plp_thumb_wrap:has([data-citrusadimpressionid])
 niagarathisweek.com##.polarBlock:has(.polarAds)
+myntra.com##.product-base:has(.product-waterMark)
 douglas.at,douglas.be,douglas.ch,douglas.cz,douglas.de,douglas.es,douglas.hr,douglas.hu,douglas.it,douglas.nl,douglas.pl,douglas.pt,douglas.ro,douglas.si,douglas.sk##.product-grid-column:has(.product-tile__sponsored)
 woolworths.com.au##.product-grid-v2--tile:has(.sponsored-text)
 meijer.com##.product-grid__product:has(.product-tile__sponsored)
