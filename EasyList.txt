@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Ek6Hfop0Osxb6Y/FbKvGVA
-! Version: 202407111231
+! Checksum: hL9ozWR8rUETIuDYHg6Wrw
+! Version: 202407111511
 ! Title: EasyList
-! Last modified: 11 Jul 2024 12:31 UTC
+! Last modified: 11 Jul 2024 15:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -67960,6 +67960,7 @@ easypet.com##.kadence-conversion-inner
 plagiarismchecker.co##.kaka
 hellogiggles.com##.karma_unit
 koreaboo.com##.kba-container
+kimcartoon.li##.kcAds1
 standard.co.uk##.kcdphh
 tekno.kompas.com##.kcm
 kdnuggets.com##.kdnug-med-rectangle-ros
