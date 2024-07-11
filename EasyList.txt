@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: XAL9Vf5DhDLaYqnvoMNHsQ
-! Version: 202407110910
+! Checksum: Ek6Hfop0Osxb6Y/FbKvGVA
+! Version: 202407111231
 ! Title: EasyList
-! Last modified: 11 Jul 2024 09:10 UTC
+! Last modified: 11 Jul 2024 12:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8747,9 +8747,9 @@ _800x80_
 ##.adheightpromo
 ##.adheighttall
 ##.adherebox
-##.adhesion
 ##.adhesion-block
 ##.adhesion-header
+##.adhesion:not(body)
 ##.adhesiveAdWrapper
 ##.adhesiveWrapper
 ##.adhesive_holder
