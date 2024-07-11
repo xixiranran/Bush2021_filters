@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wxM/KX2vP6fQApAWsov3yA
-! Version: 202407111820
+! Checksum: wBb6cYe3hTb/aL9aLtWdpA
+! Version: 202407112111
 ! Title: EasyList
-! Last modified: 11 Jul 2024 18:20 UTC
+! Last modified: 11 Jul 2024 21:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -48406,6 +48406,7 @@ browsershots.org#@#.advert_area
 ||tentubu.xyz^
 ||tentyboma.top^
 ||teogagsmm.com^
+||teojnbkldbyddi.com^
 ||terabigyellowmotha.info^
 ||teracent.net^
 ||teracreative.com^
@@ -64218,7 +64219,7 @@ $popup,domain=07c225f3.online|content-loader.com|css-load.com|html-load.cc|html-
 ||bodsforthemods.com/srennab/
 ||bootyheroes.com//static/assets/img/banners/
 ||boyfriend.show/widgets/Spot
-||boyfriendtv.com/bftv/b/bftv-merch-*.mp4
+||boyfriendtv.com/bftv/b/
 ||boyfriendtv.com/bftv/www/js/*.min.js?url=
 ||boysfood.com/d5.html
 ||bravoteens.com/ta/
