@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: b3Fy8+J+TitgoK8qZ2WO/Q
-! Version: 202408130911
+! Checksum: ROab2mAvcvCNP0/e/PD4Ng
+! Version: 202408131231
 ! Title: EasyList
-! Last modified: 13 Aug 2024 09:11 UTC
+! Last modified: 13 Aug 2024 12:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -68976,6 +68976,7 @@ bigthink.com##.wrapper-connatixPlayspace
 worldsoccertalk.com##[id*="primis_"]
 offidocs.com##[id^="ja-container-prev"]
 hollywoodreporter.com##[id^="jwplayer"]
+ukrinform.net##[style^="min-height: 280px;"]
 wlevradio.com##a[href^="https://omny.fm/shows/just-start-the-conversation"]
 firstforwomen.com##div[class^="article-content__www_ex_co_video_player_"]
 ! dark pattern adverts
