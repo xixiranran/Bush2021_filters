@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: AOW8mV080BJVJ3I2FSkFuA
-! Version: 202409090311
+! Checksum: 1pKPpXU4cnm3evtffauF8g
+! Version: 202409090621
 ! Title: EasyList
-! Last modified: 09 Sep 2024 03:11 UTC
+! Last modified: 09 Sep 2024 06:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -54540,6 +54540,7 @@ browsershots.org#@#.advert_area
 ||1116c5.xyz^$document,popup
 ||11c7a3.xyz^$document,popup
 ||1350c3.xyz^$document,popup
+||15272973.xyz^$document,popup
 ||156fd4.xyz^$document,popup
 ||15752525.xyz^$document,popup
 ||164de830.live^$document,popup
@@ -65303,6 +65304,7 @@ gsprating.com##.banner2
 coinalpha.app##.bannerAdv
 britsabroad.com##.bannerBox
 arras.io##.bannerHolder
+alternativeto.net##.bannerLink
 securenetsystems.net##.bannerPrerollArea
 mumbrella.com.au##.bannerSide
 thejc.com##.banner__
@@ -68409,6 +68411,7 @@ culturemap.com##.z-ad
 tekdeeps.com##.zAzfDBzdxq3
 ign.com,mashable.com,pcmag.com##.zad
 windows101tricks.com##.zanui-container
+techspot.com##.zenerr
 antimusic.com##.zerg
 pcmag.com##.zmgad-full-width
 bellinghamherald.com,bnd.com,bradenton.com,centredaily.com,charlotteobserver.com,cults3d.com,elnuevoherald.com,fresnobee.com,heraldonline.com,heraldsun.com,idahostatesman.com,islandpacket.com,kansas.com,kansascity.com,kentucky.com,ledger-enquirer.com,macon.com,mcclatchydc.com,mercedsunstar.com,miamiherald.com,modbee.com,myrtlebeachonline.com,newsobserver.com,sacbee.com,sanluisobispo.com,star-telegram.com,sunherald.com,thenewstribune.com,theolympian.com,thestate.com,tri-cityherald.com##.zone
