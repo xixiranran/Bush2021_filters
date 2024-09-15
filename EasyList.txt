@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: +goPR/oJ+ub/uzjX9zdsPA
-! Version: 202409142111
+! Checksum: PXEhifiA6t0Q7UBZr7CFxA
+! Version: 202409150321
 ! Title: EasyList
-! Last modified: 14 Sep 2024 21:11 UTC
+! Last modified: 15 Sep 2024 03:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -54697,6 +54697,7 @@ browsershots.org#@#.advert_area
 ||74142961.xyz^$document,popup
 ||75690049.xyz^$document,popup
 ||7608d5.xyz^$document,popup
+||77886044.xyz^$document,popup
 ||7841ffda.xyz^$document,popup
 ||78b78ff8.xyz^$document,popup
 ||7ca989e1.xyz^$document,popup
@@ -60200,6 +60201,7 @@ browsershots.org#@#.advert_area
 ||webapps.leasing.com^
 ||webseed.com/WP/
 ||weby.aaas.org^
+||whatfinger.com^$third-party
 ||whatismyipaddress.cyou/assets/images/ip-banner.png
 ||wheelify.cartzy.com^
 ||widget.engageya.com/engageya_loader.js
@@ -65819,6 +65821,7 @@ storytohear.com,thefamilybreeze.com,thetravelbreeze.com,theworldreads.com,womens
 cookingwithdog.com,streamtelly.com##.code-block-1
 patriotnewsfeed.com##.code-block-4
 scienceabc.com##.code-block-5
+wltreport.com##.code-block-label
 holyrood.com##.col--ad
 mydramalist.com##.col-lg-4 > .clear
 upi.com##.col-md-12 > table
