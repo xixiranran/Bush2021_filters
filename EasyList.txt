@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: EKtiWfstGuXSBn0Mu93RGA
-! Version: 202410010911
+! Checksum: 1fV+0cWOMOG7r/Uwf5XgJA
+! Version: 202410011241
 ! Title: EasyList
-! Last modified: 01 Oct 2024 09:11 UTC
+! Last modified: 01 Oct 2024 12:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -61338,6 +61338,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||file-upload.site/page.js
 ||filehippo.com/best-recommended-apps^
 ||filehippo.com/revamp.js
+||filemoon-*/js/baf.js
 ||filemoon.*/js/baf.js
 ||filemoon.*/js/dola.js
 ||filemoon.*/js/skrrt.js
