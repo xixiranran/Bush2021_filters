@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 3m7RtnsS6I55YyCOLMMNcw
-! Version: 202410281811
+! Checksum: mWzFJuNY9TCurh7jXTci7A
+! Version: 202410282111
 ! Title: EasyList
-! Last modified: 28 Oct 2024 18:11 UTC
+! Last modified: 28 Oct 2024 21:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -19572,6 +19572,7 @@ browsershots.org#@#.advert_area
 ||beefedsyncom.click^
 ||beegotou.net^
 ||beegrenugoz.com^
+||beehiveavertconfessed.com^
 ||beehomemade.com^
 ||beemauhu.xyz^
 ||beemolgator.com^
@@ -20385,6 +20386,7 @@ browsershots.org#@#.advert_area
 ||bqkwfioyd.xyz^
 ||bqxhgnf.com^
 ||br3azil334nutsz.com^
+||br3i.space^
 ||braceletdistraughtpoll.com^
 ||bracespickedsurprise.com^
 ||braceudder.com^
@@ -22411,6 +22413,7 @@ browsershots.org#@#.advert_area
 ||couriree.xyz^
 ||coursebonfire.com^
 ||coursebrushedassume.com^
+||coursewimplongitude.com^
 ||courteous-double.com^
 ||courthousedefective.com^
 ||courthouselaterfunctions.com^
@@ -25263,6 +25266,7 @@ browsershots.org#@#.advert_area
 ||excellingvista.com^
 ||excelrepulseclaimed.com^
 ||excelwrinkletwisted.com^
+||exceptingcomesomewhat.com^
 ||exceptionalharshbeast.com^
 ||exceptionsmokertriad.com^
 ||exceptionsoda.com^
@@ -26870,6 +26874,7 @@ browsershots.org#@#.advert_area
 ||genericlink.com^
 ||generosityfrozecosmic.com^
 ||generousclickmillennium.com^
+||generousfilming.com^
 ||genesismedia.com^
 ||geneticesteemreasonable.com^
 ||genfpm.com^
@@ -30024,6 +30029,7 @@ browsershots.org#@#.advert_area
 ||jestbiases.com^
 ||jestinquire.com^
 ||jesupe.com^
+||jetdpommag.com^
 ||jetordinarilysouvenirs.com^
 ||jetpgnebpwm.com^
 ||jetseparation.com^
@@ -33118,6 +33124,7 @@ browsershots.org#@#.advert_area
 ||mrgrekeroad.com^
 ||mrjb7hvcks.com^
 ||mrlscr.com^
+||mrmnd.com^
 ||mrpsptpspesyg.com^
 ||mrpztdpe.com^
 ||mrstpnyxlbd.com^
@@ -35065,6 +35072,7 @@ browsershots.org#@#.advert_area
 ||outfoxnapalms.com^
 ||outgratingknack.com^
 ||outhauzours.com^
+||outheelrelict.com^
 ||outhulem.net^
 ||outkisslahuli.com^
 ||outlayomnipresentdream.com^
@@ -38919,6 +38927,7 @@ browsershots.org#@#.advert_area
 ||rqwel.com^
 ||rrdhtqhgu.com^
 ||rreauksofthecom.xyz^
+||rreftyonkak.com^
 ||rrgbjybt.com^
 ||rrhscsdlwufu.xyz^
 ||rrmlejvyqwzk.top^
@@ -40433,6 +40442,7 @@ browsershots.org#@#.advert_area
 ||soakappequipment.com^
 ||soakcompassplatoon.com^
 ||soalonie.com^
+||soaneefooy.net^
 ||soaperdeils.com^
 ||soaphoupsoas.xyz^
 ||soapsudkerfed.com^
@@ -45189,6 +45199,7 @@ browsershots.org#@#.advert_area
 ||wjljwqbmmjzqj.top^
 ||wjvavwjyaso.com^
 ||wka4jursurf6.com^
+||wkcygyiyjy.com^
 ||wkktnbxxum.xyz^
 ||wknbanwswzyia.com^
 ||wkoocuweg.com^
@@ -45978,6 +45989,7 @@ browsershots.org#@#.advert_area
 ||yieldselect.com^
 ||yieldtraffic.com^
 ||yieldx.com^
+||yifata178.info^
 ||yijaovuvbndx.xyz^
 ||yim3eyv5.top^
 ||yimemediatesup.com^
@@ -53570,6 +53582,7 @@ browsershots.org#@#.advert_area
 ||1187531871.rsc.cdn77.org^
 ||1208344341.rsc.cdn77.org^
 ||123-stream.org^
+||1249256429.rsc.cdn77.org^
 ||1310530397.rsc.cdn77.org^
 ||1323818756.rsc.cdn77.org^
 ||1401315973.rsc.cdn77.org^
@@ -53582,6 +53595,7 @@ browsershots.org#@#.advert_area
 ||1583263508.rsc.cdn77.org^
 ||1596918856.rsc.cdn77.org^
 ||1614729201.rsc.cdn77.org^
+||1651567170.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
 ||1771616246.rsc.cdn77.org^
@@ -59101,7 +59115,7 @@ bolnews.com##.adspadding
 downzen.com##.adt
 makemytrip.com##.adtech-desktop
 cosmopolitan.in,indiatodayne.in,miamitodaynews.com##.adtext
-mp1st.com##.adthrive
+gcaptain.com,mp1st.com##.adthrive
 wdwmagic.com##.adthrive-homepage-header
 wdwmagic.com##.adthrive-homepage-in_content_1
 quadraphonicquad.com##.adthrive-placeholder-header
@@ -60841,7 +60855,7 @@ mediaweek.com.au##.leader-wrap-out
 blaauwberg.net##.leaderBoardContainer
 coin360.com##.leader_wrapper
 coveteur.com##.leaderboar_promo
-agcanada.com,allmusic.com,allrecipes.com,allthatsinteresting.com,autoaction.com.au,autos.ca,ballstatedaily.com,bdonline.co.uk,boardgamegeek.com,bravewords.com,broadcastnow.co.uk,cantbeunseen.com,cattime.com,chairmanlol.com,chemistryworld.com,citynews.ca,comingsoon.net,coolmathgames.com,crn.com.au,diyfail.com,dogtime.com,drugtargetreview.com,edmunds.com,europeanpharmaceuticalreview.com,explainthisimage.com,foodandwine.com,foodista.com,freshbusinessthinking.com,funnyexam.com,funnytipjars.com,gamesindustry.biz,gmanetwork.com,iamdisappoint.com,imedicalapps.com,itnews.asia,itnews.com.au,japanisweird.com,jta.org,legion.org,lifezette.com,liveoutdoors.com,macleans.ca,milesplit.com,monocle.com,morefailat11.com,moviemistakes.com,nbl.com.au,newsonjapan.com,nfcw.com,objectiface.com,passedoutphotos.com,playstationlifestyle.net,precisionvaccinations.com,retail-week.com,rollcall.com,roulettereactions.com,searchenginesuggestions.com,shinyshiny.tv,shitbrix.com,sparesomelol.com,spoiledphotos.com,spokesman.com,sportsnet.ca,sportsvite.com,stopdroplol.com,straitstimes.com,suffolknews.co.uk,supersport.com,tattoofailure.com,thedriven.io,thefashionspot.com,thestar.com.my,titantv.com,tutorialrepublic.com,uproxx.com,where.ca,yoimaletyoufinish.com##.leaderboard
+agcanada.com,allmusic.com,allrecipes.com,allthatsinteresting.com,autoaction.com.au,autos.ca,ballstatedaily.com,bdonline.co.uk,boardgamegeek.com,bravewords.com,broadcastnow.co.uk,cantbeunseen.com,cattime.com,chairmanlol.com,chemistryworld.com,citynews.ca,comingsoon.net,coolmathgames.com,crn.com.au,diyfail.com,dogtime.com,drugtargetreview.com,edmunds.com,europeanpharmaceuticalreview.com,explainthisimage.com,foodandwine.com,foodista.com,freshbusinessthinking.com,funnyexam.com,funnytipjars.com,gamesindustry.biz,gcaptain.com,gmanetwork.com,iamdisappoint.com,imedicalapps.com,itnews.asia,itnews.com.au,japanisweird.com,jta.org,legion.org,lifezette.com,liveoutdoors.com,macleans.ca,milesplit.com,monocle.com,morefailat11.com,moviemistakes.com,nbl.com.au,newsonjapan.com,nfcw.com,objectiface.com,passedoutphotos.com,playstationlifestyle.net,precisionvaccinations.com,retail-week.com,rollcall.com,roulettereactions.com,searchenginesuggestions.com,shinyshiny.tv,shitbrix.com,sparesomelol.com,spoiledphotos.com,spokesman.com,sportsnet.ca,sportsvite.com,stopdroplol.com,straitstimes.com,suffolknews.co.uk,supersport.com,tattoofailure.com,thedriven.io,thefashionspot.com,thestar.com.my,titantv.com,tutorialrepublic.com,uproxx.com,where.ca,yoimaletyoufinish.com##.leaderboard
 kijiji.ca##.leaderboard-1322657443
 edarabia.com##.leaderboard-728
 abcnews.go.com,edarabia.com##.leaderboard-970
