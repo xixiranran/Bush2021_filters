@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: ndnJYGljZpz1IQGDasChUA
-! Diff-Path: ../patches/14_optimized/14_optimized-s-1730169393-3600.patch
+! Checksum: aRQAjHD13zJ/THsfhkrkjA
+! Diff-Path: ../patches/14_optimized/14_optimized-s-1730191027-3600.patch
 ! Title: AdGuard Annoyances filter (Optimized)
 ! Description: Blocks irritating elements on web pages including cookie notices, third-party widgets and in-page pop-ups. Contains the following AdGuard filters: Cookie Notices, Popups, Mobile App Banners, Other Annoyances and Widgets.
-! Version: 2.2.12.9
-! TimeUpdated: 2024-10-28T19:33:01+00:00
+! Version: 2.2.12.11
+! TimeUpdated: 2024-10-29T08:33:19+00:00
 ! Expires: 5 days (update frequency)
 !#######################################################
 !######### General element hiding rules ################
@@ -9612,6 +9612,7 @@ reddit.com,reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion#@#.Sid
 !#safari_cb_affinity
 #$#body > div.ad.banner-ad.ad-siderail.stickyads[data-freestar-ad][style] { display: block !important; }
 ||a.pub.network/core/prebid-universal-creative.js$script,redirect=noop.js
+||googletagservices.com/tag/js/gpt.js$script,redirect=noop.js,domain=hostednovel.com|getemoji.com|concertarchives.org|mouse-sensitivity.com|thisisanfield.com|titantv.com|baeldung.com|creaders.net|virtualpiano.net|phoronix.com|androidheadlines.com|myabandonware.com|gamerescape.com|knowt.com|lse.co.uk|thenation.com|smithsonianmag.com|flightconnections.com|adsoftheworld.com|camelcamelcamel.com|emojipedia.org
 emojipedia.org,camelcamelcamel.com,adsoftheworld.com,flightconnections.com,smithsonianmag.com,thenation.com,lse.co.uk,knowt.com,gamerescape.com,myabandonware.com,androidheadlines.com,phoronix.com,virtualpiano.net,creaders.net,baeldung.com,titantv.com,thisisanfield.com,mouse-sensitivity.com,hostednovel.com,getemoji.com,concertarchives.org##+js(abort-current-script, Uint8Array, getAndSetOverlay)
 scitechdaily.com,thewindowsclub.com##+js(set-constant, ezAardvarkDetected, false)
 !#safari_cb_affinity(general)
@@ -14160,7 +14161,6 @@ phys.org###subscribeToWebPush
 ##.widget_blog_subscription
 ###mc_embed_signup
 /wp-content/plugins/mailoptin/*
-||cdn.jsdelivr.net/ghost/portal*/umd/portal.min.js
 ||substack.com/embed$third-party
 ||omnisnippet1.com^$third-party
 ||maillist-manage.com^$third-party
@@ -20824,7 +20824,7 @@ banki.ru##div[data-test="news-all-markdown"] > section > a[href^="https://www.ba
 ||qgraph.io/dist/aiqua-wp.js$domain=cw.com.tw
 ||optimonk.com^$domain=bnext.com.tw
 xboxera.com###header-notification-bar
-iza.ne.jp##.sidebar-items div.story-card-feed:has(div.under-headline > span.article-highlight-tag.shopping)
+iza.ne.jp##.story-card-feed:has(div.under-headline > span.article-highlight-tag.shopping)
 nrk.no##.widget:has(> div > a.login-banner-hack)
 full-count.jp###c2_click_jera_banner_sp_article_end
 nikkei.com##.paywall_pzomzzc
