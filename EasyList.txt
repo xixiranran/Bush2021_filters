@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ZMP2uE6wnEbsgqJRkKr2Xg
-! Version: 202410311820
+! Checksum: tCCwAX91Q8MtGHODQWSTgw
+! Version: 202410312111
 ! Title: EasyList
-! Last modified: 31 Oct 2024 18:20 UTC
+! Last modified: 31 Oct 2024 21:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -15865,6 +15865,7 @@ ads.google.com,youtube.com#@#.video-ads
 javynow.com#@#.videos-ad
 elnuevoherald.com,sacbee.com#@#.wps-player-wrap
 gumtree.com.au,s.tabelog.com#@#[data-ad-name]
+mebelcheap.ru#@#[data-adblockkey]
 globsads.com#@#[href^="http://globsads.com/"]
 mypillow.com#@#[href^="http://mypillow.com/"] > img
 mypillow.com#@#[href^="http://www.mypillow.com/"] > img
@@ -59044,6 +59045,7 @@ closerweekly.com,intouchweekly.com,lifeandstylemag.com,usmagazine.com##.ami-vide
 faroutmagazine.co.uk##.amp-next-page-separator
 cyberciti.biz##.amp-wp-4ed0dd1
 thepostemail.com##.amp-wp-b194b9a
+archpaper.com##.an-ads
 letras.com##.an-pub
 adspecials.us,ajanlatok.hu,akcniletak.cz,catalogosofertas.cl,catalogosofertas.com.ar,catalogosofertas.com.br,catalogosofertas.com.co,catalogosofertas.com.ec,catalogosofertas.com.mx,catalogosofertas.com.pe,catalogueoffers.co.uk,catalogueoffers.com.au,flugblattangebote.at,flyerdeals.ca,folderz.nl,folhetospromocionais.com,folletosofertas.es,gazetki.pl,kundeavisogtilbud.no,ofertelecatalog.ro,offertevolantini.it,promocatalogues.fr,promotiez.be,promotions.ae,prospektangebote.de,reklambladerbjudanden.se,tilbudsaviseronline.dk##.anchor-wrapper
 streetdirectory.com##.anchor_bottom
@@ -60011,6 +60013,7 @@ btcmanager.com##.f_man_728
 infoq.com##.f_spbox_top_1
 infoq.com##.f_spbox_top_2
 freeads.co.uk##.fa_box_m
+evite.com##.fabric-free-banner-ad__wrapper
 tvtropes.org##.fad
 slideshare.net##.fallback-ad-container
 tokyvideo.com##.fan--related-videos.fan
@@ -60783,6 +60786,7 @@ get.pixelexperience.org##.mantine-arewlw
 whatsgabycooking.com##.manual-adthrive-sidebar
 linkvertise.com##.margin-bottom-class-20
 color-hex.com##.margin10
+theadvocate.com##.marketing-breakout
 fandom.com##.marketplace
 pushsquare.com,songlyrics.com##.masthead
 eetimes.eu,korinthostv.gr,powerelectronicsnews.com##.masthead-banner
