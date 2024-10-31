@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: dM6Ffm1BbvP7LKHrKGwbCQ
-! Version: 202410310321
+! Checksum: Eg4J9dY0BhuLSGoNWcIggg
+! Version: 202410310621
 ! Title: EasyList
-! Last modified: 31 Oct 2024 03:21 UTC
+! Last modified: 31 Oct 2024 06:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -26856,6 +26856,7 @@ browsershots.org#@#.advert_area
 ||geniusdexchange.com^
 ||geniusonclick.com^
 ||gensonal.com^
+||gentle-report.com^
 ||gentlynudegranny.com^
 ||gentsriggish.com^
 ||genuinechancellor.com^
@@ -27498,6 +27499,7 @@ browsershots.org#@#.advert_area
 ||grapseex.com^
 ||grapselu.com^
 ||grartoag.xyz^
+||grasshusk.com^
 ||grasutie.net^
 ||graterpatent.com^
 ||gratertwentieth.com^
@@ -28382,6 +28384,7 @@ browsershots.org#@#.advert_area
 ||hksmstpzsnlj.com^
 ||hksnu.com^
 ||hkuypnhpafbuyy.com^
+||hkyzubpql.com^
 ||hlbelbblmc.com^
 ||hlcvjaqjckgrwb.com^
 ||hlerseomcb.com^
@@ -42220,6 +42223,7 @@ browsershots.org#@#.advert_area
 ||tiringinadmissiblehighlight.com^
 ||tirlnursle.shop^
 ||tirosagalite.com^
+||tissueinstitution.com^
 ||titanads1.com^
 ||titanads2.com^
 ||titanads3.com^
@@ -46261,6 +46265,7 @@ browsershots.org#@#.advert_area
 ||zokbywpncgqrq.com^
 ||zokrodes.com^
 ||zombisarake.top^
+||zombistinfuls.shop^
 ||zombyfairfax.com^
 ||zonealta.com^
 ||zontgohjw.com^
@@ -55999,6 +56004,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||t.police1.com^
 ||taadd.com/files/js/site_skin.js
 ||taboola.com^$domain=independent.co.uk|outlook.live.com|technobuffalo.com
+||takefile.link/fld/
 ||tampermonkey.net/s.js
 ||tashanmp3.com/api/pops/
 ||techgeek365.com/advertisements/
