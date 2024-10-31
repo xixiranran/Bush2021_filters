@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: oBpKar/5dJTNuyssh7MIDQ
-! Version: 202410302101
+! Checksum: tPzFoHvUfSLta1zJ2ZC17g
+! Version: 202410310141
 ! Title: EasyPrivacy
-! Last modified: 30 Oct 2024 21:01 UTC
+! Last modified: 31 Oct 2024 01:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -491,7 +491,6 @@
 /busting/facebook-tracking/*
 /busting/google-tracking/*
 /bv-analytics.js
-/byside_webcare.js
 /c.gif?
 /c.wrating.com/*
 /c2_count.js
@@ -3336,6 +3335,7 @@ omni.soundestlink.com$image
 ||mdstats.info^
 ||mediamathrdrt.com^
 ||michiganrobotflower.com^
+||minstats.xyz^
 ||mirabelanalytics.com^
 ||mircheigeshoa.com^
 ||mitour.de^
