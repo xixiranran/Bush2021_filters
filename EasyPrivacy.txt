@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: XwQTJYWF6Ha20yHgd4lwwQ
-! Version: 202411012110
+! Checksum: tHzjwahZGHrgjvmV9O1+Tw
+! Version: 202411020131
 ! Title: EasyPrivacy
-! Last modified: 01 Nov 2024 21:10 UTC
+! Last modified: 02 Nov 2024 01:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -37152,6 +37152,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ! ||medlemskap.fagforbundet.no^
 ! ||go.oracle.com^
 ! ||info.medtronicdiabetes.com^
+! ||info.mouser.com^
 !
 ||10stepswp.advancedtech.com^
 ||1stparty.equifax.co.uk^
@@ -39849,7 +39850,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||info.metronetbusiness.com^
 ||info.metronetinc.com^
 ||info.mkt.global.dnp.co.jp^
-||info.mouser.com^
 ||info.multiburo.com^
 ||info.natera.com^
 ||info.neg.co.jp^
