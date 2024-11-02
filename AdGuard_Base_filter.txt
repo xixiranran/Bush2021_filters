@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: JWkLZoFR+r2enBqpcR9obw
-! Diff-Path: ../patches/2_optimized/2_optimized-s-1730515009-3600.patch
+! Checksum: yl+r2iU+McGmNiuDM2R7kQ
+! Diff-Path: ../patches/2_optimized/2_optimized-s-1730525798-3600.patch
 ! Title: AdGuard Base filter + EasyList (Optimized)
 ! Description: EasyList + AdGuard English filter. This filter is necessary for quality ad blocking.
-! Version: 2.3.58.79
-! TimeUpdated: 2024-11-02T00:31:23+00:00
+! Version: 2.3.58.81
+! TimeUpdated: 2024-11-02T05:31:21+00:00
 ! Expires: 5 days (update frequency)
 ||nvwjhrimontqvjo.com^
 ||managetroubles.com^
@@ -24064,6 +24064,7 @@ browsershots.org#@#.advert_area
 ||adnxs.net^
 ||adocean.pl^
 ||adonweb.ru^
+||adopstar.uk^
 ||adoptum.net^
 ||adornenveloperecognize.com^
 ||adotmob.com^
@@ -38699,7 +38700,6 @@ pocketgamer.com##.item-unit
 presearch.com##.items-center.bg-transparent
 businesstoday.in##.itgdAdsPlaceholder
 itweb.co.za##.itw-ad
-avclub.com,deadspin.com,gizmodo.com,jalopnik.com,kotaku.com,theonion.com,theroot.com,thetakeout.com##.japmJB
 psypost.org##.jeg_midbar
 romania-insider.com##.job-item
 cityam.com,techspot.com##.jobbioapp
@@ -38794,6 +38794,7 @@ numuki.com##.main-header-responsive-wrapper
 nordot.app##.main__ad
 azscore.com##.make-a-bet__wrap
 livescores.biz##.make-a-bet_wrap
+gfinityesports.com##.manifold-takeover
 color-hex.com##.margin10
 theadvocate.com##.marketing-breakout
 pushsquare.com,songlyrics.com##.masthead
@@ -38837,6 +38838,7 @@ battlefordsnow.com,cfjctoday.com,chatnewstoday.ca,everythinggp.com,huskiefan.ca,
 extremetech.com##.min-h-24
 copyprogramming.com,imagecolorpicker.com##.min-h-250
 gizmodo.com##.min-h-\[1000px\]
+thenewdaily.com.au##.min-h-\[100px\]
 axios.com##.min-h-\[200px\]
 blanktext.co,gizmodo.com,radio.net##.min-h-\[250px\]
 instavideosave.net,thenewdaily.com.au##.min-h-\[280px\]
@@ -39317,6 +39319,7 @@ spectrum.ieee.org##.tag-type-whitepaper
 ghanaweb.com,thefastmode.com##.takeover
 seattletimes.com##.tall-rect
 tennis.com##.tc-video-player-iframe
+ghpage.com,schengen.news##.td-a-ad
 antiguanewsroom.com,aptoslife.com,aviacionline.com,betootaadvocate.com,bohemian.com,carnewschina.com,constructionreviewonline.com,corvetteblogger.com,cyberparse.co.uk,darkhorizons.com,eastbayexpress.com,eindhovennews.com,ericpetersautos.com,fenuxe.com,gameplayinside.com,gamezone.com,ghpage.com,gilroydispatch.com,gizmochina.com,goodtimes.sc,goonhammer.com,greekreporter.com,greenfieldnews.com,healdsburgtribune.com,indianapolisrecorder.com,industryhit.com,jewishpress.com,kenyan-post.com,kingcityrustler.com,lankanewsweb.net,maltabusinessweekly.com,metrosiliconvalley.com,morganhilltimes.com,musictech.net,mycariboonow.com,nasilemaktech.com,newsnext.live,newstalkflorida.com,nme.com,pacificsun.com,pajaronian.com,pakobserver.net,pipanews.com,pressbanner.com,radioink.com,runnerstribe.com,salinasvalleytribune.com,sanbenito.com,scrolla.africa,sonorannews.com,tamilwishesh.com,telugubullet.com,theindependent.co.zw,unlockboot.com,wrestling-online.com,zycrypto.com##.td-a-rec
 thediplomat.com##.td-ad-container--labeled
 brila.net,cgmagonline.com,cycling.today,gayexpress.co.nz,theyeshivaworld.com##.td-banner-wrap-full
@@ -39718,7 +39721,7 @@ egamersworld.com##a[href^="https://geni.us/"]
 douploads.net##a[href^="https://href.li/?"]
 cointelegraph.com##a[href^="https://servedbyadbutler.com/"]
 scrolller.com##a[href^="https://trk.scrolller.com/"]
-ancient-origins.net,anisearch.com,catholicculture.org,deadspin.com,electrek.co,jalopnik.com,kotaku.com,lewrockwell.com,ssbcrack.com,thetakeout.com##a[href^="https://www.amazon."][href*="tag="]
+ancient-origins.net,anisearch.com,catholicculture.org,lewrockwell.com,ssbcrack.com##a[href^="https://www.amazon."][href*="tag="]
 elamigos-games.net##a[href^="https://www.instant-gaming.com/"][href*="?igr="]
 thelibertydaily.com##a[href^="https://www.mypillow.com"]
 who.is##a[href^="https://www.name.com/redirect/"]
@@ -39994,6 +39997,7 @@ blitz.gg##.aside-content-column:has(.display-ad)
 olympics.com##.b2p-list__item:has(> .adv-fluid)
 atlanticsuperstore.ca,fortinos.ca,maxi.ca,newfoundlandgrocerystores.ca,nofrills.ca,provigo.ca,realcanadiansuperstore.ca,valumart.ca,yourindependentgrocer.ca,zehrs.ca##.block-wrapper:has(.element-header__sponsoredLabel)
 haveibeenpwned.com##.bodyGradient > :has(.why1Password)
+thenewdaily.com.au##.border-grey-300:has(> [data-ad-id])
 chosun.com##.box--bg-grey-20:has(.dfpAd)
 slickdeals.net##.bp-p-filterGrid_item:has(.bp-c-label--promoted)
 homedepot.com##.browse-search__pod:has([id^="plp_pod_sponsored"])
@@ -40046,8 +40050,9 @@ momondo.com##[class*="mod-pres-default"]:has(div[class*="ad-badge"])
 petco.com##[class*="rmn-banner"]:has([class*="SponsoredText"])
 popularmechanics.com##[class] > :has(> #article-marketplace-horizontal)
 popularmechanics.com##[class] > :has(> #gpt-ad-vertical-bottom)
-avclub.com,gizmodo.com,jalopnik.com,kotaku.com,theonion.com,theroot.com##[class] > div:has(> [is="bulbs-dfp"])
+avclub.com,jalopnik.com,kotaku.com,theonion.com,theroot.com##[class] > div:has(> [is="bulbs-dfp"])
 fortune.com##[class]:has(> #Leaderboard0)
+jalopnik.com,kotaku.com,theroot.com##[class]:has(> .related-stories-inset-video)
 polygon.com,vox.com##[class]:has(> [data-concert])
 thrillist.com##[class^="Container__GridRow-sc-"]:has(> .concert-ad)
 skyscanner.com##[class^="FlightsResults"] > div:has([class^="Sponsored"])
@@ -40129,7 +40134,7 @@ ndtv.com##.TpGnAd_ad-cn
 hindustantimes.com##.ht_taboola
 financialexpress.com##.ie-network-taboola
 6abc.com,abcnews.go.com##.taboola
-gizmodo.com,kotaku.com,theonion.com,theroot.com##.taboola-container
+kotaku.com,theonion.com,theroot.com##.taboola-container
 firstpost.com##.taboola-div
 ndtv.com##[class^="ads_"]
 ndtv.com##div:has(> [id^="adslot"])
@@ -40223,7 +40228,6 @@ insideevs.com##.minutely_video_wrap
 lifewire.com##.mntl-jwplayer-broad
 pagesix.com##.nyp-video-player
 picrew.me##.play-Imagemaker_Footer
-avclub.com,deadspin.com,gizmodo.com,jalopnik.com,kotaku.com,theonion.com,theroot.com,thetakeout.com##.related-stories-inset-video
 the-express.com##.stn-video-container
 si.com##.style_hfl21i-o_O-style_uhlm2
 bestlifeonline.com,eatthis.com,hellogiggles.com##.vi-video-wrapper
