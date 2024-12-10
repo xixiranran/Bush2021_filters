@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 95EPn27sl/KxTSw+IVZQbA
-! Version: 202412100151
+! Checksum: 6Nv9Ub1tUyJ3NGiYYW4KVA
+! Version: 202412100331
 ! Title: EasyList
-! Last modified: 10 Dec 2024 01:51 UTC
+! Last modified: 10 Dec 2024 03:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -60624,6 +60624,7 @@ pastebin.com##div[style^="color: #999; font-size: 12px; text-align: center;"]
 realpython.com##div[style^="display:block;position:relative;"]
 newser.com##div[style^="display:inline-block;width:728px;"]
 elitepvpers.com##div[style^="font-size:11px;"]
+drudgereport.com##div[style^="height: 250px;"]
 add0n.com,crazygames.com##div[style^="height: 90px;"]
 apkdone.com,crazygames.com,english-hindi.net,livesoccertv.com,malaysiakini.com,sporticos.com##div[style^="height:250px"]
 titantv.com##div[style^="height:265px;"]
