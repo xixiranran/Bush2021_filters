@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-03T18:01:22.134Z
+! Last modified: 2025-01-06T18:01:16.031Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2093,6 +2093,7 @@ vkcdnservice.appspot.com^
 ||9cd76b4462bb.com^
 ||9d2cca15e4.com^
 ||9d603009eb.com^
+||9d87b35397.com^
 ||9dccbda825.com^
 ||9dmnv9z0gtoh.com^
 ||9e3810a418.com^
@@ -5367,6 +5368,7 @@ vkcdnservice.appspot.com^
 ||blue99703.com^
 ||blueberryastronomy.com^
 ||bluedawning.com^
+||blueingpoori.com^
 ||bluelinknow.com^
 ||blueparrot.media^
 ||blueswordksh.com^
@@ -7000,7 +7002,6 @@ vkcdnservice.appspot.com^
 ||coagrohos.com^
 ||coalbandmanicure.com^
 ||coalitionfits.com^
-||coalkitchen.com^
 ||coaphauk.net^
 ||coarseauthorization.com^
 ||coashoohathaija.net^
@@ -7610,7 +7611,6 @@ vkcdnservice.appspot.com^
 ||creativeformatsnetwork.com^
 ||creativelardyprevailed.com^
 ||creativesumo.com^
-||creatorpassenger.com^
 ||creaturescoinsbang.com^
 ||creaturespendsfreak.com^
 ||crechecatholicclaimed.com^
@@ -7828,6 +7828,7 @@ vkcdnservice.appspot.com^
 ||cycledaction.com^
 ||cycleworked.com^
 ||cyclistforgotten.com^
+||cyclstriche.com^
 ||cycndlhot.xyz^
 ||cyeqeewyr.com^
 ||cyg-byzlgtns.world^
@@ -8796,7 +8797,6 @@ vkcdnservice.appspot.com^
 ||doesbitesizeadvantages.com^
 ||doflygonan.com^
 ||dofrogadiera.com^
-||dogcollarfavourbluff.com^
 ||dogecalloo.com^
 ||doghasta.com^
 ||dogiedimepupae.com^
@@ -10736,7 +10736,6 @@ vkcdnservice.appspot.com^
 ||flounderhomemade.com^
 ||flounderpillowspooky.com^
 ||flourishbriefing.com^
-||flourishingcollaboration.com^
 ||flourishinghardwareinhibit.com^
 ||flousecuprate.top^
 ||flower1266.fun^
@@ -11538,7 +11537,6 @@ vkcdnservice.appspot.com^
 ||ghlyrecomemurg.com^
 ||ghnvfncbleiu.xyz^
 ||ghostchisel.com^
-||ghostgenie.com^
 ||ghostnewz.com^
 ||ghosttardy.com^
 ||ghsheukwasa.com^
@@ -13336,6 +13334,7 @@ vkcdnservice.appspot.com^
 ||igoognou.xyz^
 ||igouthoatsord.net^
 ||igpkppknqeblj.com^
+||igraard.xyz^
 ||igvhfmubsaqty.xyz^
 ||igwatrsthg.site^
 ||ihappymuttered.info^
@@ -14497,6 +14496,7 @@ vkcdnservice.appspot.com^
 ||junglehikingfence.com^
 ||juniorapplesconsonant.com^
 ||junivmr.com^
+||junkettypika.shop^
 ||junkieswudge.com^
 ||junkmildredsuffering.com^
 ||junmediadirect.com^
@@ -16445,7 +16445,6 @@ vkcdnservice.appspot.com^
 ||memorableanticruel.com^
 ||memorablecutletbet.com^
 ||memorableeditor.com^
-||memorizematch.com^
 ||mempoonsoftoow.net^
 ||menacehabit.com^
 ||menacing-awareness.pro^
@@ -19609,7 +19608,6 @@ vkcdnservice.appspot.com^
 ||phokukse.com^
 ||phomoach.net^
 ||phoneboothsabledomesticated.com^
-||phonicsblitz.com^
 ||phoobsoalrie.com^
 ||phoognol.com^
 ||phoojeex.xyz^
@@ -20116,7 +20114,6 @@ vkcdnservice.appspot.com^
 ||possibilityformal.com^
 ||possibilityfoundationwallpaper.com^
 ||possibilityrespectivelyenglish.com^
-||possiblepencil.com^
 ||post-redirecting.com^
 ||postalfranticallyfriendship.com^
 ||postaoz.xyz^
@@ -21404,7 +21401,6 @@ vkcdnservice.appspot.com^
 ||rapolok.com^
 ||rapturemeddle.com^
 ||rar-vpn.com^
-||rarestcandy.com^
 ||rarrwcfe.com^
 ||rascalbygone.com^
 ||rashbarnabas.com^
@@ -23051,7 +23047,6 @@ vkcdnservice.appspot.com^
 ||sentenceinformedveil.com^
 ||sentientfog.com^
 ||sentimenthailstonesubjective.com^
-||sentinelp.com^
 ||seo-overview.com^
 ||separatepattern.pro^
 ||separationalphabet.com^
@@ -23576,7 +23571,6 @@ vkcdnservice.appspot.com^
 ||skuligpzifan.com^
 ||skulldesperatelytransfer.com^
 ||skullhalfway.com^
-||skullmagnets.com^
 ||skunscold.top^
 ||skvxbool.xyz^
 ||skyadsmart.com^
@@ -23761,6 +23755,7 @@ vkcdnservice.appspot.com^
 ||so-gr3at3.com^
 ||so1cool.com^
 ||so333o.com^
+||soacoujusoopsoo.xyz^
 ||soadaupaila.net^
 ||soadicithaiy.net^
 ||soaheeme.net^
@@ -24205,7 +24200,6 @@ vkcdnservice.appspot.com^
 ||startappexchange.com^
 ||startd0wnload22x.com^
 ||starterblackened.com^
-||startercost.com^
 ||startfinishthis.com^
 ||startpagea.com^
 ||startperfectsolutions.com^
@@ -26287,6 +26281,7 @@ vkcdnservice.appspot.com^
 ||ubish.com^
 ||uboungera.com^
 ||ucationinin.info^
+||ucavu.live^
 ||ucbedayxxqpyuo.xyz^
 ||ucconn.live^
 ||ucheephu.com^
@@ -27076,7 +27071,6 @@ vkcdnservice.appspot.com^
 ||viatechonline.com^
 ||viatepigan.com^
 ||vibanioa.com^
-||vibrantvale.com^
 ||vibrateapologiesshout.com^
 ||vic-m.co^
 ||vicious-instruction.pro^
@@ -27832,6 +27826,7 @@ vkcdnservice.appspot.com^
 ||whiceega.com^
 ||whichcandiedhandgrip.com^
 ||whidoutounseegn.xyz^
+||whidsugnoackili.net^
 ||whileinferioryourself.com^
 ||whilieesrogs.top^
 ||whilroacix.com^
@@ -33257,6 +33252,8 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||view.mngusr.com^
+||cdn.q0losid.com^
 ||tags.fullcontact.com^
 ||matomo.akbal.dev^
 ||sentry.pnblab.com^
@@ -37065,6 +37062,9 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||qbrth.ezcontacts.com^
+||intake-analytics.wikimedia.org^
+||lgforbes.akamaized.net^
 ||event.wondershare.com^
 ||collector.abc.net.au^
 ||smetrics.kawai-juku.ac.jp^
@@ -37918,7 +37918,6 @@ vkcdnservice.appspot.com^
 ||track-srv.vietnamnet.vn^
 ||stats.zone-telechargement.
 ||stats.tirexo.blue^
-||intake-analytics.wikimedia.org^
 ||tracking.univtec.com^
 ||counter.sberbank.ru^
 ||mxpl.9gag.com^
@@ -39725,6 +39724,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.qoqa.com^
 !
 ! Appsflyer
+-adrevenue.appsflyersdk.com^
 -attr.appsflyersdk.com^
 register.appsflyersdk.com^
 conversions.appsflyersdk.com^
@@ -39790,6 +39790,8 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||collect.4gtv.tv^
+||uaid.vtwenty.com^
 ||telemetry.codefusion.technology^
 ||events.watchtower.imdbtv.amazon.dev^
 ||mobile-production.content-square.net^
@@ -45123,6 +45125,7 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
+||mbada.nan.co.jp^
 ||ads.nicovideo.jp^
 ||adserv2.suumo.jp^
 ||ad.woman.mynavi.jp^
@@ -46118,8 +46121,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2025-01-01 04:50:02 CET
-# entries:        1097
+# last updated:   2025-01-06 05:34:18 CET
+# entries:        1100
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -46139,6 +46142,7 @@ inapps.appsflyersdk.com^
 ||ads.exakt24.se^
 ||ads.expekt.se^
 ||ads.fotosidan.se^
+||ads.frihetsnytt.se^
 ||ads.holid.io^
 ||ads.leovegas.com^
 ||ads.mainloop.net^
@@ -46477,10 +46481,12 @@ inapps.appsflyersdk.com^
 ||stat.brollopstorget.se^
 ||stat.devote.se^
 ||stat.familjeliv.se^
+||stat.loppi.se^
 ||stat.modette.se^
 ||stat.nyheter24.se^
 ||stat.rodeo.net^
 ||stat.torgen.se^
+||stat.vimedbarn.se^
 ||stat03.stat.cliche.se^
 ||statcounter.va-endpoint.com^
 ||static.matchads.net^
@@ -47095,8 +47101,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 03 Jan 2025 23:14 UTC+7
-! Version: 2501032314
+! Last modified: 06 Jan 2025 22:58 UTC+7
+! Version: 2501062258
 ! Blocked: 929 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -47966,9 +47972,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 03 Jan 2025 14:42 UTC+7
-! Version: 2501031442
-! Blocked: 4.694 rules
+! Last modified: 06 Jan 2025 14:48 UTC+7
+! Version: 2501061448
+! Blocked: 4.695 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -49641,6 +49647,7 @@ inapps.appsflyersdk.com^
 ||minimomo.club^
 ||minimomo.fun^
 ||miravay.org^
+||mistyforestolqt.online^
 ||miu78.me^
 ||mizonevn.shop^
 ||mkshopmobi.xyz^
@@ -52544,10 +52551,39 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||jjplaqyo.icu^
+||tixoilll.com^
+||hitalsli.com^
+||lcvwdn.icu^
+||1tp.icu^
+||jdyurlia.top^
+||orcinhyi.com^
+||thruksyq.com^
+||z4v.icu^
+||kdyurlid.top^
+||lirretsn.com^
+||nmzbrd.icu^
+||hrjciqyu.icu^
+||hdyurliu.top^
+||en6.icu^
+||cachusrw.com^
+||u57.icu^
+||idyurlio.top^
+||airakgyl.com^
+||scjtfh.xyz^
+||cdyurlif.top^
+||6w7.icu^
 ||y4l.icu^
 ||drandoxo.com^
 ||h5r.icu^
 ||bclimiv.top^
+||katoleiy.com^
+||okpp01040.xyz^
+||hjdjfl.icu^
+||omxwt.cn^
+||tztmqvga.icu^
+||mclimix.top^
+||cv7.icu^
 ||ibyrwvi.cn^
 ||lclimil.top^
 ||okpp01031.xyz^
@@ -55907,7 +55943,6 @@ inapps.appsflyersdk.com^
 ||a.baomihua.com^
 ||a.nowscore.com^
 ||a.xywy.com^
-||a2.b310.com^
 ||a2.xinhuanet.com^
 ||a2put.chinaz.com^
 ||abc.hkepc.com^
@@ -56147,6 +56182,7 @@ inapps.appsflyersdk.com^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
 ||27gh.cc^
+||hcirentgh.360doc.cn^
 ||a1.cyyangqiguan.com^
 ||jbdch1.appmobile.cn^
 ||lcd.aivote.com^
@@ -57252,6 +57288,8 @@ analytics-*.aasaam.com
 ||tracker.jabama.com^
 
 # >> K <<
+||logapi.karbord.io^
+
 ||kar-sentry.karnameh.com^
 
 # https://github.com/MasterKia/PersianBlocker/issues/101
