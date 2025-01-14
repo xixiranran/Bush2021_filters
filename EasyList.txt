@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ZXaQ+rbO26wowazrgjV4zA
-! Version: 202501141511
+! Checksum: 7YKEeH4A/Smnnp/ekd+HPQ
+! Version: 202501141821
 ! Title: EasyList
-! Last modified: 14 Jan 2025 15:11 UTC
+! Last modified: 14 Jan 2025 18:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -28,7 +28,6 @@
 -contrib-ads.$~stylesheet
 -display-ads.
 -footerads.
--housead-
 -page-ad.
 -PcmModule-Taboola-
 -popexit.
@@ -50,7 +49,7 @@
 .ashx?AdID=
 .aspx?adid=
 .az/adv/$~xmlhttprequest
-.br/ads/
+.br/ads/$~xmlhttprequest
 .bz/ads/
 .ca/ads/
 .cfm?ad=
@@ -85,7 +84,7 @@
 .com/ss/ad/
 .com/watch.*.js?key=
 .cz/adv/
-.cz/affil/
+.cz/affil/$image
 .cz/bannery/
 .fuse-cloud.com/$~xmlhttprequest
 .html?clicktag=
@@ -113,7 +112,7 @@
 .php?zoneid=
 .pk/ads/$~xmlhttprequest
 .pw/ads/$~xmlhttprequest
-.ru/ads/
+.ru/ads/$~xmlhttprequest
 .shop/gd/$third-party
 .shop/tsk/$third-party
 .top/cuid/?$third-party
@@ -392,6 +391,7 @@
 /bsa-pro-scripteo/frontend/js/script.js$script
 /btag.min.js$third-party
 /buysellads.js$script
+/calcalist_gpt_ads.js$script
 /callAdserver?
 /cgi-bin/ad/*$~xmlhttprequest
 /click/zone?
@@ -854,12 +854,9 @@ _ad_right.
 _ad_side.
 _ad_skyscraper.
 _ad_wrapper.
-_adbanner_
 _adchoice.
 _adchoices.
-_adhome.
 _adlabel_
-_adpartner.
 _adplugin.
 _adright.
 _ads.cgi
@@ -881,7 +878,6 @@ _BannerAd_
 _bottom_ads.
 _bottom_ads_
 _footer_ad_
-_gpt_ads.
 _header_ad_
 _headerad.
 _images/ad.$image
@@ -1048,7 +1044,6 @@ _prebid.js$script
 ! Peel script
 /jquery.peelback.$script
 ! Anti-Adblock
--adblocker-detection/
 /ad-blocking-advisor/*$script,stylesheet
 /ad-blocking-alert/*$stylesheet
 /adblock-detect.$script
@@ -13951,6 +13946,7 @@ _800x80_
 ##.stpro_ads
 ##.str-top-ad
 ##.strack_bnr
+##.strack_cli
 ##.strawberry-ads
 ##.strawberry-ads__pretty-container
 ##.stream-ad
@@ -16316,6 +16312,7 @@ browsershots.org#@#.advert_area
 ||5c4ccd56c9.com^
 ||5cf8606941.com^
 ||5e1b8e9d68.com^
+||5e49fd4c08.com^
 ||5e6ef8e03b.com^
 ||5ea36e0eb5.com^
 ||5ed55e7208.com^
@@ -16383,6 +16380,7 @@ browsershots.org#@#.advert_area
 ||6bgaput9ullc.com^
 ||6ca9278a53.com^
 ||6ce02869b9.com^
+||6dc2699b37.com^
 ||6de72955d8.com^
 ||6e391732a2.com^
 ||6e6cd153a6.com^
@@ -18894,6 +18892,7 @@ browsershots.org#@#.advert_area
 ||awestatic.com^
 ||awestc.com^
 ||aweyqalyljbj.top^
+||awfulmorning.pro^
 ||awfulresolvedraised.com^
 ||awhauchoa.net^
 ||awhausaifoog.com^
@@ -19479,6 +19478,7 @@ browsershots.org#@#.advert_area
 ||bestadbid.com^
 ||bestadload.com^
 ||bestadsforyou.com^
+||bestadsrv.com^
 ||bestaryua.com^
 ||bestchainconnection.com^
 ||bestcleaner.online^
@@ -20833,6 +20833,7 @@ browsershots.org#@#.advert_area
 ||cdvmgqs-ggh.tech^
 ||cdwmpt.com^
 ||cdwmtt.com^
+||ce82020873.com^
 ||ceaankluwuov.today^
 ||ceasechampagneparade.com^
 ||ceasedheave.com^
@@ -35695,6 +35696,7 @@ browsershots.org#@#.advert_area
 ||qfgtepw.com^
 ||qfiofvovgapc.com^
 ||qfjherc.com^
+||qfnzyhwtyarskp.com^
 ||qfoodskfubk.com^
 ||qgerr.com^
 ||qgevavwyafjf.com^
@@ -38640,6 +38642,7 @@ browsershots.org#@#.advert_area
 ||spice-sugar.net^
 ||spiceethnic.com^
 ||spicy-combination.pro^
+||spicy-development.pro^
 ||spicy-effect.com^
 ||spicygirlshere.life^
 ||spikearsonembroider.com^
@@ -42185,6 +42188,7 @@ browsershots.org#@#.advert_area
 ||warmerdisembark.com^
 ||warnmessage.com^
 ||warnothnayword.shop^
+||warped-bus.com^
 ||warrantpiece.com^
 ||warriorflowsweater.com^
 ||warsabnormality.com^
@@ -43102,6 +43106,7 @@ browsershots.org#@#.advert_area
 ||xhcouznqwhwas.com^
 ||xhhaakxn.xyz^
 ||xholinqbbicfk.com^
+||xhulafpup.com^
 ||xhvaqgs.com^
 ||xhwwcif.com^
 ||xhzz3moj1dsd.com^
@@ -43216,6 +43221,7 @@ browsershots.org#@#.advert_area
 ||xwqea.com^
 ||xwqvytuiko.com^
 ||xwvduxeiuv.com^
+||xwymrixpkwq.com^
 ||xwzbpkku-i.site^
 ||xx-umomfzqik.today^
 ||xxccdshj.com^
@@ -62770,8 +62776,8 @@ abjav.com,aniporn.com##.left > section
 xxxpicss.com,xxxpicz.com##.left-banners
 babepedia.com##.left_side > .sidebar_block > a
 xxxporntalk.com##.leftsidenav
-missav.ai,missav.city,missav.loan,missav.today,missav.wiki,missav.ws,missav123.com,missav789.com##.lg\:block
-missav.ai,missav.city,missav.loan,missav.today,missav.wiki,missav.ws,missav123.com,missav789.com##.lg\:hidden
+missav.ai,missav.city,missav.loan,missav.today,missav.wiki,missav.ws,missav123.com,missav888.com##.lg\:block
+missav.ai,missav.city,missav.loan,missav.today,missav.wiki,missav.ws,missav123.com,missav888.com##.lg\:hidden
 videosdemadurasx.com##.link
 xxxvogue.net##.link-adv
 escortnews.eu,topescort.com##.link-buttons-container
@@ -63233,7 +63239,7 @@ hentairider.com##[style="height: 250px;padding:5px;"]
 eporner.com##[style="margin: 20px auto; height: 275px; width: 900px;"]
 vjav.com##[style="width: 728px; height: 90px;"]
 xozilla.com##[style^="height: 250px !important; overflow: hidden;"]
-missav.ai,missav.ws,missav123.com,missav789.com##[x-show$="video_details'"] > div > .list-disc
+missav.ai,missav.ws,missav123.com,missav888.com##[x-show$="video_details'"] > div > .list-disc
 pornone.com##a[class^="listing"]
 f95zone.to##a[data-nav-id="AIPorn"]
 f95zone.to##a[data-nav-id="AISexChat"]
@@ -63241,7 +63247,7 @@ boyfriendtv.com##a[href*="&creativeId=popunder-listing"]
 porn.com##a[href*="&ref="]
 asspoint.com,babepedia.com,babesandstars.com,blackhaloadultreviews.com,dbnaked.com,freeones.com,gfycatporn.com,javfor.me,mansurfer.com,newpornstarblogs.com,ok.porn,porn-star.com,porn.com,porndoe.com,pornhubpremium.com,pornstarchive.com,rogreviews.com,sexyandfunny.com,shemaletubevideos.com,spankbang.com,str8upgayporn.com,the-new-lagoon.com,tube8.com,wcareviews.com,xxxonxxx.com,youporn.com##a[href*=".com/track/"]
 badjojo.com,boysfood.com,definebabe.com,efukt.com,fantasti.cc,girlsofdesire.org,imagepix.org,javfor.me,pornxs.com,shemaletubevideos.com,therealpornwikileaks.com##a[href*=".php"]
-blackhaloadultreviews.com,boyfriendtv.com,hentaigasm.com,javjunkies.com,masahub.net,missav.ai,missav.ws,missav123.com,missav789.com,phun.org,porn-w.org##a[href*="//bit.ly/"]
+blackhaloadultreviews.com,boyfriendtv.com,hentaigasm.com,javjunkies.com,masahub.net,missav.ai,missav.ws,missav123.com,missav888.com,phun.org,porn-w.org##a[href*="//bit.ly/"]
 celeb.gate.cc##a[href*="//goo.gl/"]
 taxidrivermovie.com##a[href*="/category/"]
 nude.hu##a[href*="/click/"]
@@ -63356,7 +63362,7 @@ xozilla.xxx##div[style="height: 250px !important; overflow: hidden;"]
 porncore.net##div[style="margin:10px auto;height:200px;width:800px;"]
 javplayer.me##div[style="position: absolute; inset: 0px; z-index: 999; display: block;"]
 simpcity.su##div[style="text-align:center;margin-bottom:20px;"]
-abxxx.com,aniporn.com,missav.ai,missav.ws,missav123.com,missav789.com##div[style="width: 300px; height: 250px;"]
+abxxx.com,aniporn.com,missav.ai,missav.ws,missav123.com,missav888.com##div[style="width: 300px; height: 250px;"]
 sexbot.com##div[style="width:300px;height:20px;text-align:center;padding-top:30px;"]
 pornpics.network##div[style^="height: 250px;"]
 gay0day.com##div[style^="height:250px;"]
