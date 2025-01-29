@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 2r4qkLycb8+uFCvlQ2JLfg
-! Version: 202501291821
+! Checksum: maWkvWxqKRA54vX+bAZCrA
+! Version: 202501292111
 ! Title: EasyList
-! Last modified: 29 Jan 2025 18:21 UTC
+! Last modified: 29 Jan 2025 21:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -22599,6 +22599,7 @@ browsershots.org#@#.advert_area
 ||deepboxervivacious.com^
 ||deephicy.net^
 ||deepirresistible.com^
+||deeplygumssandwich.com^
 ||deepmetrix.com^
 ||deepnewsjuly.com^
 ||deeprootedladyassurance.com^
@@ -32379,6 +32380,7 @@ browsershots.org#@#.advert_area
 ||noptog.com^
 ||norentisol.com^
 ||noretia.com^
+||noricjun.com^
 ||normalfloat.com^
 ||normalheart.pro^
 ||normallycollector.com^
