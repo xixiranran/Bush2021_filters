@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: fzttuWORgVssbWswX/Y9/Q
-! Version: 202502181751
+! Checksum: SFmilDxpgAr34hsuAZfF5Q
+! Version: 202502182111
 ! Title: EasyPrivacy
-! Last modified: 18 Feb 2025 17:51 UTC
+! Last modified: 18 Feb 2025 21:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1425,6 +1425,7 @@
 /matomo.js$domain=~github.com
 /matomo.php
 /matomo/*$domain=~github.com|~hub.docker.com|~matomo.org|~wordpress.org
+/matomo_video_tracking.js
 /mcookie.aspx
 /mcount.cgi?
 /measure/pixel/*
@@ -49388,6 +49389,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||sgtm.tennis-point.de^
 ||shoop.de/mgtrx/
 ||shop.rewe.de/api/xrd/web-vitals
+||sp.chip.de^
 ||sparkasse.de/frontend/setTrackingCookie.htm
 ||sportnews.bz/pcookie?
 ||spreewaldkarte.de/t.gif
