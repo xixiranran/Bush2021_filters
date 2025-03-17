@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: AsVk7cmLmuKIDhPobtx1IA
-! Version: 202503170621
+! Checksum: caXjIJNG06Jz6hP72OxfRg
+! Version: 202503170921
 ! Title: EasyList
-! Last modified: 17 Mar 2025 06:21 UTC
+! Last modified: 17 Mar 2025 09:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -28598,7 +28598,6 @@ browsershots.org#@#.advert_area
 ||keypush.net^
 ||keyrolan.com^
 ||keyuyloap.com^
-||keyvdowallet.me^
 ||keywordblocks.com^
 ||keywordsconnect.com^
 ||kfeuewvbd.com^
