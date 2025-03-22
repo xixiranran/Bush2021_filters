@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: +4S1vGF4t7/TfBbuGD7LWg
-! Version: 202503221221
+! Checksum: ZCxbB91f5agubbVpoRcuYg
+! Version: 202503221511
 ! Title: EasyList
-! Last modified: 22 Mar 2025 12:21 UTC
+! Last modified: 22 Mar 2025 15:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -757,7 +757,6 @@
 ?ab=1&zoneid=
 ?adspot_$domain=~sponichi.co.jp
 ?advertiser_id=$domain=~ads.pinterest.com
-?bannerid=
 ?cs=*&abt=0&red=1&sm=$third-party
 ?service=ad&
 ?usid=*&utid=
@@ -60806,6 +60805,9 @@ amazon.*##div[id^="sp_detail"]
 amazon.*##span[cel_widget_id^="MAIN-FEATURED_ASINS_LIST-"]
 amazon.*##span[cel_widget_id^="MAIN-loom-desktop-brand-footer-slot_hsa-id-CARDS-"]
 amazon.*##span[cel_widget_id^="MAIN-loom-desktop-top-slot_hsa-id-CARDS-"]
+! read.amazon - [class^="kw-ads-] breaks
+read.amazon.*###adsChromeBottom
+read.amazon.*##.kw-ads-ftue-container
 !
 modivo.at,modivo.bg,modivo.cz,modivo.de,modivo.ee,modivo.fr,modivo.gr,modivo.hr,modivo.hu,modivo.it,modivo.lt,modivo.lv,modivo.pl,modivo.ro,modivo.si,modivo.sk,modivo.ua##.display-container
 modivo.at,modivo.bg,modivo.cz,modivo.de,modivo.ee,modivo.fr,modivo.gr,modivo.hr,modivo.hu,modivo.it,modivo.lt,modivo.lv,modivo.pl,modivo.ro,modivo.si,modivo.sk,modivo.ua##.promoted-slider-wrapper
@@ -62333,7 +62335,6 @@ ooxxx.com##.video-ntv-wrapper
 pornhdtube.tv,recordbate.com##.video-overlay
 hotmovs.tube##.video-page > .block_label > div
 thegay.com##.video-page__content > .right
-xhtab2.com##.video-page__layout-ad
 senzuri.tube##.video-page__watchfull-special
 pornhd.com##.video-player-overlay
 peachurbate.com##.video-right-banner
@@ -62523,7 +62524,7 @@ imx.to##a[href^="https://camonster.com/"]
 f95zone.to,imagetwist.com##a[href^="https://candy.ai/"]
 hog.tv##a[href^="https://clickaine.com"]
 spankbang.com##a[href^="https://deliver.ptgncdn.com/"]
-seexh.com,valuexh.life,xhaccess.com,xhamster.com,xhamster.desi,xhamster2.com,xhamster3.com,xhamster42.desi,xhamsterporno.mx,xhbig.com,xhbranch5.com,xhchannel.com,xhchannel2.com,xhdate.world,xhlease.world,xhofficial.com,xhspot.com,xhtab4.com,xhtotal.com,xhtree.com,xhwide2.com,xhwide5.com##a[href^="https://flirtify.com/"]
+seexh.com,valuexh.life,xhaccess.com,xhamster.com,xhamster.desi,xhamster2.com,xhamster3.com,xhamster42.desi,xhamsterporno.mx,xhbig.com,xhbranch5.com,xhchannel.com,xhdate.world,xhlease.world,xhofficial.com,xhspot.com,xhtotal.com,xhtree.com,xhwide2.com,xhwide5.com##a[href^="https://flirtify.com/"]
 hitbdsm.com##a[href^="https://go.rabbitsreviews.com/"]
 instantfap.com##a[href^="https://go.redgifcams.com/"]
 sexhd.pics##a[href^="https://go.stripchat.com/"]
