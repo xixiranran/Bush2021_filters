@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: cJ38tjhZcdoZoXM23+Xnbw
-! Version: 202503240311
+! Checksum: 0sgPxqFA8w66IQGD6q97iw
+! Version: 202503240621
 ! Title: EasyList
-! Last modified: 24 Mar 2025 03:11 UTC
+! Last modified: 24 Mar 2025 06:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -55129,6 +55129,7 @@ tutiempo.net##.ContBannerTop
 dappradar.com##.Container--bottomBanners
 songmeanings.com##.Container_ATFR_300
 songmeanings.com##.Container_ATF_970
+emarketer.com##.ContentRightAd
 swarajyamag.com##.CrIrA
 ulta.com##.CriteoProductRail
 calcalistech.com##.Ctech_general_banner
@@ -55624,6 +55625,7 @@ jpeg-optimizer.com##.ads_A1_warp
 jpeg-optimizer.com##.ads_A2_warp
 kbb.com##.ads__container
 kbb.com##.ads__container-kbbLockedAd
+indiatodaygaming.com##.ads__container_rhs
 metro.co.uk##.ads__index__adWrapper--cz7QL
 vccircle.com##.ads_ads__qsWIu
 collegedunia.com##.ads_body_ad_code_container
@@ -59836,6 +59838,7 @@ xbox-hq.com##a[href^="banners.php?"]
 iamdisappoint.com,shitbrix.com,tattoofailure.com##a[href^="http://goo.gl/"]
 notbanksyforum.com##a[href^="http://l-13.org/"]
 wjbc.com##a[href^="http://sweetdeals.com/bloomington/deals"]
+amazingfoodmadeeasy.com##a[href^="http://www.amazon.com/gp/product"]
 notbanksyforum.com##a[href^="http://www.ebay.co.uk/usr/heartresearchuk_shop/"]
 1280wnam.com##a[href^="http://www.milwaukeezoo.org/visit/animals/"]
 2x4u.de##a[href^="http://www.myfreecams.com/?baf="]
