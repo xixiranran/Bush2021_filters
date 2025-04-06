@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: HPY2iTz5lYgxHryTUdsIxg
-! Diff-Path: ../patches/2_optimized/2_optimized-s-1743899398-3600.patch
+! Checksum: +dglEDRqkCkJSqL25WigQA
+! Diff-Path: ../patches/2_optimized/2_optimized-s-1743903495-3600.patch
 ! Title: AdGuard Base filter + EasyList (Optimized)
 ! Description: EasyList + AdGuard English filter. This filter is necessary for quality ad blocking.
-! Version: 2.3.77.99
-! TimeUpdated: 2025-04-06T00:25:55+00:00
+! Version: 2.3.78.0
+! TimeUpdated: 2025-04-06T01:34:07+00:00
 ! Expires: 5 days (update frequency)
 ||onkhwanhuo.com^
 ||srvtensz.com^
@@ -22639,6 +22639,7 @@ browsershots.org#@#.advert_area
 ||301redirect.site^
 ||303marketplace.com^
 ||30986g8ab.de^
+||30e7ff2c41.com^
 ||30koqnlks.de^
 ||30tgh64jp.de^
 ||316feq0nc.de^
@@ -24216,6 +24217,7 @@ browsershots.org#@#.advert_area
 ||baitpros.net^
 ||baiweluy.com^
 ||bajavdafwafp.com^
+||bakedairted.top^
 ||bakertangiblebehaved.com^
 ||bakteso.ru^
 ||baletingo.com^
@@ -24619,6 +24621,7 @@ browsershots.org#@#.advert_area
 ||boksaumetaixa.net^
 ||boldlydaisy.com^
 ||bollyocean.com^
+||boloneyyogh.top^
 ||boloptrex.com^
 ||bolrookr.com^
 ||bolsaifoony.com^
@@ -25767,6 +25770,7 @@ browsershots.org#@#.advert_area
 ||d-agency.net^
 ||d0main.ru^
 ||d170971757.com^
+||d1nr5af9lc58ok.cloudfront.net^
 ||d24ak3f2b.top^
 ||d29gqcij.com^
 ||d2ship.com^
@@ -26941,6 +26945,7 @@ browsershots.org#@#.advert_area
 ||fluingdulotic.com^
 ||flusoprano.com^
 ||fluxads.com^
+||fluxiontabific.shop^
 ||flyingsquirellsmooch.com^
 ||flylikeaguy.com^
 ||flymob.com^
@@ -27186,6 +27191,7 @@ browsershots.org#@#.advert_area
 ||gammamkt.com^
 ||gammaplatform.com^
 ||ganalyticshub.net^
+||ganbeode.com^
 ||gandrad.org^
 ||gangingwalnut.top^
 ||gannett.gcion.com^
@@ -27521,6 +27527,7 @@ browsershots.org#@#.advert_area
 ||goutee.top^
 ||goutscoxite.top^
 ||govbusi.info^
+||gplywfirosiwd.one^
 ||gpsecureads.com^
 ||gqfuf.com^
 ||gracefulcloset.pro^
@@ -28842,6 +28849,7 @@ browsershots.org#@#.advert_area
 ||kuwhudsa.com^
 ||kvaaa.com^
 ||kvbojuxkwvcfk.global^
+||kvxjxbrsxhgw.xyz^
 ||kw3y5otoeuniv7e9rsi.com^
 ||kwqmugaonqtqa.com^
 ||kwtmhuvkpmcsog.com^
@@ -30240,6 +30248,7 @@ browsershots.org#@#.advert_area
 ||nunpceatffub.com^
 ||nunsourdaultozy.net^
 ||nupdhyzetb.com^
+||nurewsawanin.org^
 ||nurhagstackup.com^
 ||nurno.com^
 ||nurobi.info^
@@ -30388,6 +30397,7 @@ browsershots.org#@#.advert_area
 ||ogicatius.com^
 ||ogle-0740lb.com^
 ||oglrrokbbxoyw.today^
+||ogqanrasl.com^
 ||ogragrugece.net^
 ||ograuwih.com^
 ||ogrepsougie.net^
@@ -30734,6 +30744,7 @@ browsershots.org#@#.advert_area
 ||ow5a.net^
 ||oweltyagruif.com^
 ||owenexposure.com^
+||owjunkrgwdc.com^
 ||owlerydominos.cam^
 ||owlunimmvn.com^
 ||owndata.network^
@@ -31674,6 +31685,7 @@ browsershots.org#@#.advert_area
 ||qanqizywghyna.xyz^
 ||qarewien.com^
 ||qavhivvcex.com^
+||qawzwkvqayrlr.top^
 ||qcbshsmlv.com^
 ||qcbtygylmnfez.fun^
 ||qchmlmtkpbswf.buzz^
@@ -32063,6 +32075,7 @@ browsershots.org#@#.advert_area
 ||rgrd.xyz^
 ||rhaphaecelts.com^
 ||rhendam.com^
+||rheoembrica.top^
 ||rhinioncappers.com^
 ||rhombicsomeday.com^
 ||rhudsplm.com^
@@ -34102,6 +34115,7 @@ browsershots.org#@#.advert_area
 ||usjbwvtqwv.com^
 ||uskokvolutin.com^
 ||usounoul.com^
+||usouokopeukasrs.org^
 ||ust-ad.com^
 ||usuallyformal.com^
 ||usurv.com^
@@ -34471,6 +34485,7 @@ browsershots.org#@#.advert_area
 ||warlike-abroad.pro^
 ||warlikearm.pro^
 ||warliketruck.com^
+||warlockborable.shop^
 ||warlockstallioniso.com^
 ||warped-bus.com^
 ||warumbistdusoarm.space^
@@ -34795,6 +34810,7 @@ browsershots.org#@#.advert_area
 ||worldlyyouth.com^
 ||worldtraffic.trade^
 ||worritsmahra.com^
+||worritsyogic.top^
 ||worstideatum.com^
 ||worthspontaneous.com^
 ||worthylighteravert.com^
@@ -35153,6 +35169,7 @@ browsershots.org#@#.advert_area
 ||zaugaunachuchiw.net^
 ||zaunooptaips.com^
 ||zautfqxtmfvjr.buzz^
+||zbmzkxmensplm.club^
 ||zchtpzu.com^
 ||zcode7.me^
 ||zcswet.com^
@@ -35821,6 +35838,7 @@ browsershots.org#@#.advert_area
 ||16211973.xyz^
 ||17199874.xyz^
 ||19706903.xyz^
+||2wu0m0ms098w7148.xyz^
 ||33109166.xyz^
 ||37243211.xyz^
 ||38167473.xyz^
@@ -35861,6 +35879,7 @@ browsershots.org#@#.advert_area
 ||kq6mv8mpvs4m10r449nms6.xyz^
 ||ns2l8nn10rns-6rlr38mp.xyz^
 ||o-3vq0t1kqukk9pns.xyz^
+||omomku7r4n3vo55rp5k.xyz^
 ||ts28ll0tk23t2n9pl0n327.xyz^
 ||wqq881m8uwq1k5m-4p7lv7.xyz^
 ||ad.lgappstv.com^
