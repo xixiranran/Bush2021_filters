@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: 4QXWuo1LnEYtbjLFYbXHbQ
-! Diff-Path: ../patches/14_optimized/14_optimized-s-1744186481-3600.patch
+! Checksum: 5Wfl7d6x8297CAwOQG22wQ
+! Diff-Path: ../patches/14_optimized/14_optimized-s-1744197037-3600.patch
 ! Title: AdGuard Annoyances filter (Optimized)
 ! Description: Blocks irritating elements on web pages including cookie notices, third-party widgets and in-page pop-ups. Contains the following AdGuard filters: Cookie Notices, Popups, Mobile App Banners, Other Annoyances and Widgets.
-! Version: 2.2.26.83
-! TimeUpdated: 2025-04-09T08:11:00+00:00
+! Version: 2.2.26.86
+! TimeUpdated: 2025-04-09T11:07:10+00:00
 ! Expires: 5 days (update frequency)
 !#######################################################
 !######### General element hiding rules ################
@@ -8773,7 +8773,7 @@ e.mail.ru,octavius.mail.ru##+js(remove-class, letter-list_top-line-adv-2pane|let
 dzen.ru##div[aria-label="Лента Дзена"] article:has(> div[data-ad-type="direct"])
 dzen.ru##div[class*="__advertItem "]
 dzen.ru##.news-page-layout__content > div.news-page-layout__rubricator + div[id][class]:has(div[class*="-redesign-placeholder__"])
-dzen.ru##+js(set-constant, Object.prototype.config.rtbRequestViaScript, undefined)
+~m.dzen.ru,dzen.ru##+js(set-constant, Object.prototype.config.rtbRequestViaScript, undefined)
 dzen.ru##+js(json-prune, ssrData.exportResponse.feedData.adItems)
 dzen.ru##+js(set-constant, Object.prototype.ssrBanner, undefined)
 dzen.ru##+js(abort-on-stack-trace, Promise, initContext)
@@ -8782,6 +8782,7 @@ m.dzen.ru##div[class^="desktop2--redesign-feed__"] div:has(> article[class*="--c
 m.dzen.ru##div[aria-label="Лента Дзена"] div + article[class*="--card-rtb__"]
 dzen.ru##div[class^="float-interview__float-"]
 dzen.ru##:matches-path(/video)div[class*="item-info__videoViewerItemInfo-"] + div:not([class])
+dzen.ru##:matches-path(/pogoda)div[data-bem*="segment-details"] > article.card ~ div[class]
 rambler.ua,rambler.ru##+js(set-cookie, _blocker_hidden, 1)
 !+ NOT_PLATFORM(windows, mac, android)
 championat.com##+js(json-prune, Blocks)
@@ -20528,6 +20529,9 @@ tv.yandex.*##.recommended-ott
 www.kinopoisk.ru#$#header[class][style*="--header-height:150px"] > div > img { display: none !important; }
 www.kinopoisk.ru#$#header[class][style*="--header-height:150px"] > div.header-navigation { margin-top: 0 !important; }
 www.kinopoisk.ru##div[class^="trailer-promo"]
+pixiv.net##section:has(> div > div.gtm-toppage-premium-close)
+bbs.itying.com##div[style="margin-bottom:20px;margin-bottom:10px"]
+bbs.itying.com##.ads
 jinxxy.com##.grid > .relative:has(.block[href^="https://"])
 health.eonet.jp##.pbNested
 nexusmods.com##.from-primary-subdued
