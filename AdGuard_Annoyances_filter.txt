@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: H9kPlUezD2JphlpL81IGUw
-! Diff-Path: ../patches/14_optimized/14_optimized-s-1744978483-3600.patch
+! Checksum: kxs3dtwUvLKfis/khPSJ1g
+! Diff-Path: ../patches/14_optimized/14_optimized-s-1744985417-3600.patch
 ! Title: AdGuard Annoyances filter (Optimized)
 ! Description: Blocks irritating elements on web pages including cookie notices, third-party widgets and in-page pop-ups. Contains the following AdGuard filters: Cookie Notices, Popups, Mobile App Banners, Other Annoyances and Widgets.
-! Version: 2.2.27.74
-! TimeUpdated: 2025-04-18T12:10:43+00:00
+! Version: 2.2.27.76
+! TimeUpdated: 2025-04-18T14:06:46+00:00
 ! Expires: 5 days (update frequency)
 !#######################################################
 !######### General element hiding rules ################
@@ -2352,9 +2352,9 @@ rosbalt.ru,newia.ru,dns.pl,bel.ru##+js(set-cookie, cookie-accepted, true)
 ||cmp.*/*/consent-bundle-$domain=springer.com|nature.com|springernature.com
 springernature.com,nature.com,springer.com#$?#.cc-banner { remove: true; }
 firebase.google.com##devsite-cookie-notification-bar
-multirenowacja.pl,sekrecik.pl,tagred.pl,soteshop.com,sote.pl,q21.pl,emilio.pl##+js(remove-class, modal-open, body)
-multirenowacja.pl,sekrecik.pl,tagred.pl,soteshop.com,sote.pl,q21.pl,emilio.pl#$##cookies_message_modal { display: none !important; }
-multirenowacja.pl,sekrecik.pl,tagred.pl,soteshop.com,sote.pl,q21.pl,emilio.pl#$#.modal-backdrop { display: none !important; }
+smieszneprezenty.com.pl,futuregardens.pl,multirenowacja.pl,sekrecik.pl,tagred.pl,soteshop.com,sote.pl,q21.pl,emilio.pl##+js(remove-class, modal-open, body)
+smieszneprezenty.com.pl,futuregardens.pl,multirenowacja.pl,sekrecik.pl,tagred.pl,soteshop.com,sote.pl,q21.pl,emilio.pl#$##cookies_message_modal { display: none !important; }
+smieszneprezenty.com.pl,futuregardens.pl,multirenowacja.pl,sekrecik.pl,tagred.pl,soteshop.com,sote.pl,q21.pl,emilio.pl#$#.modal-backdrop { display: none !important; }
 ||steelseries.com/static/css/eu-osano.
 muzyka.sklep.pl,excellent.com.pl,inbag.pl,dziergaczkowo.pl##+js(set-cookie-reload, AtomStore[COOKIES_ACCEPTED], 1)
 targikielce.pl#$##cookieInfoContainer { display: none !important; }
@@ -6270,6 +6270,8 @@ teleperformance.com#$#body { overflow: auto!important; }
 befestigungsfuchs.de,jawoll.de,cafe-royal.com,campingplus.de,bikebox-shop.de,mline.com,blumixx.de,roesle.com,moses-verlag.de,radonline.de,arctic.de#$#body.modal-open { overflow: visible !important; padding-right: 0 !important; }
 befestigungsfuchs.de,jawoll.de,cafe-royal.com,campingplus.de,bikebox-shop.de,mline.com,blumixx.de,roesle.com,moses-verlag.de,radonline.de,arctic.de#$#.acris-cookie-consent { display: none !important; }
 befestigungsfuchs.de,jawoll.de,cafe-royal.com,campingplus.de,bikebox-shop.de,mline.com,blumixx.de,roesle.com,moses-verlag.de,radonline.de,arctic.de#$#.acris-cookie-consent ~ .modal-backdrop { display: none !important; }
+!+ NOT_OPTIMIZED
+bookings.hermesairports.com##.cookie-panel-wrapper
 !+ NOT_OPTIMIZED
 ac-illust.com,photo-ac.com##.show-notice-cookie
 !+ NOT_OPTIMIZED
@@ -13924,6 +13926,7 @@ ozgurkocaeli.com.tr,turkuazgazetesi.net,yenialanya.com,mansetaydin.com,seskocael
 gaugau.futabanet.jp,newscientist.com,jiji.com,edp24.co.uk,technologyreview.com,nordbayern.de,thelocal.ch,morgenpost.de,waz.de,nrz.de,braunschweiger-zeitung.de,abendblatt.de,wolfsburger-nachrichten.de,wolfenbuetteler-zeitung.de,ynet.co.il#$#html > body.tp-modal-open { overflow: auto !important; }
 gaugau.futabanet.jp,newscientist.com,jiji.com,edp24.co.uk,technologyreview.com,nordbayern.de,thelocal.ch,morgenpost.de,waz.de,nrz.de,braunschweiger-zeitung.de,abendblatt.de,wolfsburger-nachrichten.de,wolfenbuetteler-zeitung.de,ynet.co.il#$#div[class="tp-modal"][style^="z-index: 3000"] { display: none !important; }
 gaugau.futabanet.jp,newscientist.com,jiji.com,edp24.co.uk,technologyreview.com,nordbayern.de,thelocal.ch,morgenpost.de,waz.de,nrz.de,braunschweiger-zeitung.de,abendblatt.de,wolfsburger-nachrichten.de,wolfenbuetteler-zeitung.de,ynet.co.il#$#div[class="tp-modal"][style^="z-index: 3000"] ~ div.tp-backdrop { display: none !important; }
+mir24.tv##div[class^="Banner_"]:has(> a[href="https://t.me/+TXi6c5FYgYB7yMKl"])
 doityourselfrv.com##.mnp-newsletter-box
 kp.ru##div[data-gtm-el="content-body"] ~ div[class^="sc-"] > div[class^="sc-"]:not([data-name]):has(> div[class^="sc-"] > a[href="https://t.me/+J-YF9mCO3WY2MTBi"])
 genic-web.com#?#.headline-link:has(> h2.headline-link__text:contains(Newsletter))
@@ -20626,6 +20629,8 @@ tv.yandex.*##.recommended-ott
 www.kinopoisk.ru#$#header[class][style*="--header-height:150px"] > div > img { display: none !important; }
 www.kinopoisk.ru#$#header[class][style*="--header-height:150px"] > div.header-navigation { margin-top: 0 !important; }
 www.kinopoisk.ru##div[class^="trailer-promo"]
+mir24.tv##div[class^="SidebarWidgets_"] > div[class^="Banner_"]:has(> a[href="/about/advertising"])
+||mirtvpc.cdnvideo.ru/mirtv/%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%B0%20%20%20.mp4
 gaming.amazon.com##div[data-a-target="prime-main"] div[data-a-target="MarketingPromotionBannerSectionRoot"]
 ilsole24ore.com###zephr-zone-footer
 ||membernotifications.aol.com/offers/aolHomepage/stickyFooter
@@ -23289,8 +23294,8 @@ bankier.pl,claudia.pl,dyskusje24.pl,edziecko.pl,haps.pl,infozdrowie24.pl,kobieta
 !+ NOT_PLATFORM(windows, mac, android)
 cocoleech.com##+js(set-constant, width, 100)
 prem.link##+js(set-constant, waiting_time, 0)
-urlbluemedia.*,bluemediadownload.*,bluemediaurls.lol,bluemedialink.online,dl.pcgamestorrents.org,bluemediafile.*,bluemediafiles.*,get-url.com##+js(nano-setInterval-booster, i--, , 0.02)
-urlbluemedia.*,bluemediadownload.*,bluemediaurls.lol,bluemedialink.online,dl.pcgamestorrents.org,bluemediafile.*,bluemediafiles.*,get-url.com##+js(set-constant, Time_Start, 0)
+bluedownload.*,urlbluemedia.*,bluemediadownload.*,bluemediaurls.lol,bluemedialink.online,dl.pcgamestorrents.org,bluemediafile.*,bluemediafiles.*##+js(adjust-setTimeout, ['href'], *, 0.001)
+bluedownload.*,urlbluemedia.*,bluemediadownload.*,bluemediaurls.lol,bluemedialink.online,dl.pcgamestorrents.org,bluemediafile.*,bluemediafiles.*,get-url.com##+js(nano-setInterval-booster, i--, , 0.02)
 ||fastly.jsdelivr.net/npm/disable-devtool@latest/disable-devtool.min.js$domain=dizipal37.cloud|dizipal43.cloud|dizipal45.cloud|dizipal47.cloud|dizipal48.cloud|dizipal54.cloud|dizipal73.cloud|dizipal140.cloud
 !##############################
 !######### HTML tweaks ########
