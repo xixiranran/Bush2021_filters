@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: Y2EhvV46mMWo90J1aEAm6w
-! Diff-Path: ../patches/224_optimized/224_optimized-s-1745324106-3600.patch
+! Checksum: 4nAR+5aFyAIGpLh9O9s0aQ
+! Diff-Path: ../patches/224_optimized/224_optimized-s-1745331071-3600.patch
 ! Title: AdGuard Chinese filter (Optimized)
 ! Description: EasyList China + AdGuard Chinese filter. Filter list that specifically removes ads on websites in Chinese language.
-! Version: 2.1.35.33
-! TimeUpdated: 2025-04-22T12:11:29+00:00
+! Version: 2.1.35.35
+! TimeUpdated: 2025-04-22T14:07:46+00:00
 ! Expires: 5 days (update frequency)
 ||mernrza.com^
 ||xjwhtz10.com^
@@ -588,10 +588,6 @@ popbee.com##.adblocker
 ##body > div#inplayer[align="center"]
 ##.Zi_ad_a_H
 ##a[href^="https://adm.beimg.com/"]
-##.app > div.app_tj
-##body > div.zdhf
-##body > div.dbfh
-##body > div.zdhf ~ div[style$=";background: #000;opacity:0.01;"]
 ##.row > div.colVideoList:has(> div.video-elem > a[target="_blank"])
 cnys.tv##+js(set-constant, config.group, '')
 applnn.cc##+js(noeval-if, encodeURIComponent)
@@ -2476,6 +2472,10 @@ csdn.net###footerRightAds
 ||s3.amazonaws.com/dmas-public/sitemaji/vast.xml$domain=dailymotion.com
 ||c.mipcdn.com/static/*/mip-ad/mip-ad.js
 ||mycodes.net/js/*.js
+##.app > div.app_tj
+##body > div.zdhf
+##body > div.dbfh
+##body > div[style$=";background: #000;opacity:0.01;"]
 .gif|$domain=/87[0-9]{2}ck\.cc/
 ||imgsrc.baidu.com/*/pic/*.jpg$domain=/87[0-9]{2}ck\.cc/
 [$domain=/87\d{2}ck\.cc/]##body > div[style] > a[href][target="_blank"]
@@ -4425,6 +4425,7 @@ newduba.cn###jq_youxi
 ||qwerhao3.com^
 ||cholurd.com^
 ||dhimphits.com^
+||uypg.cn^
 ||hgreils.com^
 ||lvqo.cn^
 ||jibtdn.top^
