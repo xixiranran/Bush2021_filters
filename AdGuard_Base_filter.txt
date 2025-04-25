@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: FOGHygsh+qq9dEdy1OFtcA
-! Diff-Path: ../patches/2_optimized/2_optimized-s-1745583274-3600.patch
+! Checksum: mskAaFbLYo0NrlmydYTA/A
+! Diff-Path: ../patches/2_optimized/2_optimized-s-1745590271-3600.patch
 ! Title: AdGuard Base filter + EasyList (Optimized)
 ! Description: EasyList + AdGuard English filter. This filter is necessary for quality ad blocking.
-! Version: 2.3.80.84
-! TimeUpdated: 2025-04-25T12:10:12+00:00
+! Version: 2.3.80.86
+! TimeUpdated: 2025-04-25T14:06:50+00:00
 ! Expires: 5 days (update frequency)
 ||nvpartnerspromo.com^$all
 ||yougetwhatyoupayfor.net^
@@ -5758,6 +5758,7 @@ syri.net##div[id^="rekl-"]
 ||i.imgur.com^$domain=filma24.*
 ||gjc.gjirafa.com^
 gjirafa.com##div[id^="an-holder-"]
+mutaz.net##.banners
 dlfox.com##p > a[target="_blank"] > img
 dlfox.com##div:not(.product_image) > a[target="_blank"] > img
 anime3rb.com##+js(no-setTimeout-if, /open-modal|AdscoreInit/)
@@ -25153,6 +25154,7 @@ browsershots.org#@#.advert_area
 ||geejetag.com^
 ||geeptaunip.net^
 ||geewedurisou.net^
+||geishastending.com^
 ||geiybze.com^
 ||gekeebsirs.com^
 ||gelatedsmiting.shop^
@@ -25824,6 +25826,7 @@ browsershots.org#@#.advert_area
 ||hoptopboy.com^
 ||horizontallypolluteembroider.com^
 ||horizontallywept.com^
+||horsiergrassed.com^
 ||hostadsmarkets.com^
 ||hostave4.net^
 ||hostingcloud.racing^
@@ -25972,6 +25975,7 @@ browsershots.org#@#.advert_area
 ||ilajaing.com^
 ||ildrendreaminger.org^
 ||ileeckut.com^
+||ileumoctant.com^
 ||iliketomakingpics.com^
 ||illinformed-imagination.com^
 ||illiterate-finance.com^
@@ -26092,6 +26096,7 @@ browsershots.org#@#.advert_area
 ||inspikon.com^
 ||inspxtrc.com^
 ||instaflrt.com^
+||insteamdentata.shop^
 ||instinctiveads.com^
 ||instrumenttactics.com^
 ||insure1266.fun^
@@ -26409,6 +26414,7 @@ browsershots.org#@#.advert_area
 ||kalifsseeding.top^
 ||kalimbadanic.shop^
 ||kalkvisrecit.shop^
+||kalpasbyron.com^
 ||kamassmyalia.com^
 ||kaminari.space^
 ||kaminari.systems^
@@ -27633,6 +27639,7 @@ browsershots.org#@#.advert_area
 ||nhyvivzra.com^
 ||nhywupchagze.com^
 ||nicerisle.com^
+||nichaithikr.net^
 ||nichedlinks.com^
 ||nicheevaderesidential.com^
 ||nichools.com^
@@ -28686,6 +28693,7 @@ browsershots.org#@#.advert_area
 ||potassaseafolk.shop^
 ||potatoesejection.com^
 ||potawe.com^
+||potentymoa.com^
 ||pothutepu.com^
 ||potsaglu.net^
 ||potskolu.net^
@@ -30413,6 +30421,7 @@ browsershots.org#@#.advert_area
 ||tame-discount.pro^
 ||tamedilks.com^
 ||tameti.com^
+||tammycooly.com^
 ||tanbarshenh.org^
 ||tankleconflab.shop^
 ||tanzineshruti.shop^
@@ -33837,6 +33846,7 @@ $popup,third-party,domain=1337x.buzz|adblockeronstape.me|adblockeronstreamtape.m
 ||mediax.dscgirls.live/p/live/vast$xmlhttprequest,domain=indiansexstories2.net
 ||milffox.com/ai/
 ||momvids.com/player/html.php?aid=
+||monsnode.com/ad_star_
 ||myreadingmanga.info/wp-admin/*.php$script,xmlhttprequest
 ||naughtyblog.org/wp-content/images/k2s/
 ||nsfwalbum.com/efds435m432.js
@@ -34867,6 +34877,7 @@ law.cornell.edu##.gfs
 ghacks.net##.ghacks-ad
 mql5.com##.giyamx4tr
 getcomics.org##.gjqry
+researchgate.net##.global-leaderboard-ad-container
 niagarafallsreview.ca,stcatharinesstandard.ca,therecord.com,thespec.com,thestar.com,wellandtribune.ca##.globalHeaderBillboard
 golf.com##.golf-ad
 safeway.com##.google-adManager

@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: TGiFBSuxl9HdxwWeWKg49Q
-! Diff-Path: ../patches/14_optimized/14_optimized-s-1745583272-3600.patch
+! Checksum: YbJC+qeCK4x/WBZ4g5Smfw
+! Diff-Path: ../patches/14_optimized/14_optimized-s-1745587033-3600.patch
 ! Title: AdGuard Annoyances filter (Optimized)
 ! Description: Blocks irritating elements on web pages including cookie notices, third-party widgets and in-page pop-ups. Contains the following AdGuard filters: Cookie Notices, Popups, Mobile App Banners, Other Annoyances and Widgets.
-! Version: 2.2.28.43
-! TimeUpdated: 2025-04-25T12:10:43+00:00
+! Version: 2.2.28.44
+! TimeUpdated: 2025-04-25T13:13:34+00:00
 ! Expires: 5 days (update frequency)
 !#######################################################
 !######### General element hiding rules ################
@@ -20774,8 +20774,6 @@ mail.proton.me##.tip-box
 qieyou.com##.pc-box-app
 tagesspiegel.de###piano-footerbar
 teenager365.to##.block-offer
-iobit.com##[class*="bottom"][class~="on"]
-iobit.com##.pop-buy:has(> span.close)
 pudelek.pl##article div[data-scroll-observer^="paragraph"] ~ div:has(a[href^="https://vip.pudelek.pl/?"] img)
 softodrom.ru##div[onclick="window.location.href='https://domains.softodrom.ru/'"]
 znanierussia.ru##.banner-mobile
@@ -20963,8 +20961,6 @@ code.visualstudio.com##.updates-banner
 mvideo.ru##mvid-banners-container
 deepl.com##div[data-testid="write-advertisement-banner"]
 asuracomic.net##body > .bg-gradient-to-br:has(> .relative > .items-center > button)
-iobit.com##div[class*="-pop"]
-iobit.com##.popbg
 ||mangatilkisi.com/wp-content/uploads/2024/12/MangaTilkisi-reklamsiz-okuma.webp
 streamlabs.com###ultra_banner
 thecode.media##div[class^="lazyblock-banner"]
@@ -21027,8 +21023,6 @@ studysmarter.*##div[data-ai-flashcard]
 studysmarter.*#$#.va-intent-premium { display: none !important; }
 studysmarter.*#$#body { overflow: auto !important; }
 examtopics.com##.bottomMarketing.slide-in
-iobit.com##.comm_bottom
-iobit.com##div[class*="float-"]
 m.e-mansion.co.jp###bbsBoardBody > p > a[href="https://www.sumu-log.com/"]
 www.e-mansion.co.jp##.entry-body > p > a[href="https://www.sumu-log.com/"]
 time.is###toppromotion
@@ -22212,6 +22206,12 @@ facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##a[t
 ||illicium.web.money^
 v.qq.com#?#div.nav-wrap > div > div:has(> a[href^="https://iwan.video.qq.com"])
 nijimiss.moe,novelskey.tarbin.net,gp.tsukimi.club,misskey.neos.love,mk.yopo.work,nijimiss.moe##.xF6dY
+iobit.com##div[class*="-mask"]
+iobit.com##div[class*="bottom"][class~="on"]
+iobit.com##div[class*="pop"]:has(> img[src*="pop"])
+iobit.com##div[class*="pop"][class*="bg"]
+iobit.com##.comm_bottom
+iobit.com##div[class*="float-"]
 @@||googletagmanager.com/gtm.js?id=GTM-WMQ82P6$domain=excite.co.jp,badfilter
 excite.co.jp###exCollaboration
 x.com,twitter.com##div[data-testid="primaryColumn"] > div[tabindex="0"] > div[class^="css-"] > div[class^="css-"][class*=" r-"] > div[class^="css-"][class*=" r-"] > div[class^="css-"] > div[class^="css-"][class*=" r-"] > div[class^="css-"] > div[class^="css-"][class*=" r-"][style^="background-color: rgb("]
