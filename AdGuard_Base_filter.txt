@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: +NzU4IB9mNXXThbQp331UA
-! Diff-Path: ../patches/2_optimized/2_optimized-s-1745928985-3600.patch
+! Checksum: rrO/3NB3SAPE6jg31SfXfw
+! Diff-Path: ../patches/2_optimized/2_optimized-s-1745932885-3600.patch
 ! Title: AdGuard Base filter + EasyList (Optimized)
 ! Description: EasyList + AdGuard English filter. This filter is necessary for quality ad blocking.
-! Version: 2.3.81.27
-! TimeUpdated: 2025-04-29T12:11:06+00:00
+! Version: 2.3.81.28
+! TimeUpdated: 2025-04-29T13:16:27+00:00
 ! Expires: 5 days (update frequency)
 ||nvpartnerspromo.com^$all
 ||yougetwhatyoupayfor.net^
@@ -7169,6 +7169,7 @@ ilmeteo.it###banner-320-50
 ilmeteo.it##[id^="banner-mnz-"]
 oggi.it##.adv-square
 ||components2.*.it/rcs_tealium/
+fritzbox-forum.com##main > div > div[style*="min-height:"][class]:has(> .banniere)
 jobrapido.com##.leaderboard-header-wrapper
 corriere.it#$#body.type-article > main#l-main { margin-top: 0 !important; }
 automoto.it,moto.it##body .mawrap
