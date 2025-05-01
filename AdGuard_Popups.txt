@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: mQzOHz73jbTb8v//pfRxfw
-! Diff-Path: ../patches/19_optimized/19_optimized-s-1746067313-3600.patch
+! Checksum: vT3Dk4/Ar8zDAiAUBP7xDQ
+! Diff-Path: ../patches/19_optimized/19_optimized-s-1746070333-3600.patch
 ! Title: AdGuard Popups filter (Optimized)
 ! Description: Blocks all kinds of pop-ups that are not necessary for websites' operation according to our Filter policy.
-! Version: 2.0.54.58
-! TimeUpdated: 2025-04-30T20:08:09+00:00
+! Version: 2.0.54.59
+! TimeUpdated: 2025-05-01T03:28:37+00:00
 ! Expires: 5 days (update frequency)
 ://yandex.*/images/_$xmlhttprequest,method=post
 ya.ru,yandex.*##:matches-path(/images).AdvMastHead
@@ -129,6 +129,7 @@ slashfilm.com##+js(abort-current-script, String.fromCharCode, /admiral|String\.f
 cbssports.com##+js(set-constant, loadAdmiralScript, noopFunc)
 hollywoodreporter.com,thegatewaypundit.com,pennlive.com,mlive.com##+js(set-constant, admrlLoaded, true)
 ##body div.bOvWNQ
+||storage.googleapis.com/ta3-ad-script/
 !+ NOT_OPTIMIZED
 mlive.com,cbr.com##body > div:not([style],[id]) > style + div[class]
 !+ NOT_OPTIMIZED
