@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: y0fTNPNGRAuptEOu9gS01A
-! Diff-Path: ../patches/2_optimized/2_optimized-s-1746605701-3600.patch
+! Checksum: rd8i1fBcg5f9o8FCX2cfrQ
+! Diff-Path: ../patches/2_optimized/2_optimized-s-1746616257-3600.patch
 ! Title: AdGuard Base filter + EasyList (Optimized)
 ! Description: EasyList + AdGuard English filter. This filter is necessary for quality ad blocking.
-! Version: 2.3.82.43
-! TimeUpdated: 2025-05-07T08:10:40+00:00
+! Version: 2.3.82.45
+! TimeUpdated: 2025-05-07T11:06:20+00:00
 ! Expires: 5 days (update frequency)
 ||gusoclji.com^
 ||lolostan.com^$all
@@ -14932,6 +14932,9 @@ cloutgist.com,link.almaftuchin.com,link1s.com,cravesandflames.com,novelsapps.com
 pholder.com#$?#main[id="Slideshow"] > section[class^="Slide "]:has(> article.Frame > div[aria-label^="Chaturbate"]) { remove: true; }
 protopage.com#?#body > div[style^="position: absolute"]:has(div.scheme-body-text[style*="width: 100px"])
 protopage.com#?#body > div[style^="position: absolute"]:has(.adsbygoogle)
+elektroda.de,elektroda.com,elektroda.pl##.JWzeW7p9as
+elektroda.de,elektroda.com,elektroda.pl##div[style="min-height: 265px;"]
+elektroda.de,elektroda.com,elektroda.pl##.VNByCMZS9T
 txxx.*##.sponsor
 txxx.*##.right
 txxx.*##div[class="video-conten"] > div:has(> div > a[href="/signin/"])
@@ -29901,6 +29904,7 @@ browsershots.org#@#.advert_area
 ||movfull.com^
 ||movie-pass.club^
 ||movie-pass.live^
+||movie-tv-free.com^
 ||moviead55.ru^
 ||moviesflix4k.info^
 ||moviesflix4k.xyz^
@@ -35600,6 +35604,7 @@ browsershots.org#@#.advert_area
 ||linksprf.com^$document
 ||mnaspm.com^$document
 ||mobiletracking.ru^$document
+||movie-tv-free.com^$document
 ||mytdsnet.com^$document
 ||olopruy.com^$document
 ||onclckpop.com^$document
@@ -36464,7 +36469,6 @@ browsershots.org#@#.advert_area
 ||michel8899.github.io/test/$media
 ||mmin.io/embed/
 ||mmwebhandler.888.com^
-||monetize-static.viralize.tv^
 ||mps.nbcuni.com/fetch/ext/
 ||multimovies.cloud/player/jw8/vast.js
 ||mweb-hb.presage.io^
