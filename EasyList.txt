@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: tE50VgAXnCPl5PPCPAvpVw
-! Version: 202505230151
+! Checksum: eu5kyemQRHk2osADU+SmMQ
+! Version: 202505230331
 ! Title: EasyList
-! Last modified: 23 May 2025 01:51 UTC
+! Last modified: 23 May 2025 03:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -20529,6 +20529,7 @@ browsershots.org#@#.advert_area
 ||ccmiocw.com^
 ||ccn08sth.de^
 ||ccryxqgqf.com^
+||ccuoqedyqvttq.tech^
 ||ccyaxntr.com^
 ||ccyowxwhuov.com^
 ||ccypzigf.com^
@@ -22248,6 +22249,7 @@ browsershots.org#@#.advert_area
 ||daukshewing.com^
 ||dauntgolfconfiscate.com^
 ||dauntroof.com^
+||dauraisookouphi.com^
 ||dauvasoofob.com^
 ||davdjpku.xyz^
 ||davidoffhand.com^
@@ -23841,6 +23843,7 @@ browsershots.org#@#.advert_area
 ||entlypleasantt.info^
 ||entlypleasanttacklin.com^
 ||entoticnilling.shop^
+||entozoavijay.com^
 ||entreatkeyrequired.com^
 ||entreatyfungusgaily.com^
 ||entrecard.s3.amazonaws.com^
@@ -25135,6 +25138,7 @@ browsershots.org#@#.advert_area
 ||fulvideozrt.click^
 ||fulylydevelopeds.com^
 ||fulyvaxscaucd.club^
+||fumbling-fact.pro^
 ||fumepurine.top^
 ||fumeuprising.com^
 ||fumtartujilse.net^
@@ -25866,6 +25870,7 @@ browsershots.org#@#.advert_area
 ||golden-gateway.com^
 ||goldfishouncereburial.com^
 ||goldinnips.top^
+||golfersaxumite.com^
 ||golsaiksi.net^
 ||goluckytiming.com^
 ||gomain.pro^
@@ -36542,6 +36547,7 @@ browsershots.org#@#.advert_area
 ||slipperydeliverance.com^
 ||slivmux.com^
 ||slk594.com^
+||slloidjg.com^
 ||slockertummies.com^
 ||sloeri.com^
 ||slopeac.com^
@@ -38768,6 +38774,7 @@ browsershots.org#@#.advert_area
 ||udbaa.com^
 ||udderhobble.com^
 ||udinugoo.com^
+||udjevpavryo.com^
 ||udmserve.net^
 ||udookrou.com^
 ||udoxeswdhatp.com^
@@ -38790,6 +38797,7 @@ browsershots.org#@#.advert_area
 ||ufpcdn.com^
 ||ufphkyw.com^
 ||ugbkfsvqkayt.icu^
+||ugekrelsewhe.com^
 ||ughesterurelanderp.org^
 ||ughtipless.shop^
 ||ugloubeehun.com^
@@ -40864,6 +40872,7 @@ browsershots.org#@#.advert_area
 ||yhmgbtyiidqwp.today^
 ||yhmhbnzz.com^
 ||yhorw.rocks^
+||yhqebnyrxckhp.online^
 ||yibivacaji.com^
 ||yieldads.com^
 ||yieldbuild.com^
@@ -41270,6 +41279,7 @@ browsershots.org#@#.advert_area
 ||zrqsmcx.top^
 ||zsjvzsm-s.fun^
 ||zsxeymv.com^
+||ztctourupmhin.today^
 ||ztlcrzmjshgfc.one^
 ||ztrack.online^
 ||zttwclmcpesce.xyz^
