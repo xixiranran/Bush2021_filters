@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: aW6gB+mSgBKwdHXd+UhKRQ
-! Diff-Path: ../patches/2_optimized/2_optimized-s-1748203891-3600.patch
+! Checksum: l7VfFlODad0fsCHHtCmahw
+! Diff-Path: ../patches/2_optimized/2_optimized-s-1748219450-3600.patch
 ! Title: AdGuard Base filter + EasyList (Optimized)
 ! Description: EasyList + AdGuard English filter. This filter is necessary for quality ad blocking.
-! Version: 2.3.85.45
-! TimeUpdated: 2025-05-25T20:06:48+00:00
+! Version: 2.3.85.49
+! TimeUpdated: 2025-05-26T00:26:23+00:00
 ! Expires: 5 days (update frequency)
 ||granaryhills.com^
 ||undoneferocious.com^
@@ -23295,6 +23295,7 @@ browsershots.org#@#.advert_area
 ||4690y10pvpq8.com^
 ||47cb693fa6.com^
 ||487ed86ea3.com^
+||4a41fff8a6.com^
 ||4a4c8a3bdd.com^
 ||4armn.com^
 ||4b6994dfa47cee4.com^
@@ -24560,6 +24561,7 @@ browsershots.org#@#.advert_area
 ||ardslediana.com^
 ||ardssandshrewon.com^
 ||ardsvenipedeon.com^
+||arduousrarely.shop^
 ||areasnap.com^
 ||areelektrosstor.com^
 ||areliux.cc^
@@ -26883,6 +26885,7 @@ browsershots.org#@#.advert_area
 ||dendrito.name^
 ||denierswildest.top^
 ||densubmarinesubdued.com^
+||densukabair.com^
 ||deostr.com^
 ||departgross.com^
 ||departurealtar.com^
@@ -27653,6 +27656,7 @@ browsershots.org#@#.advert_area
 ||euvshmpgabfk.com^
 ||euz.net^
 ||ev-dating.com^
+||evahvayal.com^
 ||evasiondemandedlearning.com^
 ||evejartaal.com^
 ||evendisciplineseedlings.com^
@@ -28036,6 +28040,7 @@ browsershots.org#@#.advert_area
 ||flylikeaguy.com^
 ||flymob.com^
 ||flytechb.com^
+||fmiqcupku.com^
 ||fmksnfjldgpls.buzz^
 ||fmlabsonline.com^
 ||fmndykpnsamtg.com^
@@ -28730,6 +28735,7 @@ browsershots.org#@#.advert_area
 ||gtucpejt.com^
 ||guardiandigitalcomparison.co.uk^
 ||guardiannostrils.com^
+||gubjsmpqnakpv.com^
 ||guchihyfa.pro^
 ||gucucmaikaups.com^
 ||guddledberith.com^
@@ -28756,6 +28762,7 @@ browsershots.org#@#.advert_area
 ||guvnumnm.com^
 ||guxidrookr.com^
 ||gvfejsk.beauty^
+||gvggatrvte.com^
 ||gvt2.com^
 ||gvyptfvufegymdd.com^
 ||gwallet.com^
@@ -29053,6 +29060,7 @@ browsershots.org#@#.advert_area
 ||hoachalaide.net^
 ||hoalaicheey.com^
 ||hoanoola.net^
+||hoanooludaini.com^
 ||hoardsmirkly.top^
 ||hockeyhavoc.com^
 ||hoglinsu.com^
@@ -31484,6 +31492,7 @@ browsershots.org#@#.advert_area
 ||nsmvbcq.cloud^
 ||nspmotion.com^
 ||nspot.co^
+||nsurowis.com^
 ||ntativesathyasesum.com^
 ||ntlurfixeyzlf.vip^
 ||ntoftheusysia.org^
@@ -32239,6 +32248,7 @@ browsershots.org#@#.advert_area
 ||petrifacius.com^
 ||petrolgraphcredibility.com^
 ||pevxxyfyhsvlh.global^
+||pexnebbdxqyqnfw.com^
 ||peylccervhkor.com^
 ||pezoomsekre.com^
 ||pf34zdjoeycr.com^
@@ -32281,6 +32291,7 @@ browsershots.org#@#.advert_area
 ||phiwheegnis.xyz^
 ||phloxsub73ulata.com^
 ||phoackoangu.com^
+||phoalsoagy.net^
 ||phoasougrair.com^
 ||phoawhoax.com^
 ||phoceansteaks.top^
@@ -32557,6 +32568,7 @@ browsershots.org#@#.advert_area
 ||predictivadvertising.com^
 ||predictivdisplay.com^
 ||predownset.shop^
+||predrawburp.shop^
 ||prefecturesuggestions.com^
 ||preferouter.com^
 ||prefleks.com^
@@ -32964,6 +32976,7 @@ browsershots.org#@#.advert_area
 ||qfoufvpyqcgjue.com^
 ||qfqdbkxmovpli.xyz^
 ||qgevavwyafjf.com^
+||qgmoslspensxh.buzz^
 ||qgwgweoxulrb.com^
 ||qgxbluhsgad.com^
 ||qhiatcfrywgse.click^
@@ -33054,6 +33067,7 @@ browsershots.org#@#.advert_area
 ||qwrwawwlrlkyr.top^
 ||qwtag.com^
 ||qwwsbnfspagbbn.com^
+||qwyvmjvkmrqlz.top^
 ||qxdownload.com^
 ||qxozluyvvyabw.online^
 ||qyjosnnv.link^
@@ -36549,11 +36563,13 @@ browsershots.org#@#.advert_area
 ||zumrieth.com^
 ||zunsoach.com^
 ||zureiskedamyb.world^
+||zurgeeboonsohu.com^
 ||zuulo.xyz^
 ||zuzodoad.com^
 ||zvetokr2hr8pcng09.com^
 ||zvsglctjjmstn.space^
 ||zvwhrc.com^
+||zvzmzrawlvryj.top^
 ||zwnoeqzsuz.com^
 ||zwxwpnkdaswfn.site^
 ||zxcdn.com^
