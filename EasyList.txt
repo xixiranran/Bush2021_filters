@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: /RItK+iHwiMXsn7RH6zyMA
-! Version: 202506030341
+! Checksum: D5wBJ2LKWMHotsWTdtPc2Q
+! Version: 202506030631
 ! Title: EasyList
-! Last modified: 03 Jun 2025 03:41 UTC
+! Last modified: 03 Jun 2025 06:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -22036,6 +22036,7 @@ browsershots.org#@#.advert_area
 ||crypto-ads.net^
 ||cryptoatom.care^
 ||cryptobeneluxbanner.care^
+||cryptobuffet.care^
 ||cryptojimmy.care^
 ||cryptomaster.care^
 ||cryptomcw.com^
