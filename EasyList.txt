@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 9Es4IDC8c3WlS/qUmaIxPg
-! Version: 202506050631
+! Checksum: BG/UC50RT0MOsNhtHO400A
+! Version: 202506050901
 ! Title: EasyList
-! Last modified: 05 Jun 2025 06:31 UTC
+! Last modified: 05 Jun 2025 09:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -24801,6 +24801,7 @@ browsershots.org#@#.advert_area
 ||fftwttdqtpcwd.com^
 ||fgbnnholonge.info^
 ||fgeivosgjk.com^
+||fgglmbniqymcrqr.com^
 ||fgjaelzvzxtdq.rocks^
 ||fgjyhsfpywrgw.com^
 ||fgk-jheepn.site^
@@ -28446,6 +28447,7 @@ browsershots.org#@#.advert_area
 ||jeqjawqyvboqj.top^
 ||jeqsuyzlpwjzy.rocks^
 ||jergocast.com^
+||jerjared.top^
 ||jeroud.com^
 ||jerseydisplayed.com^
 ||jerust.com^
@@ -29686,6 +29688,7 @@ browsershots.org#@#.advert_area
 ||libsjamdani.shop^
 ||licantrum.com^
 ||licenceconsiderably.com^
+||licensegunne.top^
 ||lichoutr.shop^
 ||lickingimprovementpropulsion.com^
 ||lidburger.com^
@@ -36247,6 +36250,7 @@ browsershots.org#@#.advert_area
 ||ruzotchaufu.xyz^
 ||rv-syzfedv.rocks^
 ||rvardsusyseinp.org^
+||rvcchbpedltxm.store^
 ||rvetreyu.net^
 ||rviqayltwu.love^
 ||rviqwckvfbjtay.com^
@@ -37056,6 +37060,7 @@ browsershots.org#@#.advert_area
 ||sindleasahel.shop^
 ||sing-tracker.com^
 ||singaporetradingchallengetracker1.com^
+||singeesaghachi.com^
 ||singelstodate.com^
 ||singledatetime.com^
 ||singlesgetmatched.com^
@@ -39597,6 +39602,7 @@ browsershots.org#@#.advert_area
 ||uncolylirella.top^
 ||uncomfortableremote.com^
 ||uncommonperceived.com^
+||uncopedekkos.top^
 ||uncrobator.com^
 ||uncrookcurry.com^
 ||uncrownarmenic.com^
@@ -41410,6 +41416,7 @@ browsershots.org#@#.advert_area
 ||xttaff.com^
 ||xubcnzfex.com^
 ||xubzkiajd.com^
+||xuicldunsrl.com^
 ||xukpqemfs.com^
 ||xumolcafw.com^
 ||xupskiqab.com^
@@ -41479,6 +41486,7 @@ browsershots.org#@#.advert_area
 ||yasesumedadele.com^
 ||yashi.com^
 ||yaszcbffjnfak.today^
+||yatkaddvhk.com^
 ||yauperstote.top^
 ||yauponbotone.com^
 ||yavli.com^
