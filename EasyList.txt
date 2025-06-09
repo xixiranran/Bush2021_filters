@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: CROMPVE+2KivJqAgPEe1KQ
-! Version: 202506090631
+! Checksum: w6l3h1u+3a+fACeTBwTfnQ
+! Version: 202506090921
 ! Title: EasyList
-! Last modified: 09 Jun 2025 06:31 UTC
+! Last modified: 09 Jun 2025 09:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17686,6 +17686,7 @@ browsershots.org#@#.advert_area
 ||akvvkmqezvbkr.top^
 ||akvvkmqezvzvm.top^
 ||akvvraarxa.com^
+||akwmqvpfg.com^
 ||akxaqvanwmh.com^
 ||akxlkuodmhta.com^
 ||akxmagzkoo.com^
@@ -19787,6 +19788,7 @@ browsershots.org#@#.advert_area
 ||blotecardthumb.com^
 ||blownsuperstitionabound.com^
 ||blprgctcgxjreyu.com^
+||blqsrexczsqht.site^
 ||blu5fdclr.com^
 ||blubberrowan.com^
 ||blubberspoiled.com^
@@ -23178,6 +23180,7 @@ browsershots.org#@#.advert_area
 ||dkeakszrup.com^
 ||dkeolzolnwun.com^
 ||dkfqrsqg.com^
+||dkgyqvkxyj.com^
 ||dkijkolicobf.com^
 ||dkijnrhdtlvdm.fun^
 ||dkikurancq.com^
@@ -24037,6 +24040,7 @@ browsershots.org#@#.advert_area
 ||elpfulinotahere.com^
 ||elrecognisefro.com^
 ||elsewhereopticaldeer.com^
+||eluatedawreak.top^
 ||eludersjannock.shop^
 ||eluhlhjv.life^
 ||elyandbegantoti.com^
@@ -26077,6 +26081,7 @@ browsershots.org#@#.advert_area
 ||glaurtas.com^
 ||glaussogira.xyz^
 ||glautchoapes.net^
+||glautheephou.com^
 ||glazedugra.com^
 ||glazepoutpattern.com^
 ||glazingretentionupcoming.com^
@@ -28005,6 +28010,7 @@ browsershots.org#@#.advert_area
 ||ineffectivenaive.com^
 ||inestimablereddencloset.com^
 ||inexpedientcunning.com^
+||inexperienced-end.pro^
 ||inexplicablecarelessfairly.com^
 ||infatuated-difference.pro^
 ||infectedrepentearl.com^
@@ -29405,6 +29411,7 @@ browsershots.org#@#.advert_area
 ||kukrosti.com^
 ||kulakiayme.com^
 ||kulangflook.shop^
+||kulegmfhlaxdb.website^
 ||kulroakonsu.net^
 ||kultingecauyuksehink.com^
 ||kultingecauyuksehinkitw.info^
@@ -29447,6 +29454,7 @@ browsershots.org#@#.advert_area
 ||kwtnhdrmbx.com^
 ||kwux-uudx.online^
 ||kxdxsbyomyuim.rocks^
+||kxfimwhpd.com^
 ||kxiaruornurfb.tech^
 ||kxnggkh2nj.com^
 ||kxshyo.com^
@@ -32343,6 +32351,7 @@ browsershots.org#@#.advert_area
 ||nutriasnobbily.top^
 ||nutritionrantlullaby.com^
 ||nutritionshooterinstructor.com^
+||nutritious-debt.pro^
 ||nutritious-essay.pro^
 ||nutritious-month.com^
 ||nutty-abuse.pro^
@@ -32941,6 +32950,7 @@ browsershots.org#@#.advert_area
 ||oosoojainy.xyz^
 ||oostotsu.com^
 ||ootchoft.com^
+||oourmarketingefifort.com^
 ||oowkzpjo-o.click^
 ||ooxenoopsoon.com^
 ||ooyejpjenphbo.online^
@@ -33088,6 +33098,7 @@ browsershots.org#@#.advert_area
 ||origunix.com^
 ||orisonaunties.top^
 ||oritooep.win^
+||orjbehrhaiv.com^
 ||orjfun.com^
 ||orkwithcatukhy.com^
 ||orlglnaldates.net^
@@ -34802,6 +34813,7 @@ browsershots.org#@#.advert_area
 ||ptelastaxo.com^
 ||pteleaspiring.top^
 ||ptemsoaksol.net^
+||pteromayabby.shop^
 ||ptichoolsougn.net^
 ||ptidsezi.com^
 ||ptifaustounsaz.com^
@@ -35146,6 +35158,7 @@ browsershots.org#@#.advert_area
 ||qghqtntnadq.com^
 ||qgimxtyttlpyj.store^
 ||qgmoslspensxh.buzz^
+||qgpiphehhrcvl.space^
 ||qgwgweoxulrb.com^
 ||qgxbluhsgad.com^
 ||qhiatcfrywgse.click^
@@ -36369,6 +36382,7 @@ browsershots.org#@#.advert_area
 ||rpts.org^
 ||rpuapxwq.com^
 ||rqazepammrl.com^
+||rqejawwjlazlv.top^
 ||rqnvci.com^
 ||rqr97sfd.xyz^
 ||rqsaxxdbt.com^
@@ -37573,6 +37587,7 @@ browsershots.org#@#.advert_area
 ||smsapiens.com^
 ||smuggeralapa.com^
 ||smugismanaxon.com^
+||smumazydhxnou.online^
 ||smutterchis.top^
 ||smuwroli.com^
 ||smyvuljawh.com^
@@ -38635,6 +38650,7 @@ browsershots.org#@#.advert_area
 ||taxissunroom.com^
 ||taxitesgyal.top^
 ||taxrsiwlggms.com^
+||taypwqoprmcap.space^
 ||tazkiaonu.click^
 ||tbdhrjsywgjcq.tech^
 ||tbeiu658gftk.com^
@@ -39876,6 +39892,7 @@ browsershots.org#@#.advert_area
 ||ukuleqasforsale.com^
 ||ukzemydream.com^
 ||ulbackgroundandi.com^
+||uldthinkhimunp.com^
 ||uleqasforsalesre.com^
 ||ulesxbo.com^
 ||ulheaddedfearing.com^
@@ -40375,6 +40392,7 @@ browsershots.org#@#.advert_area
 ||vdlxvltxbqlza.site^
 ||vdopia.com^
 ||vdulz.org^
+||vdxnkmjloixhc.store^
 ||vdzna.com^
 ||vealbkvvorqry.top^
 ||vebadu.com^
@@ -40861,6 +40879,7 @@ browsershots.org#@#.advert_area
 ||wakpaqamxvum.com^
 ||walkerbayonet.com^
 ||walletrelapse.com^
+||wallochmm.shop^
 ||wallowwholike.com^
 ||wallpapersfacts.com^
 ||wallstrads.com^
@@ -41099,6 +41118,7 @@ browsershots.org#@#.advert_area
 ||wewlorozwojrm.top^
 ||wewlorozwolrr.top^
 ||wewlorozwolyz.top^
+||wewlorozwomyv.top^
 ||wextap.com^
 ||wfcs.lol^
 ||wfexxzpmengpk.today^
@@ -41589,6 +41609,7 @@ browsershots.org#@#.advert_area
 ||wwwpromoter.com^
 ||wwwwzerblvvqv.top^
 ||wxgijrbh.com^
+||wxgsxvnlmnyrvp.com^
 ||wxhiojortldjyegtkx.bid^
 ||wxqbopca-i.global^
 ||wxseedslpi.com^
