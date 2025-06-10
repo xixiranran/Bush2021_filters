@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 8AfTc8DOgOeBBBQKlb1u8Q
-! Version: 202506100201
+! Checksum: ROHzK7VXPfPKDC7g1TG5vg
+! Version: 202506100331
 ! Title: EasyList
-! Last modified: 10 Jun 2025 02:01 UTC
+! Last modified: 10 Jun 2025 03:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -19991,6 +19991,7 @@ browsershots.org#@#.advert_area
 ||borrowingbalm.com^
 ||borrowjavgg124.fun^
 ||borrowpreviewcardinal.com^
+||borschtinurns.shop^
 ||borshtselemis.top^
 ||bortschtinea.top^
 ||borzjournal.ru^
@@ -29715,6 +29716,7 @@ browsershots.org#@#.advert_area
 ||lbylqerzmzlzq.top^
 ||lbzyjmbvmkkzr.top^
 ||lcebfpvqdbih.com^
+||lchdnstfxdxve.com^
 ||lchtraf.com^
 ||lcnmoccchdoij.vip^
 ||lcolumnstoodth.info^
@@ -41463,6 +41465,7 @@ browsershots.org#@#.advert_area
 ||wjebboljovowm.top^
 ||wjgpspkxzjbdgu.com^
 ||wjljwqbzjjvkw.top^
+||wjnhuzgbngwgx.store^
 ||wjqssnujrbyu.com^
 ||wjvavwjyaso.com^
 ||wjvyorryojzaj.top^
@@ -42020,6 +42023,7 @@ browsershots.org#@#.advert_area
 ||ybsqqegmkdonc.life^
 ||ybtkzjm.com^
 ||yccylqzzbmeqg.global^
+||ycdfhjmffxjji.space^
 ||yceml.net^
 ||yckwcpcgnf.com^
 ||ydenknowled.com^
