@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: K/3EatKuluAL4QK1l1xihg
-! Diff-Path: ../patches/2_optimized/2_optimized-s-1750300967-3600.patch
+! Checksum: jgyYPFxkB9YTXVxGDSmhlw
+! Diff-Path: ../patches/2_optimized/2_optimized-s-1750310119-3600.patch
 ! Title: AdGuard Base filter + EasyList (Optimized)
 ! Description: EasyList + AdGuard English filter. This filter is necessary for quality ad blocking.
-! Version: 2.3.90.19
-! TimeUpdated: 2025-06-19T02:37:58+00:00
+! Version: 2.3.90.22
+! TimeUpdated: 2025-06-19T05:10:57+00:00
 ! Expires: 5 days (update frequency)
 ||buoydeparturediscontent.com^$all
 ||vazdatbfutc.com^
@@ -25027,6 +25027,7 @@ browsershots.org#@#.advert_area
 ||ay5u9w4jjc.com^
 ||ayads.co^
 ||ayarkkbmakkja.top^
+||ayarkkbmakvzr.top^
 ||ayboll.com^
 ||aycompleted.com^
 ||aycrxa.com^
@@ -27565,6 +27566,7 @@ browsershots.org#@#.advert_area
 ||edukicationandasm.com^
 ||edvfwlacluo.com^
 ||edwmpt.com^
+||edxilaprgjxqt.site^
 ||edytitqbzsqgq.store^
 ||eeberoasfqxwg.global^
 ||eecduaknve.com^
@@ -29476,6 +29478,7 @@ browsershots.org#@#.advert_area
 ||iacasjezogonf.online^
 ||iagrus.com^
 ||iaisvasxruxqv.life^
+||ialvzcnykqyvk.website^
 ||iamiraqi.com^
 ||iaodvlxvtckylei.com^
 ||iasrv.com^
@@ -29528,6 +29531,7 @@ browsershots.org#@#.advert_area
 ||ifinbjyvqxytr.world^
 ||ifirsjqydbkb.com^
 ||ifont.site^
+||ifwgkkvmwxzgp.store^
 ||igaming-warp-service.io^
 ||ighrpmbwdrzoy.store^
 ||iglakgdhhmagf.online^
@@ -29887,6 +29891,7 @@ browsershots.org#@#.advert_area
 ||jadtottuleret.org^
 ||jagerstaposa.shop^
 ||jagnoans.com^
+||jagratadonmeh.top^
 ||jaifeeveely.com^
 ||jaimirozadair.net^
 ||jaivoapsaiji.com^
@@ -30076,6 +30081,7 @@ browsershots.org#@#.advert_area
 ||jrnoskvqntwhk.site^
 ||jrolyrlabyjyj.top^
 ||jrpkizae.com^
+||jrrygibhwcmwb.space^
 ||jrvrkzrjrmoyy.top^
 ||jrxccqmxg.com^
 ||js-check.com^
@@ -30676,6 +30682,7 @@ browsershots.org#@#.advert_area
 ||likeads.com^
 ||likelyguy.com^
 ||likinginconvenientpolitically.com^
+||limerupcatch.com^
 ||limineshucks.com^
 ||limited-motor.pro^
 ||limpingpick.com^
@@ -31275,6 +31282,7 @@ browsershots.org#@#.advert_area
 ||mickosijacm.net^
 ||microad.net^
 ||microadinc.com^
+||middensunrra.com^
 ||midgetbreakfast.com^
 ||midlk.online^
 ||midmaintee.com^
@@ -31893,6 +31901,7 @@ browsershots.org#@#.advert_area
 ||nsmpydfe.net^
 ||nspmotion.com^
 ||nspot.co^
+||nstytzmbwuylf.site^
 ||nsurowis.com^
 ||ntativesathyasesum.com^
 ||ntlurfixeyzlf.vip^
@@ -32115,6 +32124,7 @@ browsershots.org#@#.advert_area
 ||okaidsotsah.com^
 ||okdbqipaqhp.com^
 ||okdigital.me^
+||okdjakskmgpk.com^
 ||okivygduxl.com^
 ||oklbhyzogmzxq.rocks^
 ||okltuhoqvdk.com^
@@ -33511,6 +33521,7 @@ browsershots.org#@#.advert_area
 ||qpesddemg.com^
 ||qpfyoire.com^
 ||qpgbxpuoepxyb.online^
+||qpkdnapvugn.com^
 ||qprmqmhtilo.com^
 ||qpwvok0l.xyz^
 ||qqkyhkfakl.xyz^
@@ -33919,6 +33930,7 @@ browsershots.org#@#.advert_area
 ||riletonesleak.com^
 ||rilseessinipto.xyz^
 ||riluaneth.com^
+||rimoudrauft.net^
 ||rinchperjink.shop^
 ||ringaunsoordoo.net^
 ||ringersidewaysapiece.com^
@@ -34301,6 +34313,7 @@ browsershots.org#@#.advert_area
 ||scfsdvc.com^
 ||scheduleginnarcotic.com^
 ||schistmythist.top^
+||schizosauge.top^
 ||schjmp.com^
 ||scholarsslate.com^
 ||schoolhangoverearlier.com^
@@ -34639,6 +34652,7 @@ browsershots.org#@#.advert_area
 ||slowclick.top^
 ||slpmdjwuan.com^
 ||sltraffic.com^
+||sluggedabyssal.shop^
 ||sluicebigheartedpeevish.com^
 ||sluicedevastating.com^
 ||slushhelmetmirth.com^
@@ -35695,6 +35709,7 @@ browsershots.org#@#.advert_area
 ||tterforiwasin.org^
 ||ttlhwufpaqwkw.site^
 ||ttoc8ok.com^
+||ttoyfmexbpwhj.online^
 ||ttrk.io^
 ||ttwmed.com^
 ||tuaos.xyz^
@@ -35882,6 +35897,7 @@ browsershots.org#@#.advert_area
 ||undergodoublycongruous.com^
 ||underpantshurl.com^
 ||understanding3x.fun^
+||understatedvillage.pro^
 ||undiesthumb.com^
 ||undigrecombs.shop^
 ||unelekidan.com^
@@ -36565,6 +36581,7 @@ browsershots.org#@#.advert_area
 ||where.com^
 ||wherebywhatsoeverduck.com^
 ||wheredsolon.top^
+||whesulsejortoag.net^
 ||whiceega.com^
 ||whijzbsomas.com^
 ||whilsttypewriter.com^
@@ -37053,6 +37070,7 @@ browsershots.org#@#.advert_area
 ||yldbt.com^
 ||yldmgrimg.net^
 ||yllaris.com^
+||ylnrfnryvkjmh.website^
 ||ylscmihqxrrda.global^
 ||yluougjuhasyhr.com^
 ||ylx-1.com^
