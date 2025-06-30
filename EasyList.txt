@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: RBg797oNDWJvxePfX3chQg
-! Version: 202506300211
+! Checksum: gI1Ki0Ab0OlJXT2rlSoseA
+! Version: 202506300341
 ! Title: EasyList
-! Last modified: 30 Jun 2025 02:11 UTC
+! Last modified: 30 Jun 2025 03:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17561,6 +17561,7 @@ browsershots.org#@#.advert_area
 ||ahqnijgiga.com^
 ||ahqovxli.com^
 ||ahqpqagt.gay^
+||ahqyewlmy.xyz^
 ||ahrhxdoudmngm.space^
 ||ahscdn.com^
 ||ahshujhpyh.com^
@@ -18815,6 +18816,7 @@ browsershots.org#@#.advert_area
 ||awbbjmp.com^
 ||awbbsat.com^
 ||awbms.com^
+||awbrwrywkwjmm.top^
 ||awbrwrywkwqwj.top^
 ||awcrpu.com^
 ||awdeliverynet.com^
@@ -25462,6 +25464,7 @@ browsershots.org#@#.advert_area
 ||fuywsmvxhtg.com^
 ||fuzakumpaks.com^
 ||fv-bpmnrzkv.vip^
+||fvchjvaiisuxrpb.com^
 ||fvcm.net^
 ||fvcwqkkqmuv.com^
 ||fvebcbtqiw.com^
@@ -29376,6 +29379,7 @@ browsershots.org#@#.advert_area
 ||krisydark.com^
 ||krjxhvyyzp.com^
 ||krkstrk.com^
+||krnvcwvvggttq.space^
 ||kronosoolites.top^
 ||krxyfefbtwc.com^
 ||krzovyae.work^
@@ -30454,6 +30458,7 @@ browsershots.org#@#.advert_area
 ||lwiarsocx.com^
 ||lwioszfmupt.com^
 ||lwirirvpo.com^
+||lwjawalwbwgvv.top^
 ||lwjje.com^
 ||lwjvyd.com^
 ||lwmpocteuzldy.world^
@@ -31585,6 +31590,7 @@ browsershots.org#@#.advert_area
 ||muddyquote.pro^
 ||mudodqjhyc.com^
 ||muffledpitch.pro^
+||mufflessettlor.shop^
 ||mufrjyufslkcp.space^
 ||mugglesskyfte.com^
 ||mugpothop.com^
@@ -41238,6 +41244,7 @@ browsershots.org#@#.advert_area
 ||vvtwasjebvswf.website^
 ||vvuttotofvazt.site^
 ||vwahacrubri.com^
+||vwbbphonljgrr.website^
 ||vwmdzetaikxvc.site^
 ||vwpttkoh.xyz^
 ||vwtcrfoovanir.online^
@@ -62701,6 +62708,7 @@ gamcore.com##li.d-md-block > a[rel]
 @@||pntrs.com/b/$image,domain=extrarebates.com
 @@||poastcdn.org/ad/$image,domain=poa.st
 @@||portal.autotrader.co.uk/advert/$~third-party
+@@||powersports.honda.com/js/*/Popup2.js$~third-party
 @@||prebid.adnxs.com^$xmlhttprequest,domain=go.cnn.com
 @@||preromanbritain.com/maxymiser/$~third-party
 @@||promo.com/embed/$subdocument,third-party
