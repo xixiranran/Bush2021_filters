@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: PUy241ZPtXysFVEl7mm4uw
-! Version: 202507011241
+! Checksum: Ynlq0lw4MVraSYQyne3KVQ
+! Version: 202507011521
 ! Title: EasyList
-! Last modified: 01 Jul 2025 12:41 UTC
+! Last modified: 01 Jul 2025 15:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -20038,6 +20038,7 @@ browsershots.org#@#.advert_area
 ||bpoiscqmwxej.buzz^
 ||bpoyceyrj.com^
 ||bptqlmmhvbkk.com^
+||bqbgwwvnmwnn.top^
 ||bqgrsgchpqt.com^
 ||bqrdoilvhadpq.vip^
 ||bqrjmulwnxynr.website^
@@ -22310,6 +22311,7 @@ browsershots.org#@#.advert_area
 ||daicagrithi.com^
 ||daichoho.com^
 ||daicoaky.net^
+||daidlepulps.top^
 ||daihoozaiweptoo.com^
 ||daileezokojasu.net^
 ||daily-datehere.com^
@@ -23165,6 +23167,7 @@ browsershots.org#@#.advert_area
 ||documentaryangerabed.com^
 ||documentaryselfless.com^
 ||dodaihoptu.xyz^
+||doddetalage.top^
 ||dodgyfactoidprecut.com^
 ||dodgyresources.com^
 ||doflygonan.com^
@@ -24478,6 +24481,7 @@ browsershots.org#@#.advert_area
 ||expressmealdelivery.shop^
 ||expressproducer.com^
 ||exptlgooney.com^
+||exqbxfzcrslqg.store^
 ||exqixvhgjugsmq.com^
 ||exrtbsrv.com^
 ||exrzo.love^
@@ -26281,6 +26285,7 @@ browsershots.org#@#.advert_area
 ||gpodxdmnivc.com^
 ||gpsecureads.com^
 ||gpseyeykuwgn.rocks^
+||gpviryfjyadhj.website^
 ||gpwkcgvhjobnua.com^
 ||gqalqi656.com^
 ||gqckjiewg.com^
@@ -26824,6 +26829,7 @@ browsershots.org#@#.advert_area
 ||hbloveinfo.com^
 ||hborq.com^
 ||hbphppfjuonez.site^
+||hbppmvlkr.xyz^
 ||hbstqpvrzpfx.com^
 ||hbudqnvaytwdc.world^
 ||hcakezodjouff.store^
@@ -27143,6 +27149,7 @@ browsershots.org#@#.advert_area
 ||hitlnk.com^
 ||hivaqfofkche.com^
 ||hivorltuk.com^
+||hiwluqdmtglpav.com^
 ||hixsutkzy.com^
 ||hixtzumpygmi.com^
 ||hiynquvlrevli.com^
@@ -28195,6 +28202,7 @@ browsershots.org#@#.advert_area
 ||iouyechctsbmz.vip^
 ||iovia-pmj.com^
 ||ip186269007.ahcdn.com^
+||ipallhpscbdou.site^
 ||ipcejez.com^
 ||ipcjmwhyo.com^
 ||ipelo.site^
@@ -28590,6 +28598,7 @@ browsershots.org#@#.advert_area
 ||jgfuxnrloev.com^
 ||jggleds.shop^
 ||jgiyadntcqakjyp.com^
+||jgkbbvqvqvmz.top^
 ||jgqaainj.buzz^
 ||jgtdptiivqmxubk.com^
 ||jgtjw.com^
@@ -28765,6 +28774,7 @@ browsershots.org#@#.advert_area
 ||jowqcaxfctoob.online^
 ||jowxbrrtyt.com^
 ||jowyylklbvmz.top^
+||jowyylklklmb.top^
 ||joxaviri.com^
 ||joxmvhwkqhqvb.site^
 ||joycreatorheader.com^
@@ -29176,6 +29186,7 @@ browsershots.org#@#.advert_area
 ||kfewmylmeadf.com^
 ||kfexihwcej.com^
 ||kffnjkvxbhyzl.vip^
+||kfgelwiwwjwwf.com^
 ||kfjhd.com^
 ||kfmmfyrkrgipm.love^
 ||kfmsltodvutodo.xyz^
@@ -30560,6 +30571,7 @@ browsershots.org#@#.advert_area
 ||lvvbqeaqvrmvy.top^
 ||lvw7k4d3j.com^
 ||lvyowwrjeqev.top^
+||lvyowwrjewjj.top^
 ||lvyrokjbvvoor.top^
 ||lw2dplgt8.com^
 ||lwbjbbnbnvqmw.top^
@@ -33033,6 +33045,7 @@ browsershots.org#@#.advert_area
 ||olbmcpmktchpe.site^
 ||old-go.pro^
 ||oleggurge.com^
+||olgeckbicrdms.com^
 ||olichoogrulsom.com^
 ||olineman.pro^
 ||olivecough.com^
@@ -35960,6 +35973,7 @@ browsershots.org#@#.advert_area
 ||raxxkxvipsusz.site^
 ||raylnk.com^
 ||raymondcarryingordered.com^
+||rayonsfurled.top^
 ||razzlebuyer.com^
 ||rbejwzfebcxaz.world^
 ||rbjnuporihrye.store^
@@ -38504,6 +38518,7 @@ browsershots.org#@#.advert_area
 ||staggersuggestedupbrining.com^
 ||stagingjobshq.com^
 ||staigaulicm.com^
+||stainedmacrame.top^
 ||staipseegnauw.com^
 ||staixemo.com^
 ||stallionshootimmigrant.com^
@@ -40853,6 +40868,7 @@ browsershots.org#@#.advert_area
 ||uxwinyafloqfy.store^
 ||uxzqnsss.com^
 ||uydyqlnebqlwe.global^
+||uygjexgubaaueiy.xyz^
 ||uyiteasacomsys.info^
 ||uynrxrspirsnw.space^
 ||uyrolbvqcbrot.site^
@@ -42238,6 +42254,7 @@ browsershots.org#@#.advert_area
 ||wyvlllooalobz.top^
 ||wywkwqzkavlvw.top^
 ||wywkwqzkavmvm.top^
+||wywtpkeai.com^
 ||wzcuinglezyz.one^
 ||wzeofdkmyo.com^
 ||wzhraonifqvig.space^
@@ -63305,7 +63322,6 @@ gamcore.com##li.d-md-block > a[rel]
 @@||ganma.jp/view/magazine/viewer/pages/advertisement/googleAdSense.html|$~third-party,xmlhttprequest
 @@||getjad.io/library/$script,domain=allocine.fr
 @@||go.ezodn.com/beardeddragon/basilisk.js$domain=humix.com
-@@||google.com/adsense/search/ads.js$domain=news.biglobe.ne.jp
 @@||googleadservices.com/pagead/conversion.js$domain=ncsoft.jp
 @@||gunosy.co.jp/img/ad/$image,~third-party
 @@||h1g.jp/img/ad/ad_heigu.html$~third-party
