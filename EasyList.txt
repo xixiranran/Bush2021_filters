@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: QsZtcKKPilq//c9Cmq/QXw
-! Version: 202507050151
+! Checksum: 40EhNyjPafTg/tFckw5Iog
+! Version: 202507050341
 ! Title: EasyList
-! Last modified: 05 Jul 2025 01:51 UTC
+! Last modified: 05 Jul 2025 03:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18013,6 +18013,7 @@ browsershots.org#@#.advert_area
 ||amongnemesesquadrant.com^
 ||amongstbestrew.top^
 ||amoochaw.com^
+||amorosapoloist.shop^
 ||amorphousankle.com^
 ||amoteehoodaumse.net^
 ||amoufoughi.com^
@@ -19576,6 +19577,7 @@ browsershots.org#@#.advert_area
 ||bewperspiths.top^
 ||beyanmaan.com^
 ||beykishen.com^
+||beyliksyowler.com^
 ||beyourxfriend.com^
 ||bf-ad.net^
 ||bf002bbbbb.com^
@@ -22232,6 +22234,7 @@ browsershots.org#@#.advert_area
 ||cueweliqubbvh.space^
 ||cuffinliever.shop^
 ||cufultahaur.com^
+||cuinageaquilid.com^
 ||cuisineenvoyadvertise.com^
 ||cujruloq.com^
 ||cujscaawbaz.com^
@@ -24455,6 +24458,7 @@ browsershots.org#@#.advert_area
 ||ethon.site^
 ||ethylicestops.top^
 ||etiquettealliance.com^
+||etiquettesigned.com^
 ||etobeasasile.org^
 ||etobepartouk.com^
 ||etoexukpreses.com^
@@ -26699,6 +26703,7 @@ browsershots.org#@#.advert_area
 ||gt5tiybvn.com^
 ||gtbbgjo.art^
 ||gtbdhr.com^
+||gtcgaddurcffgs.com^
 ||gtghsgrneexou.website^
 ||gthduwvnqrq.com^
 ||gthecoastand.org^
@@ -28219,6 +28224,7 @@ browsershots.org#@#.advert_area
 ||infindiasernment.com^
 ||infirmaryabundance.com^
 ||infirmiere-moyersoen.be^
+||infixedderere.com^
 ||inflationhumanity.com^
 ||inflationmileage.com^
 ||inflationreliable.com^
@@ -30224,6 +30230,7 @@ browsershots.org#@#.advert_area
 ||levelrunningunpadded.com^
 ||levitercrocin.top^
 ||levityheartinstrument.com^
+||levwkgqorehmo.com^
 ||lewd.ws^
 ||lewdl.com^
 ||lewlanderpurgan.com^
@@ -32048,6 +32055,7 @@ browsershots.org#@#.advert_area
 ||muddyharold.com^
 ||muddyhonorarymy.com^
 ||muddyquote.pro^
+||mudejartitoism.com^
 ||mudodqjhyc.com^
 ||muffledpitch.pro^
 ||mufflessettlor.shop^
@@ -33635,6 +33643,7 @@ browsershots.org#@#.advert_area
 ||oostotsu.com^
 ||ootchoft.com^
 ||oourmarketingefifort.com^
+||oowavfddpvuzo.space^
 ||oowkzpjo-o.click^
 ||ooxenoopsoon.com^
 ||ooyejpjenphbo.online^
@@ -37711,6 +37720,7 @@ browsershots.org#@#.advert_area
 ||sb89347.com^
 ||sbbkpsusvjakw.com^
 ||sbboppwsuocy.com^
+||sbbyimgvmkxuf.online^
 ||sbfhasljwreqcu.com^
 ||sbfsdvc.com^
 ||sbhight.com^
@@ -38314,6 +38324,7 @@ browsershots.org#@#.advert_area
 ||simabaalgific.top^
 ||simahtkk.com^
 ||simapirrmaw.shop^
+||simbachassis.top^
 ||similaramount.pro^
 ||similarpresence.com^
 ||simmeringsuitableunwoven.com^
@@ -38588,6 +38599,7 @@ browsershots.org#@#.advert_area
 ||snomoneyandf.com^
 ||snoopundesirable.com^
 ||snoozlebaffles.top^
+||snoozyhayride.com^
 ||snorefamiliarsiege.com^
 ||snortedbingo.com^
 ||snotfeigns.top^
@@ -41825,6 +41837,7 @@ browsershots.org#@#.advert_area
 ||vjnzknmvnmbnv.top^
 ||vjojjdird.com^
 ||vjugz.com^
+||vjynnnbvxpapcwf.xyz^
 ||vkciwjeys.xyz^
 ||vkeagmfz.com^
 ||vkeofwhpozu.com^
@@ -42557,6 +42570,7 @@ browsershots.org#@#.advert_area
 ||wleallwqyblmm.top^
 ||wleallwqybqov.top^
 ||wleallwqybqqk.top^
+||wlevtznfhugiu.store^
 ||wlglvllmgmoyz.top^
 ||wllebozbzjjbj.top^
 ||wllebozbzjlbz.top^
@@ -42876,6 +42890,7 @@ browsershots.org#@#.advert_area
 ||xalawpqfa.com^
 ||xapads.com^
 ||xapcxjkj.com^
+||xarkadfidahfy.space^
 ||xarvilo.com^
 ||xavitithnga.buzz^
 ||xawbwejiv.com^
@@ -43009,6 +43024,7 @@ browsershots.org#@#.advert_area
 ||xpicpefsaxhqs.website^
 ||xpollo.com^
 ||xporn.in^
+||xpuoijjhvzsb.com^
 ||xpvv0rkn.fun^
 ||xpxondckpvbub.com^
 ||xpxsfejcf.com^
@@ -43031,6 +43047,7 @@ browsershots.org#@#.advert_area
 ||xtalfuwcxh.com^
 ||xtaooroiinxo.com^
 ||xtcpooexxvutu.xyz^
+||xtdaaqjjfcdwnw.com^
 ||xtdztyiqyhmet.global^
 ||xtitjpiaoedam.space^
 ||xtraserp.com^
