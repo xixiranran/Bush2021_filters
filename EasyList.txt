@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wcPzGPeG4LC8rrpdZFfDsw
-! Version: 202507160631
+! Checksum: SptQnL6ghfsRO0xwJfKIHQ
+! Version: 202507160921
 ! Title: EasyList
-! Last modified: 16 Jul 2025 06:31 UTC
+! Last modified: 16 Jul 2025 09:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -19064,6 +19064,7 @@ browsershots.org#@#.advert_area
 ||baqvnzyzjmalo.top^
 ||barbarasacredassort.com^
 ||barbetsnervure.top^
+||barbutgitana.rest^
 ||bardatm.ru^
 ||bardicjazzed.com^
 ||barelydonkeysteed.com^
@@ -20496,6 +20497,7 @@ browsershots.org#@#.advert_area
 ||captionconjecture.com^
 ||captiveimpossibleimport.com^
 ||capturescaldsomewhat.com^
+||capuchereship.shop^
 ||caputantes.shop^
 ||caqzirxawnr.com^
 ||caraganaarborescenspendula.com^
@@ -23677,6 +23679,7 @@ browsershots.org#@#.advert_area
 ||ekdthfqecpmjp.click^
 ||ekerududeyuqb.space^
 ||ekexwkwmu.com^
+||ekfimsmswiapq.com^
 ||ekgloczbsblg.com^
 ||ekmas.com^
 ||ekont.site^
@@ -33936,6 +33939,7 @@ browsershots.org#@#.advert_area
 ||pogimpfufg.com^
 ||pogorente.top^
 ||pogothere.xyz^
+||pogromslivyers.click^
 ||pohsoneche.info^
 ||pointcontinentrtb.com^
 ||pointedmanahe.com^
@@ -34695,6 +34699,7 @@ browsershots.org#@#.advert_area
 ||pushyconsequence.com^
 ||pusishegre.com^
 ||pusleysborages.top^
+||pussiesthumbed.click^
 ||pussl3.com^
 ||pussl48.com^
 ||putbackpremio.cyou^
@@ -37538,6 +37543,7 @@ browsershots.org#@#.advert_area
 ||sourelevationregion.com^
 ||soushoropoohou.net^
 ||soutenugiantly.top^
+||southedtottie.shop^
 ||southflannelclassic.com^
 ||souvamoo.net^
 ||sovietransom.com^
@@ -40501,6 +40507,7 @@ browsershots.org#@#.advert_area
 ||vjdciu.com^
 ||vjembmkzbejaw.top^
 ||vjembmkzbejlm.top^
+||vjigdyvsutfm.com^
 ||vjlakwgjnjqq.top^
 ||vjlocpypzmhzr.website^
 ||vjlyljbylmeel.top^
@@ -41101,6 +41108,7 @@ browsershots.org#@#.advert_area
 ||whacmoltibsay.net^
 ||whagrolt.com^
 ||whaidsoalsans.net^
+||whaigrooque.net^
 ||whaijoawaiftee.net^
 ||whaijoorgoo.com^
 ||whairtoa.com^
@@ -41717,6 +41725,7 @@ browsershots.org#@#.advert_area
 ||xazojei-z.top^
 ||xbcpcn.com^
 ||xbmiicdidpymj.vip^
+||xbovikgcahuob.website^
 ||xbuggishbecom.org^
 ||xbuycgcae.com^
 ||xbvmmxnisuaga.website^
@@ -41738,6 +41747,7 @@ browsershots.org#@#.advert_area
 ||xcwsseexxpbfx.website^
 ||xdbypfsergc.com^
 ||xdifjhbyqxdbg.website^
+||xdijwcvqvqebj.site^
 ||xdirectx.com^
 ||xdisplay.site^
 ||xdiwbc.com^
@@ -42137,6 +42147,7 @@ browsershots.org#@#.advert_area
 ||ynfanslkhrdtn.space^
 ||ynklendr.online^
 ||ynpduaquco.xyz^
+||ynrhzckotwzal.site^
 ||ynrije.com^
 ||yntherplunge.com^
 ||ynurfigldblbt.online^
@@ -42210,6 +42221,7 @@ browsershots.org#@#.advert_area
 ||yralpspdvnqaqv.com^
 ||yremovementxvi.org^
 ||yresumeformor.com^
+||yrfcjnbjutyxlql.com^
 ||yrhnw7h63.com^
 ||yrkpvtbpyrcxf.global^
 ||yrsaivdqlavxta.xyz^
@@ -42543,6 +42555,7 @@ browsershots.org#@#.advert_area
 ||zorbklqyoalbq.top^
 ||zordaustewhoh.com^
 ||zouloafi.net^
+||zouzupsurocho.net^
 ||zovidree.com^
 ||zoykzjajvjmwq.top^
 ||zoykzjajvjmye.top^
