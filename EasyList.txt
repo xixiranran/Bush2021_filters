@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: QMoA1IF6jpnCFVEpSYtqIQ
-! Version: 202508010231
+! Checksum: QkyHqxJfapuzpNa6LgOmAA
+! Version: 202508010411
 ! Title: EasyList
-! Last modified: 01 Aug 2025 02:31 UTC
+! Last modified: 01 Aug 2025 04:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -19092,6 +19092,7 @@ browsershots.org#@#.advert_area
 ||avvodmjpabin.com^
 ||avvzamazdpa.com^
 ||avwjyvwqyzma.top^
+||avwjyvwqyzor.top^
 ||avynavqwmvkv.top^
 ||avzwkkmoeaqbm.top^
 ||avzwkkmoearrj.top^
@@ -25740,6 +25741,7 @@ browsershots.org#@#.advert_area
 ||fancywhim.com^
 ||fandelcot.com^
 ||fandmo.com^
+||fannonlacmus.qpon^
 ||fantasiazoon.com^
 ||fantmovies.com^
 ||fanxmfllqbyoy.top^
@@ -33420,6 +33422,7 @@ browsershots.org#@#.advert_area
 ||mkjsqrpmxqdf.com^
 ||mkounjuehhkhn.store^
 ||mkqkqslq.com^
+||mkysuerau.com^
 ||ml314.com^
 ||mladedda.net^
 ||mlapifxkewalg.space^
@@ -33874,6 +33877,7 @@ browsershots.org#@#.advert_area
 ||multisetup.pro^
 ||multiwall-ads.shop^
 ||multstorage.com^
+||multumakepiro.help^
 ||mummershaha.help^
 ||mummersmahaly.top^
 ||mummifiedpatienceunknowing.com^
@@ -38101,6 +38105,7 @@ browsershots.org#@#.advert_area
 ||qanqizywghyna.xyz^
 ||qaqaiyvbmuilh.site^
 ||qaqhmmyex.com^
+||qaquujyeov.xyz^
 ||qarewien.com^
 ||qaroucprldfi.com^
 ||qatarsarkit.top^
@@ -38270,6 +38275,7 @@ browsershots.org#@#.advert_area
 ||qjvksieybn.vip^
 ||qkbjclwirtotj.vip^
 ||qkmerhdtlqadp.site^
+||qkmihtfjcgnsw.store^
 ||qkpwlodkao.com^
 ||qkqlqjrwymmw.top^
 ||qksrv.cc^
@@ -38332,6 +38338,7 @@ browsershots.org#@#.advert_area
 ||qoclick.com^
 ||qoduruwkddheq.site^
 ||qoeytyfgtvfione.com^
+||qogcteumntijn.site^
 ||qoicyijenvvc.com^
 ||qolemambyxqib.site^
 ||qophnumbs.com^
