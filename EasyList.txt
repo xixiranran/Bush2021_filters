@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 8dTqETpMVWPBJrO2Wi+HKw
-! Version: 202508140201
+! Checksum: OXc1TIK5/jeW69qbsgTwJg
+! Version: 202508140341
 ! Title: EasyList
-! Last modified: 14 Aug 2025 02:01 UTC
+! Last modified: 14 Aug 2025 03:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18400,6 +18400,7 @@ browsershots.org#@#.advert_area
 ||anddescendedcocoa.com^
 ||andingmean.cyou^
 ||andohs.net^
+||andokeboorga.shop^
 ||andomedia.com^
 ||andomediagroup.com^
 ||andorrategment.top^
@@ -20592,6 +20593,7 @@ browsershots.org#@#.advert_area
 ||bleak-many.pro^
 ||bleak-yard.com^
 ||blebsragbags.cfd^
+||bledcooker.shop^
 ||bleedingofficecontagion.com^
 ||bleepedhafts.rest^
 ||bleepgizmorecital.com^
@@ -20851,6 +20853,7 @@ browsershots.org#@#.advert_area
 ||bonzai.ad^
 ||boobausauhipsa.net^
 ||boodaisi.xyz^
+||boodiebankers.shop^
 ||boodiecawquaw.top^
 ||boodybasalt.com^
 ||boofstiffly.qpon^
@@ -21479,6 +21482,7 @@ browsershots.org#@#.advert_area
 ||bxdeaeieixgkf.store^
 ||bxewixjwwllvo.site^
 ||bxglynwnlnrwa.website^
+||bxiqmpioldqqk.online^
 ||bxpirsojnnuvq.xyz^
 ||bxrtwyavhyb.online^
 ||bxsprestly.life^
@@ -22102,6 +22106,7 @@ browsershots.org#@#.advert_area
 ||cermetclothed.digital^
 ||cermetdynamos.top^
 ||cermetneuron.qpon^
+||certosarummy.shop^
 ||ceryldelaine.com^
 ||ces2007.org^
 ||cesebsir.xyz^
@@ -24192,6 +24197,7 @@ browsershots.org#@#.advert_area
 ||dawac.com^
 ||dawetywjzsinl.online^
 ||dawingfawnier.world^
+||dawkincreagh.qpon^
 ||dawnfilthscribble.com^
 ||dawningfutchel.rest^
 ||dawplm.com^
@@ -25225,6 +25231,7 @@ browsershots.org#@#.advert_area
 ||dpuplet.com^
 ||dpuppers.com^
 ||dpxvuikqhvjnhii.xyz^
+||dqdtshdifbwm.xyz^
 ||dqdwolxvqpovb.store^
 ||dqgtmenikcjbaf.xyz^
 ||dqhgoyjewgm.com^
@@ -30798,6 +30805,7 @@ browsershots.org#@#.advert_area
 ||hypocrisysmallestbelieving.com^
 ||hypoidpyruwl.com^
 ||hyqpdpkxskhao.online^
+||hyqqtvivbqivx.site^
 ||hyrewusha.pro^
 ||hysteriaethicalsewer.com^
 ||hysteriafiring.com^
@@ -30912,7 +30920,6 @@ browsershots.org#@#.advert_area
 ||idlebyskelped.life^
 ||idlersgypster.shop^
 ||idleslowish.shop^
-||idlixku.com^
 ||idoismtaxable.life^
 ||idolismsupari.top^
 ||idolizedestimate.pro^
@@ -32804,6 +32811,7 @@ browsershots.org#@#.advert_area
 ||keepinfit.net^
 ||keepsosto.com^
 ||keeshaumaushaph.net^
+||keestrobbing.rest^
 ||keetouchut.net^
 ||keetuntoned.top^
 ||keewoach.net^
@@ -33473,6 +33481,7 @@ browsershots.org#@#.advert_area
 ||kzgwhioswkztt.one^
 ||kzjwjclnpdrmy.online^
 ||kzkfpbzlxnibv.website^
+||kzkoniwwmyuoq.com^
 ||kzlmbgolollqg.top^
 ||kzoixqlmnwtjg.space^
 ||kzqjctpvdjmwc.store^
@@ -34935,6 +34944,7 @@ browsershots.org#@#.advert_area
 ||magsrv.com^
 ||magtgingleagained.org^
 ||mahalcuartel.click^
+||mahardidos.shop^
 ||mahewugrendel.life^
 ||mahkjru.cam^
 ||mahmalbifer.top^
@@ -35414,6 +35424,7 @@ browsershots.org#@#.advert_area
 ||mehnthakutyfore.org^
 ||meijioh.shop^
 ||meiosescongers.top^
+||meitheijackets.click^
 ||mejlwlzjcbkjn.space^
 ||mekiltacapkin.life^
 ||mekstolande.com^
@@ -35660,6 +35671,7 @@ browsershots.org#@#.advert_area
 ||mingledcounterfeittitanic.com^
 ||mingledpayoff.com^
 ||miniature-injury.pro^
+||minibusdab.world^
 ||minimize363.fun^
 ||miningonevaccination.com^
 ||ministrycosmeticrigour.com^
@@ -37860,6 +37872,7 @@ browsershots.org#@#.advert_area
 ||ogxntutl.fun^
 ||ogyzawzjoqvla.top^
 ||ogz4n3ke.xyz^
+||ohadbonafz.com^
 ||ohejbszpvhswi.online^
 ||ohgaqlsrea.com^
 ||ohgqwicco.com^
@@ -41408,6 +41421,7 @@ browsershots.org#@#.advert_area
 ||qquhzi4f3.com^
 ||qqxevoxdcdgrm.website^
 ||qr-captcha.com^
+||qrayufngh.com^
 ||qrbbpiymxm.com^
 ||qrcvbzqlsbshx.space^
 ||qrealqeorqorj.top^
@@ -45994,6 +46008,7 @@ browsershots.org#@#.advert_area
 ||tabloidsuggest.com^
 ||tabootheloe.life^
 ||tachcuttoe.shop^
+||tackiesweftage.click^
 ||tackifyvamoses.help^
 ||tacklingunsightlyventricle.com^
 ||tackmainly.com^
@@ -48159,6 +48174,7 @@ browsershots.org#@#.advert_area
 ||untruecharacterizepeople.com^
 ||untruerkaons.digital^
 ||untumidajenjo.rest^
+||untwirlbasis.world^
 ||untwistnymphid.shop^
 ||unungunchiniks.digital^
 ||unusedframe.com^
@@ -48300,6 +48316,7 @@ browsershots.org#@#.advert_area
 ||uranianfulgora.shop^
 ||uranousendures.com^
 ||urauvipsidu.com^
+||urbopjwdk.com^
 ||ureaswirble.click^
 ||urechar.com^
 ||urenabagpipe.cfd^
@@ -51718,6 +51735,7 @@ browsershots.org#@#.advert_area
 ||zcswet.com^
 ||zdawvocofpfcr.vip^
 ||zdbuagetodumy.website^
+||zdfwmkfxwrlht.online^
 ||zdkgxeeykuhs.today^
 ||zdmufwejb.com^
 ||zdmxehlpvvtta.site^
@@ -51791,6 +51809,7 @@ browsershots.org#@#.advert_area
 ||zezyjywaaqzqq.top^
 ||zfctrack.net^
 ||zferral.com^
+||zfgvoltwlszda.site^
 ||zfibuqpa.com^
 ||zfvsnpir-cxx.buzz^
 ||zfvvgetsulfjm.site^
