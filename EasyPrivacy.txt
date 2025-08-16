@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: l4qB81kgHOQGWFt1DYM+5w
-! Version: 202508160621
+! Checksum: MOEwhHdkf1hyQ7AX0uGUKg
+! Version: 202508160912
 ! Title: EasyPrivacy
-! Last modified: 16 Aug 2025 06:21 UTC
+! Last modified: 16 Aug 2025 09:12 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7039,7 +7039,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||0stats.com^$third-party
 ||24log.it^$third-party
 ||accessi.it^$third-party
-||brevo.com^$third-party
 ||buzzoole.com^$third-party
 ||contatoreaccessi.com^$third-party
 ||cpmktg.com^$third-party
@@ -9765,6 +9764,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||t.enuygun.com^
 ||t.fullres.net^
 ||t.ghostboard.io^
+||t.greenbids.ai^
 ||t.id.net/log
 ||t.irtyc.com^
 ||t.jobsyn.org^
@@ -11117,6 +11117,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||audit.shaa.it^
 ||bemail.it^*/analytics.js
 ||blasterzone.it/analytics/
+||cdn.brevo.com/js/sdk-loader.js
 ||click.kataweb.it^
 ||cnt.iol.it^
 ||digiland.it/count.cgi?
