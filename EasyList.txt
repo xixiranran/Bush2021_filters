@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: n1nGxCEJFXg7oRa4T+O8JA
-! Version: 202508260151
+! Checksum: w+F5kvj7CrNXOUeGdG06Jg
+! Version: 202508260331
 ! Title: EasyList
-! Last modified: 26 Aug 2025 01:51 UTC
+! Last modified: 26 Aug 2025 03:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17432,6 +17432,7 @@ browsershots.org#@#.advert_area
 ||aerialmistaken.com^
 ||aerodynomach.com^
 ||aeroplaneversion.com^
+||aerosatemeers.rest^
 ||aesopsoke.shop^
 ||aespmnbpqhpvu.space^
 ||aestheticpenitentdownright.com^
@@ -19238,6 +19239,7 @@ browsershots.org#@#.advert_area
 ||azazyjjovmyow.top^
 ||azbbyqnaonmnq.top^
 ||azbghupkmoljn.online^
+||azbjjbwvqozrm.top^
 ||azbjjbwvqozvj.top^
 ||azbtyfvqjuiyc.store^
 ||azcvyexndzpvl.online^
@@ -24039,6 +24041,7 @@ browsershots.org#@#.advert_area
 ||disappearancetickfilth.com^
 ||disappearsurgery.com^
 ||disappointally.com^
+||disastrous-protection.com^
 ||discernadornmentmaster.com^
 ||discerpsaying.cyou^
 ||disclosesweepraincoat.com^
@@ -27515,6 +27518,7 @@ browsershots.org#@#.advert_area
 ||gepheeleexauz.net^
 ||gepoltkbkf.com^
 ||geraflows.com^
+||gerimpigfoot.com^
 ||germierforwalk.cyou^
 ||germinappropriateengine.com^
 ||germinatewishesholder.com^
@@ -29166,6 +29170,7 @@ browsershots.org#@#.advert_area
 ||hoachalaide.net^
 ||hoadaphagoar.net^
 ||hoagiesgaleoid.cyou^
+||hoamoajoapsu.net^
 ||hoanoola.net^
 ||hoaphosurer.com^
 ||hoapsoumaipt.net^
@@ -31611,6 +31616,7 @@ browsershots.org#@#.advert_area
 ||kkmmusxtdhizn.online^
 ||kkodcaqxcgmhvta.com^
 ||kkoouwyteiavr.space^
+||kkymnfgrmaykx.website^
 ||kkysnlkrossj.xyz^
 ||kkytqmuyworov.online^
 ||klaobgkmzjzna.top^
@@ -31787,6 +31793,7 @@ browsershots.org#@#.advert_area
 ||kouroiredskin.cyou^
 ||koushauwhie.xyz^
 ||koutaufebo.net^
+||kouthoogauphy.com^
 ||koutobey.net^
 ||koutoowekoa.net^
 ||kouunrov.xyz^
@@ -32280,6 +32287,7 @@ browsershots.org#@#.advert_area
 ||ledrpbwkusvzt.space^
 ||leechiboojeshu.net^
 ||leechiza.net^
+||leedagauluz.net^
 ||leefulsozines.qpon^
 ||leehlwswp.com^
 ||leelanerechip.click^
@@ -32793,6 +32801,7 @@ browsershots.org#@#.advert_area
 ||loinpriestinfected.com^
 ||loivopem.com^
 ||loizmntlefbbq.online^
+||lojggjwynkoav.top^
 ||lojggjwynkoyg.top^
 ||lojusypsa.com^
 ||lokcdn.com^
@@ -33972,6 +33981,7 @@ browsershots.org#@#.advert_area
 ||misjudgedistilentice.com^
 ||mislaysunipara.rest^
 ||misleadgifted.com^
+||mislearbemire.click^
 ||misluckgignate.cfd^
 ||mismetuniter.life^
 ||misoxthmuqa.com^
@@ -34016,6 +34026,7 @@ browsershots.org#@#.advert_area
 ||mjnaxeqmnpmgg.site^
 ||mjnkcdmjryvz.click^
 ||mjpvukdc.com^
+||mjunpsbxesbgn.store^
 ||mjwcsqcajfwhi.online^
 ||mjxrcnuntghni.space^
 ||mjyodtwpuvazj.store^
@@ -34645,6 +34656,7 @@ browsershots.org#@#.advert_area
 ||myocytepuffy.life^
 ||myolnyr5bsk18.com^
 ||myomereneeld.life^
+||myopiadapple.com^
 ||myopiasdunnest.com^
 ||myperfect2give.com^
 ||mypopadpro.com^
@@ -36221,6 +36233,7 @@ browsershots.org#@#.advert_area
 ||oogneenu.net^
 ||oogsxtlyxxwxc.com^
 ||oohedasale.rest^
+||oohingrefold.life^
 ||oohougrauh.net^
 ||ooijgvasybej.com^
 ||ookkcjbxenikj.website^
@@ -37065,6 +37078,7 @@ browsershots.org#@#.advert_area
 ||pbcde.com^
 ||pbestrdinkbff.online^
 ||pbgkweapdycud.website^
+||pbhfkwbelfh.com^
 ||pbjklelplgrtyvx.com^
 ||pbjxoyypuueok.online^
 ||pblcpush.com^
@@ -38537,6 +38551,7 @@ browsershots.org#@#.advert_area
 ||ptouzoorsimto.net^
 ||ptp22.com^
 ||ptpfpbzfegrmv.site^
+||ptpzzvnnstyslr.com^
 ||ptqdlabxislis.store^
 ||ptrnhoyssaughn.com^
 ||ptsyhasifubi.buzz^
@@ -40343,6 +40358,7 @@ browsershots.org#@#.advert_area
 ||rmvvawqleqoqw.top^
 ||rmvvawqobqemk.top^
 ||rmvvawqobqeov.top^
+||rmwumpqxbuwqv.online^
 ||rmwzbombkqbla.top^
 ||rmxads.com^
 ||rmybleryqojqq.top^
@@ -42266,6 +42282,7 @@ browsershots.org#@#.advert_area
 ||soliads.io^
 ||soliads.online^
 ||solibothnic.qpon^
+||solid-mall.com^
 ||solideoalky.cfd^
 ||soliderheliced.cyou^
 ||solidlyrotches.guru^
@@ -42419,6 +42436,7 @@ browsershots.org#@#.advert_area
 ||spealwali.shop^
 ||special-offers.online^
 ||special-promotions.online^
+||speciedevex.com^
 ||specificallycries.com^
 ||specificmedia.com^
 ||specifiedbloballowance.com^
@@ -46481,6 +46499,7 @@ browsershots.org#@#.advert_area
 ||vtabnalp.net^
 ||vtahuqrjsdsokl.xyz^
 ||vtcktuetgifsr.site^
+||vtdtv.com^
 ||vtemlrnsqozri.site^
 ||vtfnyzqii.com^
 ||vtlpkoshbpquo.online^
@@ -47930,6 +47949,7 @@ browsershots.org#@#.advert_area
 ||xjjjeoythaboi.website^
 ||xjmhwpghqxsis.online^
 ||xjmxxvsyc.com^
+||xjqcoqthkap.com^
 ||xjrreecpgepx.com^
 ||xjrwxfdphc.com^
 ||xjsrtbxg.xyz^
@@ -62094,6 +62114,7 @@ businessinsider.com,insider.com##.commerce-coupons-module
 goal.com,thisislondon.co.uk##.commercial
 dailystar.co.uk##.commercial-box-style
 telegraph.co.uk##.commercial-unit
+gizmodo.com##.comp-p
 miaminewtimes.com,westword.com##.comp-shell-stnplayer
 hiphopdx.com##.compact
 bitdegree.org##.comparison-suggestion
