@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: AETJjYh9AkIlrPfs80lYlg
-! Version: 202508310331
+! Checksum: 6gcI51MbkpebaCSlPpxjvA
+! Version: 202508310621
 ! Title: EasyList
-! Last modified: 31 Aug 2025 03:31 UTC
+! Last modified: 31 Aug 2025 06:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -20897,6 +20897,7 @@ browsershots.org#@#.advert_area
 ||butterflygeographyboredom.com^
 ||butteryamount.pro^
 ||butterysteal.pro^
+||buttonderecho.digital^
 ||buttontileaiming.com^
 ||buyeasy.by^
 ||buyfrightencheckup.com^
@@ -23052,6 +23053,7 @@ browsershots.org#@#.advert_area
 ||ctqwslmdoyctd.site^
 ||ctrdwm.com^
 ||ctrem.site^
+||ctrlzqdvfaqsb.online^
 ||ctrwnhpxiklln.website^
 ||ctsbiznoeogh.site^
 ||ctsdwm.com^
@@ -27278,6 +27280,7 @@ browsershots.org#@#.advert_area
 ||fussockrecruit.life^
 ||fussy-highway.pro^
 ||fusterdonnie.shop^
+||futjfanbtb.com^
 ||futseerdoa.com^
 ||futsonseeke.net^
 ||futtahagenes.world^
@@ -28352,6 +28355,7 @@ browsershots.org#@#.advert_area
 ||greeshoatsaun.net^
 ||greeter.me^
 ||greeterstaniel.com^
+||greetingsdaydreamlitre.com^
 ||greewepi.net^
 ||grefutiwhe.com^
 ||greggeaether.cyou^
@@ -28621,6 +28625,7 @@ browsershots.org#@#.advert_area
 ||guzdhs26.xyz^
 ||guzzlealibied.cyou^
 ||gvdamage.world^
+||gvddigvuowtm.com^
 ||gvdjmcztiqwhw.website^
 ||gvfejsk.beauty^
 ||gvggatrvte.com^
@@ -29647,6 +29652,7 @@ browsershots.org#@#.advert_area
 ||hramb.site^
 ||hrbaal0z.xyz^
 ||hreso.site^
+||hrkjgepefndrh.site^
 ||hrkrchivgjase.online^
 ||hrmdw8da.net^
 ||hrogrpee.de^
@@ -29799,6 +29805,7 @@ browsershots.org#@#.advert_area
 ||hwpmxgqhtkacu.website^
 ||hwpnocpctu.com^
 ||hwtkaes.cyou^
+||hwugaspawa.com^
 ||hxefvtiqr.xyz^
 ||hxlcunmryxpzq.space^
 ||hxnjnbfqprwipmm.com^
@@ -32988,6 +32995,7 @@ browsershots.org#@#.advert_area
 ||lioniseunpiece.shop^
 ||liphicafo.com^
 ||lipidicchaoush.com^
+||lipidscrafts.digital^
 ||lipomaflyball.shop^
 ||liposisoperla.life^
 ||lippclfsjjvwd.com^
@@ -34526,6 +34534,7 @@ browsershots.org#@#.advert_area
 ||mlplusher.life^
 ||mlqcixbbgdwij.online^
 ||mlsys.xyz^
+||mltcjpntxktjz.store^
 ||mm-cgnews.com^
 ||mm-syringe.com^
 ||mmadsgadget.com^
@@ -34554,6 +34563,7 @@ browsershots.org#@#.advert_area
 ||mnanrpzdpbphb.site^
 ||mnaspm.com^
 ||mnbvjhg.com^
+||mncbqobkfv.com^
 ||mncvjhg.com^
 ||mndlvr.com^
 ||mndsrv.com^
@@ -36337,6 +36347,7 @@ browsershots.org#@#.advert_area
 ||ocnhbcfvxbewx.store^
 ||oconner.link^
 ||ocpjyfnbu.com^
+||octaplagaius.shop^
 ||octo25.me^
 ||octoads.shop^
 ||octoberrates.com^
@@ -36454,6 +36465,7 @@ browsershots.org#@#.advert_area
 ||ofswannator.com^
 ||oftencostbegan.com^
 ||oftheownouncillo.com^
+||ofwbquwflsahm.online^
 ||ofxbxiqadouwo.space^
 ||ofxvhxsanqpw.com^
 ||ofyuxfqhsexkj.online^
@@ -36893,6 +36905,7 @@ browsershots.org#@#.advert_area
 ||opqjabrsrbixu.xyz^
 ||oprill.com^
 ||opsinstilting.shop^
+||opskiwzwtvfic.store^
 ||opsoobeezouwe.com^
 ||opsoomet.net^
 ||opsqhlptnxmxn.com^
@@ -37934,6 +37947,7 @@ browsershots.org#@#.advert_area
 ||petplqmfpnwwjbu.com^
 ||petrifacius.com^
 ||petrolgraphcredibility.com^
+||petsoadepsoa.net^
 ||petulanthamsterunless.com^
 ||peukasrsihavele.org^
 ||pevxxyfyhsvlh.global^
@@ -39449,6 +39463,7 @@ browsershots.org#@#.advert_area
 ||puuush.me^
 ||puvj-qvbjol.vip^
 ||puwggfudeoleo.store^
+||puxyharmful.cfd^
 ||puysis.com^
 ||puyyyifbmdh.com^
 ||puzna.com^
@@ -39506,6 +39521,7 @@ browsershots.org#@#.advert_area
 ||pykvbmltjxrgl.website^
 ||pylajilting.help^
 ||pylmffbimiurq.online^
+||pylqeypkcxzka.site^
 ||pynhtpjgflnph.online^
 ||pyocyteterrets.qpon^
 ||pyoidlepry.cfd^
@@ -39575,6 +39591,7 @@ browsershots.org#@#.advert_area
 ||qblllqzqezlyz.top^
 ||qblllqzqezzkr.top^
 ||qbnpxulgsfftrys.xyz^
+||qbnugmocftqfl.store^
 ||qbnvdctsmxqhr.website^
 ||qbrfvxzvhmyvh.space^
 ||qbrzvovroqjbj.top^
@@ -42302,6 +42319,7 @@ browsershots.org#@#.advert_area
 ||sgdanjzdfjtwr.site^
 ||sgfinery.com^
 ||sgfsdvc.com^
+||sghbvhktcomrn.online^
 ||sgnetwork.co^
 ||sgyxmnkvgcvys.online^
 ||sh0w-me-h0w.net^
@@ -44844,6 +44862,7 @@ browsershots.org#@#.advert_area
 ||thramtermite.digital^
 ||thrashbomb.com^
 ||thrasobarite.click^
+||thravervaned.click^
 ||thrawnfriese.qpon^
 ||thrbnpdmqphofs.xyz^
 ||threatdetect.org^
@@ -46942,6 +46961,7 @@ browsershots.org#@#.advert_area
 ||vdpteyxtcwtw.com^
 ||vdqyvioulgwkv.website^
 ||vdrmlchilmoavt.com^
+||vdrqofejdpmbm.online^
 ||vdslkvblwwyrssi.com^
 ||vdukpbmavzcne.store^
 ||vdulz.org^
@@ -49886,6 +49906,7 @@ browsershots.org#@#.advert_area
 ||zealousfinance.pro^
 ||zealousinquiriesgovernment.com^
 ||zealsalts.com^
+||zeapraccv.com^
 ||zeawppuaetasp.fun^
 ||zebeaa.click^
 ||zebeckaesc.shop^
@@ -51887,6 +51908,7 @@ browsershots.org#@#.advert_area
 ||nextoptim.com^$third-party
 ||nitmus.com^$third-party
 ||nitropay.com^$third-party
+||nitroscripts.com^$third-party
 ||njih.net^$third-party
 ||notsy.io^$third-party
 ||nsstatic.com^$third-party
@@ -59645,7 +59667,6 @@ browsershots.org#@#.advert_area
 ||minute.ly^$third-party
 ||minutemedia-prebid.com^$third-party
 ||minutemediaservices.com^$third-party
-||nitroscripts.com^$script,domain=wepc.com
 ||play.springboardplatform.com^
 ||playbuzz.com/embed/$script,third-party
 ||playbuzz.com/player/$script,third-party
