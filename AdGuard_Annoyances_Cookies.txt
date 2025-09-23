@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: B63vYQhqm5AYm6ktUnSnHQ
-! Diff-Path: ../patches/18_optimized/18_optimized-s-1758611562-3600.patch
+! Checksum: IGQOvCYqbxp1Z5ucocMf/A
+! Diff-Path: ../patches/18_optimized/18_optimized-s-1758629724-3600.patch
 ! Title: AdGuard Cookie Notices filter (Optimized)
 ! Description: Blocks cookie notices on web pages.
-! Version: 2.0.70.69
-! TimeUpdated: 2025-09-23T07:08:55+00:00
+! Version: 2.0.70.72
+! TimeUpdated: 2025-09-23T12:11:38+00:00
 ! Expires: 5 days (update frequency)
 !#######################################################
 !######### General element hiding rules ################
@@ -1355,7 +1355,7 @@ testoria.pl,secretsanfrancisco.com,urbaanisanakirja.com,digitaltrends.com,modrin
 telenord.it,gdpr.pl,blazingfast.io,theportugalnews.com,giovani2030.it,yourcountdown.to,eldiadezamora.es,charlietemple.com,awm-korntal.eu,yourcountdown.to,giant-bicycles.com,neoserver.ro,gazduirejocuri.ro,wearegarcia.com,zamunda.ch,zamunda.net,upjs.sk##.gdprcookie
 sir-apfelot.de,kinoheld.de,racingnews365.com,adac.de,continental-tires.com,kaufbei.tv,geenstijl.nl,vaillant.de,digitalproduction.com,eventim-light.com,tirendo.de,urlaubstracker.de,hasepost.de,cz.de,ensingerplastics.com,hannover96.de,gutscheinsammler.de,traueranzeigen.nwzonline.de,meedia.de,mcm-systeme.de,gartendialog.de,wunschliste.de,mediabiz.de,gamesmarkt.de,musikwoche.de,blickpunktfilm.de,fansale.de,ticketonline.de,14-tage-wettervorhersage.de,playit-online.de,concordia.de,academiccourses.com,opti-wohnwelt.de,my-fantasyroom.de,bmas.de,fernsehserien.de##body #cmpwrapper:not(#style_important)
 gamemar.com,torex.ru,mesadepo.com,firstechllc.com,planbmedia.io,hyser.com.ua,ebrarbilgisayar.com,tvf.com.tr,ukrainianwall.com,hvylya.net,politeka.net,znaj.ua,cointelegraph.com,tupras.com.tr,hesapkurdu.com,ku.dk,auto-motor-i-sport.pl,menshealth.pl,motocykl-online.pl,runners-world.pl,womenshealth.pl##.privacy-policy
-stadt-brandenburg.de,vitaello.com.ua,uskudar.edu.tr,encycolorpedia.com,learn.innopolis.university,interhome.pl,alhadath.net,chiccentre.com,accredito.com,bonsai.de,diehumanisten.de,downloadfreecourse.com,interhome.de,techonthenet.com,ncalculators.com,editpad.org,katho-nrw.de,fiyatgrafik.com,gartenprofi.net,alibre.info,fisglobal.com,delamar.de,gnosis.io,anyclip.com,manybooks.net,cardzmania.com,antarestech.com,nperf.com,notebookinfo.de,telefuel.com,alarabiya.net,dijnet.hu###consent
+mathaeser.de,stadt-brandenburg.de,vitaello.com.ua,uskudar.edu.tr,encycolorpedia.com,learn.innopolis.university,interhome.pl,alhadath.net,chiccentre.com,accredito.com,bonsai.de,diehumanisten.de,downloadfreecourse.com,interhome.de,techonthenet.com,ncalculators.com,editpad.org,katho-nrw.de,fiyatgrafik.com,gartenprofi.net,alibre.info,fisglobal.com,delamar.de,gnosis.io,anyclip.com,manybooks.net,cardzmania.com,antarestech.com,nperf.com,notebookinfo.de,telefuel.com,alarabiya.net,dijnet.hu###consent
 turkuvazkitap.com.tr,muhitkitap.com.tr,support.a1.by,kargomsende.com,aboneturkuvaz.com,omroepbrabant.nl,tdp.com.tr,turkuvazabone.com,turkuvazmatbaacilik.com##.sticky-footer
 apara.com.tr,anews.com.tr,harpersbazaar.com.tr,minikacocuk.com.tr,minikago.com.tr,724dinle.com,takvim.com.tr,atvavrupa.tv,paradergi.com.tr,vavtv.com.tr,aspor.com.tr,ahaber.com.tr,atv.com.tr,fikriyat.com,fotomac.com.tr,turkuvazkitap.com.tr,turkuvazradyolar.com,yeniasir.com.tr##.veriAltBar
 lobpreissuche.de,zsl-bw.de,gelsenkirchen.de,sgs-cqe.de,km-bw.de,heinrich-braun-klinikum.de,kzvn.de,pleissental-klinik.de,bsw.de,contabo.de,avs.de,skybet.de###cookiehinweis
@@ -1396,7 +1396,7 @@ kongregate.com,pagenews.gr,lyrics.com,arcadehole.com,gazetevatan.com,androidpoli
 kongregate.com,pagenews.gr,lyrics.com,arcadehole.com,gazetevatan.com,androidpolice.com,milliyet.com.tr,collider.com,thegamer.com,ortsdienst.de,cbr.com,makeuseof.com#$#body { overflow-y: auto !important; }
 dennikn.sk,ahbmedya.com,globfone.com,kotobank.jp,livebeaches.com,waifly.com,skrastas.lt,matricedigitale.it,onehack.us,compsmag.com,xranks.com,duplichecker.com,foromtb.com,dekudeals.com,encuentra24.com,krone.at##body div.fc-consent-root
 ntv.com.tr,foromtb.com##+js(no-setTimeout-if, f.parentNode.removeChild(f), 100)
-||fundingchoicesmessages.google.com^$domain=mobirank.pl|hotdeals.com|coderoad.ru|hardwaresfera.com|namba.keizai.biz|antik-war.lv|ipabox.net|nzherald.co.nz|nmac.to|smart-flash.jp|obserwatorgospodarczy.pl|schmidtisblog.de|androidfilehost.com|what-it.pl|showtv.com.tr|picmix.com|aeiou.pt|expansion.com|pik.poznan.pl|piklodz.pl|pik.warszawa.pl|pik.krakow.pl|pik.katowice.pl|pikgdansk.pl|piktorun.pl|pik.wroclaw.pl|piklublin.pl|techsvet.cz|crystal-launcher.pl|wpteq.org|guideoftheworld.com
+||fundingchoicesmessages.google.com^$domain=mobirank.pl|hotdeals.com|coderoad.ru|hardwaresfera.com|namba.keizai.biz|antik-war.lv|ipabox.net|nzherald.co.nz|nmac.to|smart-flash.jp|obserwatorgospodarczy.pl|schmidtisblog.de|androidfilehost.com|what-it.pl|showtv.com.tr|picmix.com|aeiou.pt|expansion.com|pik.poznan.pl|piklodz.pl|pik.warszawa.pl|pik.krakow.pl|pik.katowice.pl|pikgdansk.pl|piktorun.pl|pik.wroclaw.pl|piklublin.pl|techsvet.cz|crystal-launcher.pl|wpteq.org|guideoftheworld.com|gadgetversus.com
 oxfam.org,efka.gov.gr,c-budejovice.cz,veolia.de,iyihisset.com,amerika21.de,museicapitolini.org,developer.nvidia.com,zillya.com,inrim.it,jneurosci.org,medrxiv.org,novartis.com.tr,royal.uk,transcom.com,netcologne.de,belltower.news,bigfm.de,click.ro,demokrata.hu,emma.de,gysev.hu,humanite.fr,ikgastarten.nl,la7.it,london.gov.uk,mavcsoport.hu,mcdonalds.at,mcdonalds.it,mises.org,mnm.hu,musescore.com,nbcsports.com,pnas.org###sliding-popup
 leedsunited.news,amateurphotographer.com,gpfans.com,nehnutelnosti.sk,btc-echo.de,geo.fr,scinexx.de,popbuzz.com,smoothradio.com,mein-schoener-garten.de,thetimes.co.uk,eveningnews24.co.uk,businessgreen.com,telepolis.de,rollingstone.de,bnr.nl,iltapulu.fi,vrt.be,szbz.de,newsnow.co.uk,pcworld.pl,np-coburg.de,whats-on-netflix.com,business-punk.com,the-sun.com,thesun.ie,demorgen.be,7sur7.be,vtm.be,bravo.de,op-marburg.de,cz.de,apotheken-umschau.de,liebenswert-magazin.de,manager-magazin.de,cosmopolitan.de,stylebook.de,kochbar.de,tvmovie.de,desired.de,preis.de,vorname.com,motorcyclenews.com,techadvisor.co.uk,forum.notebookreview.com,computerworld.com,skysports.com#$#div[id^="sp_message_"] { display: none !important; }
 techadvisor.co.uk,forum.notebookreview.com,computerworld.com,skysports.com#$#body { overflow: visible !important; }
@@ -1578,7 +1578,7 @@ popcornmovies.*##div[x-show="!cookiePolicy"]
 store.webkul.com##.wk-cookie-wrapper
 teams.live.com##.gather-cookie-banner
 japan.calvinklein.com##.agreeCookie
-hentailib.me,animelib.org##+js(set-local-storage-item, cookies-toast-shown, true)
+mangalib.org,hentailib.me,animelib.org##+js(set-local-storage-item, cookies-toast-shown, true)
 mercusys.com###mercusys-cookie
 shop.shionogi-hc.co.jp##+js(set-cookie-reload, shionogi_tracking_answer, true)
 efortuna.pl##+js(set-cookie, marketing, false, /, efortuna.pl)
