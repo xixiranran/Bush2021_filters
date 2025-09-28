@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: FRzpPe1KtIgJ3tNlAWxQYA
-! Version: 202509280151
+! Checksum: 0GILkipBc/qy2SOIEQ82ag
+! Version: 202509280331
 ! Title: EasyList
-! Last modified: 28 Sep 2025 01:51 UTC
+! Last modified: 28 Sep 2025 03:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18979,6 +18979,7 @@ browsershots.org#@#.advert_area
 ||azqjgmzgwnqkv.top^
 ||azqqloblawqbj.top^
 ||azqqlobqwomqr.top^
+||azqqlobqwovjb.top^
 ||azqqlobqwovzv.top^
 ||azskk.com^
 ||azulcw7.com^
@@ -25428,6 +25429,7 @@ browsershots.org#@#.advert_area
 ||erodiumvodums.com^
 ||eroidere.com^
 ||erovation.com^
+||erpzllhibhdzv.site^
 ||erqgoroithcuu.space^
 ||erranddealing.com^
 ||errandsracket.com^
@@ -26760,6 +26762,7 @@ browsershots.org#@#.advert_area
 ||framb.site^
 ||frameaeragbags.cyou^
 ||framessemicolonought.com^
+||francegave.com^
 ||francoistsjacqu.info^
 ||francokerugma.cfd^
 ||franecki.net^
@@ -27458,6 +27461,7 @@ browsershots.org#@#.advert_area
 ||getyourapp.info^
 ||getyoursoft.ru^
 ||getzvpeewhnum.online^
+||gevaaiqdobn.com^
 ||gevfbkxymoois.site^
 ||gewuxdmbkrpng.com^
 ||gexaicmughoudy.net^
@@ -27979,6 +27983,7 @@ browsershots.org#@#.advert_area
 ||gqihdorufksiq.online^
 ||gqiikkuqzsxrt.store^
 ||gqjdweqs.com^
+||gqkxtmyoxbenz.store^
 ||gqlhpqmfxfdbu.store^
 ||gqmacifyutqtx.xyz^
 ||gqnfkfrunjxdw.world^
@@ -29703,6 +29708,7 @@ browsershots.org#@#.advert_area
 ||idlesliver.com^
 ||idleslowish.shop^
 ||idmiddnqrgssm.site^
+||idoeschikvwsn.website^
 ||idoletsluices.com^
 ||idolifygaw.world^
 ||idolizedestimate.pro^
@@ -32310,6 +32316,7 @@ browsershots.org#@#.advert_area
 ||ktldjkvzcxpmv.online^
 ||ktnvooavdadsx.com^
 ||ktpcsqnij.com^
+||ktpyccaylwkmy.website^
 ||ktrgtteucxzzu.website^
 ||ktxtosvucyggggs.com^
 ||ktzgusbpnzt.com^
@@ -32437,6 +32444,7 @@ browsershots.org#@#.advert_area
 ||kxmcskdnquv.com^
 ||kxmebjwzwynks.space^
 ||kxnggkh2nj.com^
+||kxonyyapen.com^
 ||kxqdayzmwcoox.website^
 ||kxsdaomazbyxe.site^
 ||kxshyo.com^
@@ -36864,6 +36872,7 @@ browsershots.org#@#.advert_area
 ||nufvedbbqxxiy.site^
 ||nugeeksothomu.net^
 ||nughaitsoudri.xyz^
+||nugnoargin.com^
 ||nuhmgqkutvxnh.online^
 ||nui.media^
 ||nuibfyoox.com^
@@ -36937,6 +36946,7 @@ browsershots.org#@#.advert_area
 ||nvsucjifrawbf.online^
 ||nvtsxcitcvalyml.com^
 ||nvtvssczb.com^
+||nvtycgfquxfj.com^
 ||nvtyjnbs.com^
 ||nvueqrqnansqq.com^
 ||nvuzubaus.tech^
@@ -37822,6 +37832,7 @@ browsershots.org#@#.advert_area
 ||ootchaisteesty.net^
 ||ootchoft.com^
 ||ootheetsid.com^
+||ooulgtfgyztwi.store^
 ||oourmarketingefifort.com^
 ||oowavfddpvuzo.space^
 ||oowheekseerdol.com^
@@ -39016,6 +39027,7 @@ browsershots.org#@#.advert_area
 ||peonagefoliary.cyou^
 ||pepepush.net^
 ||pephozanig.net^
+||peplosknuckle.help^
 ||pepogranage.world^
 ||pepperunmoveddecipher.com^
 ||peppery-explanation.pro^
@@ -40723,6 +40735,7 @@ browsershots.org#@#.advert_area
 ||punkahtollery.qpon^
 ||punkierdetruck.com^
 ||punknatrix.life^
+||punkspyke.com^
 ||punningscepter.life^
 ||punogchdnwcrri.com^
 ||punoocke.com^
@@ -41392,6 +41405,7 @@ browsershots.org#@#.advert_area
 ||qrlsx.com^
 ||qrpwafdsliun.com^
 ||qrqfqwhvwupcy.online^
+||qrqujzcdiarrk.store^
 ||qrquxbefwurmu.space^
 ||qrredraws.com^
 ||qrsghetto.cyou^
@@ -49980,6 +49994,7 @@ browsershots.org#@#.advert_area
 ||wreckbargaininghers.com^
 ||wreckcentigradecleared.com^
 ||wreckerthirst.rest^
+||wreeyopuoud.net^
 ||wrenchannel.xyz^
 ||wrestforsake.com^
 ||wrestgrandfather.com^
