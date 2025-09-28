@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: U49Q6e9Dy65F7RiNcsAUsg
-! Version: 202509280621
+! Checksum: I8i3lOcVWp4K2I8nlZChsA
+! Version: 202509280841
 ! Title: EasyList
-! Last modified: 28 Sep 2025 06:21 UTC
+! Last modified: 28 Sep 2025 08:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -21319,6 +21319,7 @@ browsershots.org#@#.advert_area
 ||cewmyvfmjjbit.store^
 ||cexofira.com^
 ||cexucetum.com^
+||cfewbzwhydkvb.store^
 ||cffa3cb187.com^
 ||cfgr1.com^
 ||cfgr5.com^
@@ -23634,6 +23635,7 @@ browsershots.org#@#.advert_area
 ||dharnaslaked.top^
 ||dhbbfvljzjouy.website^
 ||dhbfsbanlrmqm.website^
+||dhbuznztkqdqx.site^
 ||dheheagbmhdfk.space^
 ||dhertouchingthe.org^
 ||dhgyjypihnuyq.com^
@@ -23895,6 +23897,7 @@ browsershots.org#@#.advert_area
 ||dj-updates.com^
 ||dj2550.com^
 ||djbyjfrbbgt.com^
+||djcfjvqiannmbgt.com^
 ||djersaongaro.qpon^
 ||djexvabvbybza.site^
 ||djgdmnyuokahc.site^
@@ -24938,6 +24941,7 @@ browsershots.org#@#.advert_area
 ||ehokeeshex.com^
 ||ehqfiiwqkosey.website^
 ||ehrydnmdoe.com^
+||ehshjgxvclijyi.com^
 ||ehtkfjhrozkeu.website^
 ||ehuawabranded.help^
 ||ehungroundt.org^
@@ -25919,6 +25923,7 @@ browsershots.org#@#.advert_area
 ||famsmdfn.net^
 ||famsmdfn.xyz^
 ||famtepsooluhe.net^
+||fanciersowcar.click^
 ||fancywhim.com^
 ||fandelcot.com^
 ||fandmo.com^
@@ -29845,6 +29850,7 @@ browsershots.org#@#.advert_area
 ||ikcaru.com^
 ||ikeizcfipfius.site^
 ||ikengoti.com^
+||ikewrcpm.com^
 ||ikiioyufzmxlj.store^
 ||ikjwrhsktdtye.space^
 ||iklcfwmwdpbf.com^
@@ -33273,6 +33279,7 @@ browsershots.org#@#.advert_area
 ||ljbwzlmlzzezq.top^
 ||ljbzgjymlbqzv.top^
 ||ljcvlagsgqebugt.xyz^
+||ljdnjunxtumas.store^
 ||ljdzjtpnijpns.space^
 ||ljeeonnslhcmb.store^
 ||ljfdwtlrurnoxok.com^
@@ -33761,6 +33768,7 @@ browsershots.org#@#.advert_area
 ||lsoextraorfekin.com^
 ||lspwaatl.com^
 ||lsqyahmytfwhn.store^
+||lsugcsazapixa.com^
 ||lsupvtyjffooymb.xyz^
 ||lswteiiyfccwt.site^
 ||lszydrtzsh.com^
@@ -36062,6 +36070,7 @@ browsershots.org#@#.advert_area
 ||nceneverdreamsofc.org^
 ||ncgrtdvfgmbq.com^
 ||ncgwdkbi.com^
+||ncgyayuwfmujc.website^
 ||nchkftnswbfll.space^
 ||ncipledeclinerybel.org^
 ||nckfmubgtjtpw.website^
@@ -37087,6 +37096,7 @@ browsershots.org#@#.advert_area
 ||oackurtodreecm.net^
 ||oacmauthaignum.net^
 ||oadehibut.xyz^
+||oadsoapsoang.net^
 ||oadsofoucuviy.net^
 ||oaeauyefrqavz.website^
 ||oaevgrhpiytej.website^
@@ -37979,6 +37989,7 @@ browsershots.org#@#.advert_area
 ||ordenemuraled.world^
 ||orderlycash.com^
 ||ordgoverytr.com^
+||ordinaryhopeflippant.com^
 ||ordinghology.com^
 ||ordisposableado.com^
 ||ordniwvmx.com^
@@ -40246,6 +40257,7 @@ browsershots.org#@#.advert_area
 ||private-hide.com^
 ||private-stage.com^
 ||privilegedmansfieldvaguely.com^
+||prize-brother.pro^
 ||prizefrenzy.top^
 ||prizeglass.pro^
 ||prizespassers.world^
@@ -50003,6 +50015,7 @@ browsershots.org#@#.advert_area
 ||wpwdwbunjutwd.online^
 ||wqbuwbiuowblc.store^
 ||wqdjesmnsgecq.site^
+||wqevrlujgnilz.site^
 ||wqgpzmpwuchvi.one^
 ||wqkjeoqjzmmyo.online^
 ||wqmnhaxnmdvdu.space^
@@ -50076,6 +50089,7 @@ browsershots.org#@#.advert_area
 ||wtljsshrb.com^
 ||wtsdewnppyesy.life^
 ||wtsornezrcyvm.store^
+||wtsxnkdqybyce.site^
 ||wttpwvlurczpe.rocks^
 ||wtyetapa.rest^
 ||wuaafacwszsqh.store^
@@ -50583,6 +50597,7 @@ browsershots.org#@#.advert_area
 ||xxxwebtraffic.com^
 ||xxzccpsbdybmx.website^
 ||xycyblnwl.net^
+||xyhpackzyvrzq.space^
 ||xyhyieyyqljos.site^
 ||xykkbchewuhah.website^
 ||xylitecessant.qpon^
@@ -51393,6 +51408,7 @@ browsershots.org#@#.advert_area
 ||zoovanuzauphoth.net^
 ||zoowhausairoun.net^
 ||zoowunagraglu.net^
+||zopnzxxxofkbr.space^
 ||zopumirerfahv.website^
 ||zoqvjykbwmmme.top^
 ||zorango.com^
@@ -51444,6 +51460,7 @@ browsershots.org#@#.advert_area
 ||zsbkuvtdjhvvj.space^
 ||zsjvzsm-s.fun^
 ||zslmueggcjatn.website^
+||zsmsbmowwrqvp.online^
 ||zsmsuwmifkrqv.online^
 ||zsozgqchlueqp.world^
 ||zsszrgvbeisuv.space^
