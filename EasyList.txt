@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: rfiPuI9yLykgG1owH7wLUQ
-! Version: 202510030141
+! Checksum: PqQug/sTJuFjoWqarOuKHA
+! Version: 202510030321
 ! Title: EasyList
-! Last modified: 03 Oct 2025 01:41 UTC
+! Last modified: 03 Oct 2025 03:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -16594,6 +16594,7 @@ browsershots.org#@#.advert_area
 ||accrueheadlongcircumstance.com^
 ||acctnewer.life^
 ||acctpleuron.cyou^
+||accumulatehandgripsaxophone.com^
 ||accuracymangosixtyfold.com^
 ||accuracyswede.com^
 ||accuratephrase.com^
@@ -17428,6 +17429,7 @@ browsershots.org#@#.advert_area
 ||aguratedders.shop^
 ||agurgeed.net^
 ||agwrybiopjmta.online^
+||agxbwsuwhlrqpg.net^
 ||agxmvcuuxgcwd.com^
 ||agxpzsgyklgmg.today^
 ||agzdvulilbauk.website^
@@ -17855,6 +17857,7 @@ browsershots.org#@#.advert_area
 ||alysson.de^
 ||alzaoknynjbq.top^
 ||alzlwkkwyvrm.top^
+||alzlwkkwyyyv.top^
 ||am10.ru^
 ||am15.net^
 ||amaabfvuyispa.space^
@@ -21199,6 +21202,7 @@ browsershots.org#@#.advert_area
 ||casketembody.com^
 ||casoscoyx.com^
 ||casquesalida.click^
+||casserolerehabilitationgradual.com^
 ||cassinotacky.life^
 ||castlespurdog.cfd^
 ||castoffmarys.cyou^
@@ -24662,6 +24666,7 @@ browsershots.org#@#.advert_area
 ||dudialgator.com^
 ||dudoffpewzghy.space^
 ||dudragonitean.com^
+||dudsoasoulils.net^
 ||dueledgrabber.click^
 ||duelledkickxia.rest^
 ||duetads.com^
@@ -27255,6 +27260,7 @@ browsershots.org#@#.advert_area
 ||ftertheyhagete.com^
 ||ftfatwmojqntc.online^
 ||ftfglaklfoyov.space^
+||ftgbnbuxcnxde.space^
 ||ftgprtrhfntks.today^
 ||ftheusysianeduk.org^
 ||fthin.site^
@@ -30169,6 +30175,7 @@ browsershots.org#@#.advert_area
 ||idoeschikvwsn.website^
 ||idoletsluices.com^
 ||idolifygaw.world^
+||idolishkyries.shop^
 ||idolizedestimate.pro^
 ||idolsstars.com^
 ||idpjfsvpydrrq.website^
@@ -31290,6 +31297,7 @@ browsershots.org#@#.advert_area
 ||jdvncnlwf.net^
 ||jdxnelgnhtfyq.space^
 ||jdxxuvnrpdmit.space^
+||jdznyguyrn.com^
 ||je4y15ji.xyz^
 ||jeagponusibves.net^
 ||jebelmisdeed.help^
@@ -31516,6 +31524,7 @@ browsershots.org#@#.advert_area
 ||jmnxhygjdedjy.site^
 ||jmp-assets.com^
 ||jmpmedia.club^
+||jmpnnpwssqlwt.store^
 ||jmqcslhicd.com^
 ||jmrpcwkkaptlr.store^
 ||jmrqhhwionngy.online^
@@ -32667,6 +32676,7 @@ browsershots.org#@#.advert_area
 ||kxonyyapen.com^
 ||kxqdayzmwcoox.website^
 ||kxsxhbyxlspm.com^
+||kxtxmlwwlicwx.store^
 ||kyardashel.com^
 ||kygwbcvevmaoz.store^
 ||kylhwlfq.com^
@@ -34676,6 +34686,7 @@ browsershots.org#@#.advert_area
 ||mhqxzzklfxqdt.website^
 ||mhslimakagrzq.space^
 ||mhusnegshd.xyz^
+||mhvcffxkgupph.online^
 ||mhvllvgrefplg.com^
 ||mhyacjinulgvu.store^
 ||mi62r416j.com^
@@ -36428,6 +36439,7 @@ browsershots.org#@#.advert_area
 ||nolojo.com^
 ||noltothaubsun.com^
 ||nomeuspagrus.com^
+||nomeusworkers.com^
 ||nominalclck.name^
 ||nominateamends.com^
 ||nominategumnutshell.com^
@@ -43537,6 +43549,7 @@ browsershots.org#@#.advert_area
 ||rwsxhquiakqjt.store^
 ||rwubgaba.com^
 ||rwulzuaqsafn.com^
+||rwuysqddilapr.site^
 ||rwwmbymaezkla.top^
 ||rwwmbymaezljq.top^
 ||rwwmbymaezzlk.top^
@@ -45329,6 +45342,7 @@ browsershots.org#@#.advert_area
 ||spokentomatoestraumatic.com^
 ||spolecznosci.net^
 ||spoliadrag.shop^
+||spondilsomalo.com^
 ||spongecell.com^
 ||spongesofateacher.com^
 ||sponsormob.com^
@@ -48061,6 +48075,7 @@ browsershots.org#@#.advert_area
 ||unleashmamry.digital^
 ||unleaveunsweat.rest^
 ||unlimbhutlet.cfd^
+||unlinedrough.pro^
 ||unlivephotoma.world^
 ||unloadeasier.com^
 ||unloadonly.com^
@@ -49292,6 +49307,7 @@ browsershots.org#@#.advert_area
 ||vvrjezyxwxhqd.store^
 ||vvtprtjcnshiwj.com^
 ||vvtwasjebvswf.website^
+||vvusxpvwokviz.website^
 ||vvuttotofvazt.site^
 ||vvxxqpvylixke.store^
 ||vwatrccp.com^
@@ -50688,6 +50704,7 @@ browsershots.org#@#.advert_area
 ||xiupynbp.life^
 ||xivhuwmzobzo.com^
 ||xivsgjxkgnskk.online^
+||xiwrqallad.com^
 ||xiwswnbsjalpi.site^
 ||xjfqqyrcz.com^
 ||xjfyqwxgikffik.com^
@@ -50958,6 +50975,7 @@ browsershots.org#@#.advert_area
 ||xympumihvhkkv.online^
 ||xynkzguvdhttm.site^
 ||xyntqqrtdrjzk.online^
+||xyprhtsvtggi.com^
 ||xysbvkskxvsyj.online^
 ||xystuscalm.world^
 ||xysxkzzygujpn.website^
