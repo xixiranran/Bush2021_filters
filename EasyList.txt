@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: N+bFFS9pNQBSHBu6pquDPw
-! Version: 202510040621
+! Checksum: gGJPcmiflEWK5P9SGF+OLw
+! Version: 202510040901
 ! Title: EasyList
-! Last modified: 04 Oct 2025 06:21 UTC
+! Last modified: 04 Oct 2025 09:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -16884,6 +16884,7 @@ browsershots.org#@#.advert_area
 ||admi2fib4exit^
 ||admicro.vn^
 ||admidainsight.com^
+||administersurlyunbelievable.com^
 ||admirablepositive.com^
 ||admiralimaginablesnarl.com^
 ||admireddepressedsarcastic.com^
@@ -22619,6 +22620,7 @@ browsershots.org#@#.advert_area
 ||copulaewhig.click^
 ||copyrightgenerateprotector.com^
 ||coqctcfbwggkq.website^
+||coqivmhwkcywq.online^
 ||cor8ni3shwerex.com^
 ||corbiesespino.world^
 ||cordclck.cc^
@@ -22798,6 +22800,7 @@ browsershots.org#@#.advert_area
 ||craftsmanscaffoldingwheelbarrow.com^
 ||crafty-math.com^
 ||craftybroad.com^
+||craftyemergency.pro^
 ||craharice.com^
 ||crajeon.com^
 ||crakbanner.com^
@@ -25881,6 +25884,7 @@ browsershots.org#@#.advert_area
 ||etheniccoarsen.com^
 ||ethicalfootball.pro^
 ||ethicel.com^
+||ethicultimatum.com^
 ||ethmoidostiole.rest^
 ||ethnicchristmassocks.com^
 ||ethoajoakepos.net^
@@ -26432,6 +26436,7 @@ browsershots.org#@#.advert_area
 ||fcswogrcyplcs.space^
 ||fcujajhfq.com^
 ||fcvxmhtpvpuld.space^
+||fcwdsidinixoz.website^
 ||fd5orie8e.com^
 ||fdbdzwnpffxcg.space^
 ||fdc99e538f.com^
@@ -28027,6 +28032,7 @@ browsershots.org#@#.advert_area
 ||gingrasmichery.rest^
 ||ginksulus.rest^
 ||ginningsteri.com^
+||giocyrvdmxgqz.website^
 ||giojosoflaker.cyou^
 ||giolvmimbguyk.net^
 ||giosksoj.com^
@@ -29729,6 +29735,7 @@ browsershots.org#@#.advert_area
 ||holupbid.click^
 ||holyabjoint.click^
 ||holydaybasic.com^
+||holyhptoctapru.com^
 ||homelynnecked.cfd^
 ||homelysample.pro^
 ||homeredmardi.qpon^
@@ -31541,6 +31548,7 @@ browsershots.org#@#.advert_area
 ||jicamadoless.com^
 ||jicarafarrand.cfd^
 ||jichooksaivaiy.net^
+||jiczbxbmtefhk.store^
 ||jidftzbqrjaqr.site^
 ||jifflebreasts.com^
 ||jigglersirras.life^
@@ -36516,6 +36524,7 @@ browsershots.org#@#.advert_area
 ||nlezowlzrllro.site^
 ||nlfutnfylfgez.store^
 ||nlhuinvovrgkm.space^
+||nlihxtqrggvkn.net^
 ||nlkli.com^
 ||nlmpgrgxcbcoo.site^
 ||nlotcvfjkkzfm.site^
@@ -39461,6 +39470,7 @@ browsershots.org#@#.advert_area
 ||phupsaupsarse.net^
 ||phuruxoods.com^
 ||phuzourtaiwha.com^
+||phxkohxxcjcoz.store^
 ||phygfasvnnjrg.life^
 ||phyllinwyethia.click^
 ||phynefopsu.com^
@@ -39500,6 +39510,7 @@ browsershots.org#@#.advert_area
 ||pictureseres.shop^
 ||picturespushfulrookie.com^
 ||picturesquesizedisabled.com^
+||picturesqueundercover.com^
 ||piculsaspires.life^
 ||piczsgbdwsebk.com^
 ||piddledbulblet.rest^
@@ -39545,6 +39556,7 @@ browsershots.org#@#.advert_area
 ||pilonducking.click^
 ||pilosissteed.help^
 ||pilotedmixhill.help^
+||pilotignoranceitch.com^
 ||pilotstracking.com^
 ||piloussouffl.com^
 ||pilsarde.net^
@@ -41725,6 +41737,7 @@ browsershots.org#@#.advert_area
 ||quavereverydayby.com^
 ||quaybeware.com^
 ||qubiggruhajyig.com^
+||qucpnuajo.com^
 ||queanpattle.com^
 ||queasydashed.top^
 ||queasypolenta.com^
@@ -42734,6 +42747,7 @@ browsershots.org#@#.advert_area
 ||resplituproar.cyou^
 ||respondupdatedebb.com^
 ||responsad1.space^
+||responsedifferencegrate.com^
 ||responservbzh.icu^
 ||responserver.com^
 ||responsible-debate.com^
@@ -47184,6 +47198,7 @@ browsershots.org#@#.advert_area
 ||toapz.xyz^
 ||toarathaujooy.net^
 ||toasoudouh.net^
+||toathiphigra.net^
 ||toawaups.net^
 ||toawhulo.com^
 ||tobaccoearnestnessmayor.com^
@@ -48666,6 +48681,7 @@ browsershots.org#@#.advert_area
 ||uswgjyclbvtjj.space^
 ||uszwemdrlwqxw.website^
 ||utajxinmmiuhp.site^
+||utamavfpmimh.com^
 ||utarget.co.uk^
 ||utbxvmsgpcznb.fun^
 ||utdkiskm.com^
@@ -50115,6 +50131,7 @@ browsershots.org#@#.advert_area
 ||whaijoorgoo.com^
 ||whairtoa.com^
 ||whaleads.com^
+||whaledobbins.qpon^
 ||whaleplayful.com^
 ||whaleslightestimposter.com^
 ||whammedknavess.top^
@@ -50902,6 +50919,7 @@ browsershots.org#@#.advert_area
 ||xazafvbmicmi.com^
 ||xazextepdkarx.store^
 ||xazojei-z.top^
+||xbfqcnhlm.com^
 ||xbiicstjgsqpr.website^
 ||xbmiicdidpymj.vip^
 ||xbovikgcahuob.website^
@@ -51016,6 +51034,7 @@ browsershots.org#@#.advert_area
 ||xivsgjxkgnskk.online^
 ||xiwrqallad.com^
 ||xiwswnbsjalpi.site^
+||xjdkccwyttuqj.website^
 ||xjfqqyrcz.com^
 ||xjfyqwxgikffik.com^
 ||xjhmuyvufdesh.space^
@@ -51161,6 +51180,7 @@ browsershots.org#@#.advert_area
 ||xrllratggofic.online^
 ||xrncrfkql.com^
 ||xrrdi.com^
+||xruxhakrgu.com^
 ||xsbzjmhvigahe.space^
 ||xsifzaieypxqr.global^
 ||xsiorsgamrqgz.site^
@@ -51988,6 +52008,7 @@ browsershots.org#@#.advert_area
 ||zhmsgznkpenng.space^
 ||zhomonguixska.store^
 ||zhoyyibwywgev.one^
+||zhqxaypwwqulh.website^
 ||zhtiqbietjwhb.fun^
 ||zhtndfplsmcqt.global^
 ||zhtvsepde.com^
