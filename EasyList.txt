@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 8KJ7cj0/V1sky9EO9mvWLA
-! Version: 202510051821
+! Checksum: HYdNdXTBqtBbpyoSN0F7Zg
+! Version: 202510052111
 ! Title: EasyList
-! Last modified: 05 Oct 2025 18:21 UTC
+! Last modified: 05 Oct 2025 21:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18099,6 +18099,7 @@ browsershots.org#@#.advert_area
 ||anopiaaplysia.click^
 ||anopportunitytost.com^
 ||anosiascegger.help^
+||anothercable.pro^
 ||anothereldestprogeny.com^
 ||anothingfruit.org^
 ||anoxiabrains.shop^
@@ -18678,6 +18679,7 @@ browsershots.org#@#.advert_area
 ||ationforeahyouglas.com^
 ||atiukstssfixi.space^
 ||atjigglypuffor.com^
+||atjndcdypwrcr.site^
 ||atknvcdnfckpb.website^
 ||atkpaitsh.net^
 ||atkpaitsh.xyz^
@@ -20950,6 +20952,7 @@ browsershots.org#@#.advert_area
 ||bxvcwryuuab.com^
 ||bxwvsumjgtvmg.space^
 ||bxwzcnwycuvbc.world^
+||bxynquktjxiqi.website^
 ||byadfly.online^
 ||byaronan.com^
 ||bybastiodoner.com^
@@ -21220,6 +21223,7 @@ browsershots.org#@#.advert_area
 ||cardiganpalmreconcile.com^
 ||carditahauteur.rest^
 ||cardiumdaftly.com^
+||careeravenage.cyou^
 ||careerunderstatement.com^
 ||careewituhi.org^
 ||careewituhin.org^
@@ -21510,6 +21514,7 @@ browsershots.org#@#.advert_area
 ||cellspitch.com^
 ||cellspsoatic.com^
 ||celsiusours.com^
+||celsoafteva.com^
 ||celtstimid.shop^
 ||celx.xyz^
 ||celxkpdir.com^
@@ -21587,6 +21592,7 @@ browsershots.org#@#.advert_area
 ||cgbubdilqdjit.online^
 ||cgbupajpzo-t.rocks^
 ||cgcjmgmcpddvh.website^
+||cgeyxrpogpptf.online^
 ||cggrinkqbazwe.site^
 ||cghghfckwuwoc.space^
 ||cgiaysvjnljyk.online^
@@ -21990,6 +21996,7 @@ browsershots.org#@#.advert_area
 ||cjlph.com^
 ||cjqyupjmmrahr.com^
 ||cjrlsw.info^
+||cjrtwtmauargd.website^
 ||cjtomemtcgdwq.click^
 ||cjuzydnvklnq.today^
 ||cjvdfw.com^
@@ -26512,6 +26519,7 @@ browsershots.org#@#.advert_area
 ||fbmediafor.com^
 ||fbpqvs.com^
 ||fbqbxpwmmpme.com^
+||fbqhhioxipvfn.space^
 ||fbscnurbvnxpqb.xyz^
 ||fbwtqsajsuuji.store^
 ||fc3ppv.xyz^
@@ -31774,6 +31782,7 @@ browsershots.org#@#.advert_area
 ||jkha742.xyz^
 ||jkiaiboyfwgpiv.net^
 ||jkivksjqquguc.store^
+||jklhsbwtbfkmh.site^
 ||jklpy.com^
 ||jkpgmwsq.com^
 ||jkqiweqrxsieb.website^
@@ -36720,6 +36729,7 @@ browsershots.org#@#.advert_area
 ||nlaietuhnpndp.site^
 ||nlargeconsu.org^
 ||nlargeconsult.org^
+||nlbdcnatxttoxib.com^
 ||nlbflblunhtr.com^
 ||nlbjczvymnrcw.site^
 ||nlcbwxqatftpr.website^
@@ -36995,6 +37005,7 @@ browsershots.org#@#.advert_area
 ||npmkphjlws.xyz^
 ||npmnavtmhpxf.com^
 ||npojutficc.com^
+||npotczqwftxnx.space^
 ||nppbvulfelsx.xyz^
 ||nppcvydbsljye.site^
 ||nppwqeyhasddh.space^
@@ -37196,6 +37207,7 @@ browsershots.org#@#.advert_area
 ||nusjemcedhfgr.site^
 ||nuskt.directory^
 ||nusmhicmskvk.com^
+||nusxvpootryrz.site^
 ||nutatedtriol.com^
 ||nutateshazanim.com^
 ||nutchaungong.com^
@@ -40442,6 +40454,7 @@ browsershots.org#@#.advert_area
 ||ppapueykqu.com^
 ||ppaymnknqzvqw.tech^
 ||ppbqkiborhoje.online^
+||ppclnowu.com^
 ||ppcmate.com^
 ||ppcnt.pro^
 ||ppcorndokz.com^
@@ -40507,6 +40520,7 @@ browsershots.org#@#.advert_area
 ||prbchvsbsgixu.global^
 ||prbthfffwgfppdn.com^
 ||prcyrtdnx.xyz^
+||prdmjutk.com^
 ||prdqdbzquveuz.online^
 ||prdredir.com^
 ||pre4sentre8dhf.com^
@@ -45513,6 +45527,7 @@ browsershots.org#@#.advert_area
 ||smelledknifer.rest^
 ||smellyredirect.click^
 ||smenqskfmpfxnb.bid^
+||smglvclyfsfbt.website^
 ||smigro.info^
 ||smileesidesuk.com^
 ||smiletavenine.cyou^
@@ -47004,6 +47019,7 @@ browsershots.org#@#.advert_area
 ||tend-new.com^
 ||tenderlybatch.com^
 ||tenkninghoder.com^
+||tenorsstorms.rest^
 ||tenpinboonk.shop^
 ||tensecross.pro^
 ||tenserrelents.com^
@@ -47204,6 +47220,7 @@ browsershots.org#@#.advert_area
 ||thisiswaldo.com^
 ||thisisyourprize.site^
 ||thislloverway.help^
+||thixfypgaklpr.com^
 ||thkvmqqbocrbaob.com^
 ||thnqemehtyfe.com^
 ||thoafteebe.net^
@@ -47481,6 +47498,7 @@ browsershots.org#@#.advert_area
 ||tneca.com^
 ||tnegeszxnuwpo.space^
 ||tnfjlukzibewa.space^
+||tnfqivurduflf.store^
 ||tngpcrtcammms.com^
 ||tnlszozefygrt.online^
 ||tnmci.com^
@@ -48182,6 +48200,7 @@ browsershots.org#@#.advert_area
 ||tvwxwboysflvt.website^
 ||tvxzuiiddkbqy.online^
 ||twaeppdjvb.com^
+||twanamatha.cfd^
 ||twdgdoukcxtby.xyz^
 ||tweadsialing.com^
 ||tweelessatic.co.in^
@@ -50795,6 +50814,7 @@ browsershots.org#@#.advert_area
 ||wkwqljwjvkkqk.top^
 ||wkwqppvboxjgf.com^
 ||wkwzgjyvykbg.top^
+||wkyhnmaroqmeu.online^
 ||wkyiwsiryjrke.space^
 ||wkzmxixgjobkf.site^
 ||wl-cornholio.com^
