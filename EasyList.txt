@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: VhUvpcnroDRP1pb/pz91yQ
-! Version: 202510110141
+! Checksum: oc1DRc48LgGPOOWPb9L5vw
+! Version: 202510110321
 ! Title: EasyList
-! Last modified: 11 Oct 2025 01:41 UTC
+! Last modified: 11 Oct 2025 03:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17690,6 +17690,7 @@ browsershots.org#@#.advert_area
 ||akknroojtna.com^
 ||akkrehaeb.xyz^
 ||aklmjylamvyba.top^
+||aklmjylamvyqr.top^
 ||aklndoacyhmvomt.com^
 ||akmaxmueplcuh.com^
 ||akmxts.com^
@@ -20129,6 +20130,7 @@ browsershots.org#@#.advert_area
 ||bjiqdkqwbpbgk.fun^
 ||bjjgpmqyvpr.xyz^
 ||bjjky.cfd^
+||bjlsvzikxpjxq.space^
 ||bjokokdeoccv.com^
 ||bjqug.xyz^
 ||bjsvp35.space^
@@ -27477,6 +27479,7 @@ browsershots.org#@#.advert_area
 ||fogvnoq.com^
 ||fogydomhelloes.cyou^
 ||foheltou.com^
+||fohshxrgpzlkj.site^
 ||foilunflaweduproot.com^
 ||foismrinded.cfd^
 ||foistynobbler.qpon^
@@ -27742,6 +27745,7 @@ browsershots.org#@#.advert_area
 ||freshpops.net^
 ||fretizerede.cfd^
 ||fretumlimpsey.com^
+||frgojcnjcphxjq.net^
 ||frhgnhgbnrlpspm.com^
 ||fricaceambrain.digital^
 ||frictimamboed.cyou^
@@ -28042,6 +28046,7 @@ browsershots.org#@#.advert_area
 ||fxuenhhaucscs.online^
 ||fxvvraqymwsjmmq.com^
 ||fxxnyksafitsz.online^
+||fxxogvmdpnwgw.online^
 ||fxyiuxmgthtqo.com^
 ||fyahgitrxk.com^
 ||fycdnhwmaitdg.online^
@@ -31644,6 +31649,7 @@ browsershots.org#@#.advert_area
 ||iqoftxgeocyfl.site^
 ||iqtadppc.com^
 ||iqtest365.online^
+||iqtvvevbydoat.online^
 ||iramb.site^
 ||iranimayweed.cfd^
 ||irclsopmebtqz.space^
@@ -35166,6 +35172,7 @@ browsershots.org#@#.advert_area
 ||mamluksburion.com^
 ||mammocksambos.com^
 ||mammoth-a.pro^
+||mammothhousing.pro^
 ||mammothshot.com^
 ||mamruoa.club^
 ||mamrysnuffy.digital^
@@ -40157,6 +40164,7 @@ browsershots.org#@#.advert_area
 ||pelageelohist.rest^
 ||pelamydlours.com^
 ||peleliuplanned.help^
+||pelitesguiders.shop^
 ||pelliancalmato.com^
 ||peloricmilched.cfd^
 ||pelsalsouglee.net^
@@ -44130,6 +44138,7 @@ browsershots.org#@#.advert_area
 ||rhfjnioizmtoz.com^
 ||rhhvkmwlxeyst.store^
 ||rhinoaffiliates.com^
+||rhizomapatrick.rest^
 ||rhizotasegue.com^
 ||rhizotaspanule.world^
 ||rhllmitjfxcvg.website^
@@ -44309,6 +44318,7 @@ browsershots.org#@#.advert_area
 ||rizuvnddwycjm.space^
 ||rizyjzkvtsoib.space^
 ||rjbfslmffohss.site^
+||rjbgirjncxojru.com^
 ||rjbpvxjzstydt.space^
 ||rjbvlgsb.com^
 ||rjguonqztwmgs.store^
@@ -50366,6 +50376,7 @@ browsershots.org#@#.advert_area
 ||vaqykqyvvazbz.top^
 ||vardasassily.digital^
 ||vardsusyseinpo.com^
+||vargirgousa.net^
 ||variablehour.com^
 ||variationsradio.com^
 ||variedslimecloset.com^
@@ -52576,6 +52587,7 @@ browsershots.org#@#.advert_area
 ||xepsygfqsvyyv.tech^
 ||xeqkxbzbubpdb.site^
 ||xerahhhwhpcey.online^
+||xexuchkq.com^
 ||xfalmawladvew.site^
 ||xfbjiyqezmwew.space^
 ||xfcdayydgavdqmg.com^
@@ -52721,6 +52733,7 @@ browsershots.org#@#.advert_area
 ||xnesbsgxocwxi.website^
 ||xneyeaoqjhayv.site^
 ||xniiiosd.com^
+||xnkldnhifcdmr.site^
 ||xnnuudqewlagg.com^
 ||xnoztzcdyawlx.love^
 ||xnperqlgiwvpp.website^
@@ -52768,6 +52781,7 @@ browsershots.org#@#.advert_area
 ||xpqpesarp.com^
 ||xpsidhdv.com^
 ||xpvv0rkn.fun^
+||xpwpkuexwpakf.store^
 ||xpxondckpvbub.com^
 ||xpxqagsqezhgk.website^
 ||xpxsfejcf.com^
@@ -52798,6 +52812,7 @@ browsershots.org#@#.advert_area
 ||xrrdi.com^
 ||xruxhakrgu.com^
 ||xsbzjmhvigahe.space^
+||xsdsemgyxukwx.space^
 ||xsedsmmfzdgeg.online^
 ||xsifzaieypxqr.global^
 ||xsiorsgamrqgz.site^
@@ -53176,6 +53191,7 @@ browsershots.org#@#.advert_area
 ||yjepztzvncndf.tech^
 ||yjgkufrdloaih.space^
 ||yjgrhzvtvkqen.tech^
+||yjjfvcbzbrppe.store^
 ||yjpqcnhnpaghu.site^
 ||yjrohhkqfddlx.store^
 ||yjrrwchaz.com^
@@ -53764,6 +53780,7 @@ browsershots.org#@#.advert_area
 ||zlwyiedcgsnco.store^
 ||zlx.com.br^
 ||zlxwsxcnkyeij.site^
+||zlzhwpoqancln.online^
 ||zlzwhrhkavos.xyz^
 ||zm232.com^
 ||zmaehtvocezof.space^
@@ -53883,6 +53900,7 @@ browsershots.org#@#.advert_area
 ||zqswaomjynrud.online^
 ||zqtxtnrlxyliz.site^
 ||zqvee2re50mr.com^
+||zqvfnrprrodge.site^
 ||zqvvzrlevbyko.top^
 ||zqvvzrlevbzvb.top^
 ||zqwe.ru^
@@ -53914,6 +53932,7 @@ browsershots.org#@#.advert_area
 ||ztg7hqds.xyz^
 ||ztgktnbuvsmbl.online^
 ||zthqddmdunlqx.website^
+||zticbxigsdhau.space^
 ||ztjxmnajfduht.life^
 ||ztkyevuemenmj.online^
 ||ztlcrzmjshgfc.one^
