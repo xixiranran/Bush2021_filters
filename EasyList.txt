@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 2GvCPHZrnKLPxdwQngrDFQ
-! Version: 202510261821
+! Checksum: Zy2xLEJerkC5syOo+hq6xQ
+! Version: 202510262111
 ! Title: EasyList
-! Last modified: 26 Oct 2025 18:21 UTC
+! Last modified: 26 Oct 2025 21:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -20265,6 +20265,7 @@ browsershots.org#@#.advert_area
 ||biehuljjsllzf.website^
 ||bieldswiggish.help^
 ||biemedia.com^
+||bienlzlyyv.com^
 ||bieplmwcawogmep.xyz^
 ||bifbfonqaqsgrs.com^
 ||biffingmatina.com^
@@ -31597,6 +31598,7 @@ browsershots.org#@#.advert_area
 ||honeysucceeding.com^
 ||honeywomenflirt.com^
 ||honksbiform.com^
+||honorabledata.pro^
 ||honorablegiven.com^
 ||honoureddiscernible.com^
 ||honouressencebeam.com^
@@ -34898,6 +34900,7 @@ browsershots.org#@#.advert_area
 ||kologyrtyndwean.info^
 ||komatikbioptic.cfd^
 ||komnqabvgmayb.top^
+||konagoosed.rest^
 ||konelg.click^
 ||konize.click^
 ||konovqvsclumt.online^
@@ -36162,6 +36165,7 @@ browsershots.org#@#.advert_area
 ||loadercdn.com^
 ||loadingscripts.com^
 ||loadtime.org^
+||loagrojoopagoa.com^
 ||loajawun.com^
 ||loaladaunena.net^
 ||loanxas.xyz^
@@ -43522,6 +43526,7 @@ browsershots.org#@#.advert_area
 ||pvdbkr.com^
 ||pvfcqfjymgnua.store^
 ||pvgcedbveetxz.website^
+||pvmycolrkfqsjd.com^
 ||pvnsfrhlfpwbo.space^
 ||pvnwfoxrfezes.space^
 ||pvokaqjpntpin.store^
@@ -44137,6 +44142,7 @@ browsershots.org#@#.advert_area
 ||qtcpvgdluotko.website^
 ||qtgfeyhcqcrhx.space^
 ||qtgoiasqfgbgb.space^
+||qtgyjrwkw.net^
 ||qtjlciojkhkfl.website^
 ||qtjqxpmynsjtg.online^
 ||qtmcctlezxmvt.online^
@@ -46439,6 +46445,7 @@ browsershots.org#@#.advert_area
 ||scapelpawls.cyou^
 ||scappledaps.com^
 ||scarabresearch.com^
+||scarcebook.pro^
 ||scarcelittle.com^
 ||scarcerpokomoo.com^
 ||scareannuls.digital^
@@ -47707,6 +47714,7 @@ browsershots.org#@#.advert_area
 ||sodiumendlesslyhandsome.com^
 ||sodneedlesparkle.com^
 ||soduniversal.com^
+||soeyxqwvu.com^
 ||sofcjikmwxuya.online^
 ||soffitplaten.cyou^
 ||sofftdate.com^
@@ -47875,6 +47883,7 @@ browsershots.org#@#.advert_area
 ||sowrevisionwrecking.com^
 ||soxivuphy.com^
 ||soybeanteskere.cyou^
+||soyipaio.com^
 ||soyotstroud.rest^
 ||sozzlypeavies.com^
 ||space-pulsar.com^
@@ -50742,6 +50751,7 @@ browsershots.org#@#.advert_area
 ||ubuylhhqqydkn.com^
 ||ubxdnqoim.net^
 ||ubxdnqoim.xyz^
+||uby9w6k4vjyf8ebinxq8zmk7wyimi81fyl.cfd^
 ||ubyuughvqgkfc.online^
 ||ucationinin.info^
 ||ucationininance.org^
@@ -51962,6 +51972,7 @@ browsershots.org#@#.advert_area
 ||vengeful-egg.com^
 ||veningspond.org^
 ||veningspondingco.org^
+||veniseroucou.cyou^
 ||venitegode.qpon^
 ||venkrana.com^
 ||vennershackos.com^
@@ -55155,6 +55166,7 @@ browsershots.org#@#.advert_area
 ||yqmczwseuyjck.site^
 ||yqmhfmdviqd.com^
 ||yqmxfz.com^
+||yqmxodpwtinui.com^
 ||yqmyzkialhdoi.vip^
 ||yqnqnvpunztoe.space^
 ||yqohoxwuyu.club^
@@ -55870,6 +55882,7 @@ browsershots.org#@#.advert_area
 ||zvvajeommbajz.top^
 ||zvvajeommbrjw.top^
 ||zvvajeommbrmj.top^
+||zvvajeommbwmb.top^
 ||zvwhrc.com^
 ||zvypqoedujvod.website^
 ||zvzmzrawlvlez.top^
