@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: nmUVTzFvJ9xAF0gmBpJYXw
-! Diff-Path: ../patches/19_optimized/19_optimized-s-1761632089-3600.patch
+! Checksum: 05hhM0nVjs+zmgWELJAknQ
+! Diff-Path: ../patches/19_optimized/19_optimized-s-1761653726-3600.patch
 ! Title: AdGuard Popups filter (Optimized)
 ! Description: Blocks all kinds of pop-ups that are not necessary for websites' operation according to our Filter policy.
-! Version: 2.0.64.13
-! TimeUpdated: 2025-10-28T06:10:58+00:00
+! Version: 2.0.64.15
+! TimeUpdated: 2025-10-28T12:11:41+00:00
 ! Expires: 5 days (update frequency)
 ://yandex.*/images/_$xmlhttprequest,method=post
 ya.ru,yandex.*##:matches-path(/images)div[style="max-width: 100%; max-height: 300px; height: 300px;"]
@@ -1475,6 +1475,7 @@ inews.co.uk,pinterest.com##+js(set-constant, google.accounts.id.prompt, noopFunc
 ##iframe[id="google-one-tap-iframe"][allow="identity-credentials-get"]
 ###credential_picker_iframe
 ||edge-auth.microsoft.com/js/ms_auth_client.min.js
+albert.cz##div[data-testid="nudge-to-select-store"]
 softmm.com.pl###tm-widget-alpaca
 hud.gov##.header-alert + div.modalDialog
 smartsheet.com##.brick--type--felix-cta-snipe
@@ -1809,7 +1810,7 @@ biletinial.com##.blt_mdl
 billoreilly.com#$#body { overflow: auto !important; }
 ||billoreilly.com/global/jquery/plugins/fancybox/jquery.fancybox.css
 ebay.*###g-yolo-overlay-holder > iframe#google-ebay
-tvp.info##.snrs-popup-overlay
+tvp.pl,tvp.info##.snrs-popup-overlay
 biomolecula.ru##.donate-slider
 book24.ru##.app-newbies-notification
 r34.app##+js(set-local-storage-item, statistics-appOpenedCount, 1)
@@ -5549,6 +5550,7 @@ ozgurkocaeli.com.tr,turkuazgazetesi.net,yenialanya.com,mansetaydin.com,seskocael
 gaugau.futabanet.jp,newscientist.com,jiji.com,edp24.co.uk,technologyreview.com,nordbayern.de,thelocal.ch,morgenpost.de,waz.de,nrz.de,braunschweiger-zeitung.de,abendblatt.de,wolfsburger-nachrichten.de,wolfenbuetteler-zeitung.de,ynet.co.il#$#html > body.tp-modal-open { overflow: auto !important; }
 gaugau.futabanet.jp,newscientist.com,jiji.com,edp24.co.uk,technologyreview.com,nordbayern.de,thelocal.ch,morgenpost.de,waz.de,nrz.de,braunschweiger-zeitung.de,abendblatt.de,wolfsburger-nachrichten.de,wolfenbuetteler-zeitung.de,ynet.co.il#$#div[class="tp-modal"][style^="z-index: 3000"] { display: none !important; }
 gaugau.futabanet.jp,newscientist.com,jiji.com,edp24.co.uk,technologyreview.com,nordbayern.de,thelocal.ch,morgenpost.de,waz.de,nrz.de,braunschweiger-zeitung.de,abendblatt.de,wolfsburger-nachrichten.de,wolfenbuetteler-zeitung.de,ynet.co.il#$#div[class="tp-modal"][style^="z-index: 3000"] ~ div.tp-backdrop { display: none !important; }
+albert.cz##section[data-testid="footer-subscription-block"]
 newsletter.gamediscover.co##.container > .end-cta-container:has(> div[data-component-name="SubscribeWidget"])
 sonoticiaboa.com.br##article > div.w-full:has(> a[href^="https://whatsapp.com/channel/"])
 sonoticiaboa.com.br##article > div.w-full:has(> a[href="https://t.me/canalsonoticiaboa"])
