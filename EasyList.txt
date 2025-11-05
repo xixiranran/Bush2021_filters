@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 2fF0X6W7Y2CWUVSWfHio9A
-! Version: 202511050151
+! Checksum: Z8ipXtxUb/AWLZuFEO5ouA
+! Version: 202511050341
 ! Title: EasyList
-! Last modified: 05 Nov 2025 01:51 UTC
+! Last modified: 05 Nov 2025 03:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -16115,6 +16115,7 @@ browsershots.org#@#.advert_area
 ||6tnpqnytyolllykq.cfd^
 ||6ujk8x9soxhm.com^
 ||6v41p4bsq.com^
+||6x8rvifv7ehfhoe1qrphxeyh8wk4hkt.cfd^
 ||6yfquhelmrprxfv5.cfd^
 ||6zy9yqe1ew.com^
 ||7-7-7-partner.com^
@@ -17980,6 +17981,7 @@ browsershots.org#@#.advert_area
 ||amusing-breath.pro^
 ||amusingbase.com^
 ||amusinghump.com^
+||amvbwlerkymzw.top^
 ||amvndrcsfxevr.site^
 ||amwgisnagixqe.store^
 ||amwoukrkskillso.com^
@@ -27415,6 +27417,7 @@ browsershots.org#@#.advert_area
 ||fstsrv9.com^
 ||fstsspfwthukh.site^
 ||fsvgheuiakdrf.online^
+||fszlnmpcstck.com^
 ||ftacbwmrfphxa.online^
 ||ftblltrck.com^
 ||ftd.agency^
@@ -29823,6 +29826,7 @@ browsershots.org#@#.advert_area
 ||hgtczdcptoidc.site^
 ||hgub2polye.com^
 ||hgutlxufr.com^
+||hgvigqjolbnnt.store^
 ||hgwkgddzhtbac.space^
 ||hh9uc8r3.xyz^
 ||hhbpxsvmq.com^
@@ -31092,6 +31096,7 @@ browsershots.org#@#.advert_area
 ||ilxylgyphi.com^
 ||ilyaoipntdyol.space^
 ||ilyf4amifh.com^
+||ilzr6xm53owgu8y9h.rest^
 ||imageadvantage.net^
 ||imageflow.store^
 ||imagenest.site^
@@ -32597,6 +32602,7 @@ browsershots.org#@#.advert_area
 ||jolmen.click^
 ||joltermedlars.cyou^
 ||joluw.net^
+||jomaijainay.com^
 ||jombfyktowaqp.space^
 ||jomistress.com^
 ||jomoukrebsoxy.net^
@@ -37994,6 +38000,7 @@ browsershots.org#@#.advert_area
 ||ngdpzsewyequh.site^
 ||ngegas.files.im^
 ||ngegyhsuaylyj.site^
+||ngepfoguoouph.space^
 ||ngexcelelernodyde.org^
 ||ngforanoppor.org^
 ||ngfycrwwd.com^
@@ -38715,6 +38722,7 @@ browsershots.org#@#.advert_area
 ||nwfkhvqxjxpll.online^
 ||nwjdldsfzszkp.rocks^
 ||nwljjhhbtofbtc.com^
+||nwmlglasjxvgx.space^
 ||nwmnd.com^
 ||nwnncnbipamso.website^
 ||nwntsabmagdqn.xyz^
@@ -39070,6 +39078,7 @@ browsershots.org#@#.advert_area
 ||oecdupuvlbvjs.space^
 ||oecustoggles.shop^
 ||oehgk.com^
+||oeibagiwhfltb.site^
 ||oeicqhzlvnlpc.online^
 ||oeldtgynjxqbe.online^
 ||oelhofejacqod.website^
@@ -40260,6 +40269,7 @@ browsershots.org#@#.advert_area
 ||owzppkkbfzkmu.site^
 ||oxado.com^
 ||oxaihpkyv.com^
+||oxauxgbuzyyae.online^
 ||oxbbzxqfnv.com^
 ||oxcj7jqw52iwy9bgw14uve6.cfd^
 ||oxfbambrpxoud.xyz^
@@ -42599,6 +42609,7 @@ browsershots.org#@#.advert_area
 ||punkeysieee.click^
 ||punknatrix.life^
 ||punkspyke.com^
+||punneddieties.com^
 ||punogchdnwcrri.com^
 ||punoocke.com^
 ||punosend.com^
@@ -43107,6 +43118,7 @@ browsershots.org#@#.advert_area
 ||qhffqlklvclza.website^
 ||qhgryaocaxulj.online^
 ||qhiatcfrywgse.click^
+||qhihiftucgmcma.com^
 ||qhkbqycpoasdqd.com^
 ||qhkcbwfvobqma.space^
 ||qhkcnqnvjjl.net^
@@ -50071,6 +50083,7 @@ browsershots.org#@#.advert_area
 ||tuftomaighee.net^
 ||tuftpdfntzale.online^
 ||tugpoise.com^
+||tuhhfhswiabhz.space^
 ||tuikproart.life^
 ||tuiyvrfyy.com^
 ||tujlpraovjert.site^
@@ -51190,6 +51203,7 @@ browsershots.org#@#.advert_area
 ||usingstrikingindoors.com^
 ||usisedprivatedqua.org^
 ||usix-udlnseb.space^
+||usiybpgvwccfajn.com^
 ||usjbwvtqwv.com^
 ||uskokvolutin.com^
 ||uslqdimcuxehp.store^
@@ -52188,6 +52202,7 @@ browsershots.org#@#.advert_area
 ||voustysluggy.shop^
 ||vouwouhusta.net^
 ||vovhalrrqiowz.love^
+||vovtmzagxegns.com^
 ||vowlvgdgbkqmv.online^
 ||voxar.xyz^
 ||voxozvccofzwc.website^
@@ -54055,6 +54070,7 @@ browsershots.org#@#.advert_area
 ||xepsygfqsvyyv.tech^
 ||xeqkxbzbubpdb.site^
 ||xerahhhwhpcey.online^
+||xeuesswygmuso.site^
 ||xexuchkq.com^
 ||xfalmawladvew.site^
 ||xfbjiyqezmwew.space^
