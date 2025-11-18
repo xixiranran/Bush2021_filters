@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 5HguU3VkEjbSfBNVbWMgEQ
-! Version: 202511181241
+! Checksum: FNnp6Q2lMQmyeDyc24ryCg
+! Version: 202511181521
 ! Title: EasyList
-! Last modified: 18 Nov 2025 12:41 UTC
+! Last modified: 18 Nov 2025 15:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -16350,6 +16350,7 @@ browsershots.org#@#.advert_area
 ||8sfdladng.xyz^
 ||8tip5whk.xyz^
 ||8ytm3vnjc3fhw7nypxuhwuczfbf.cfd^
+||8zggvq4m8gtrqyb9.rest^
 ||903e9c75f6.com^
 ||905trk.com^
 ||9075bcc610.com^
@@ -26275,6 +26276,7 @@ browsershots.org#@#.advert_area
 ||eucosiaepeiric.com^
 ||eucritemien.help^
 ||eudaruffles.cfd^
+||eudistoutlets.help^
 ||euizhltcd6ih.com^
 ||eukova.com^
 ||eukworektobedir.com^
@@ -31783,6 +31785,7 @@ browsershots.org#@#.advert_area
 ||ireofhisladyloveh.com^
 ||irgdnasjxgdsp.site^
 ||irhsymtcvduze.website^
+||iriditepeiser.qpon^
 ||iringtgandmotiv.com^
 ||irinkmepeqcem.net^
 ||irj2vs6p.xyz^
@@ -34493,6 +34496,7 @@ browsershots.org#@#.advert_area
 ||lkysnelbl.com^
 ||lkywhudauwqh.xyz^
 ||lkzsvaaigmuez.website^
+||llboqelaevkyk.top^
 ||llboqelaevqjy.top^
 ||llboqevyavvjy.top^
 ||llclaqgoifaepev.net^
@@ -35916,6 +35920,7 @@ browsershots.org#@#.advert_area
 ||milljeanne.com^
 ||millsurfaces.com^
 ||milnhghbwgyco.site^
+||milterismaili.cfd^
 ||miltlametta.com^
 ||miltsurgency.help^
 ||miluwo.com^
@@ -36566,6 +36571,7 @@ browsershots.org#@#.advert_area
 ||mqxbtsawpuulc.store^
 ||mqyyocimwg.xyz^
 ||mqzmpzvbvaojz.site^
+||mr1niwcjhc2lpgqv1.cfd^
 ||mr2cnjuh34jb.com^
 ||mr3o.online^
 ||mraujsrcf.com^
@@ -36704,6 +36710,7 @@ browsershots.org#@#.advert_area
 ||muhjwmynzkfns.site^
 ||muiftoxfqquvq.store^
 ||muiqdbkjhcx.xyz^
+||mujerestucky.cfd^
 ||mukindwouldm.org^
 ||mulautuzign.com^
 ||mulesto.com^
@@ -39842,6 +39849,7 @@ browsershots.org#@#.advert_area
 ||peakclick.com^
 ||peakedslews.cfd^
 ||peakilygluten.com^
+||pealingrepute.click^
 ||peanbowfin.life^
 ||pearlysweepoverface.com^
 ||peartengrousy.top^
@@ -41384,6 +41392,7 @@ browsershots.org#@#.advert_area
 ||ptephatauss.net^
 ||pterinhestern.world^
 ||ptestofooltouts.net^
+||ptetsoaversaphi.com^
 ||ptewegleecha.net^
 ||ptfoplgnjmygh.store^
 ||ptgbydghejqfz.online^
@@ -42337,6 +42346,7 @@ browsershots.org#@#.advert_area
 ||quizzedtoot.help^
 ||quizzical-cow.com^
 ||quizzicaltackle.pro^
+||qujajiquho.com^
 ||quoddedcozes.shop^
 ||quoitsarchery.cyou^
 ||quokkacheeks.com^
@@ -42383,6 +42393,7 @@ browsershots.org#@#.advert_area
 ||qwiwbtywamisz.online^
 ||qwjxcvdzrafum.club^
 ||qwkfdcetwk.net^
+||qwkgahdy.com^
 ||qwkqpkygayhy.com^
 ||qwlmacbmwmtum.online^
 ||qwoeuhoeav.com^
@@ -47398,6 +47409,7 @@ browsershots.org#@#.advert_area
 ||thoupsuk.net^
 ||thoussvarajs.digital^
 ||thowharsoaps.net^
+||thrailrepin.help^
 ||thrallsalle.rest^
 ||thramtermite.digital^
 ||thrashbomb.com^
@@ -48501,6 +48513,7 @@ browsershots.org#@#.advert_area
 ||ubnduamnwmdoi.site^
 ||ubplqxnckyxsz.space^
 ||ubtjzypcluqvj.online^
+||ubupomtuwwoyf.online^
 ||ubxdnqoim.net^
 ||uby9w6k4vjyf8ebinxq8zmk7wyimi81fyl.cfd^
 ||ubyuughvqgkfc.online^
@@ -49503,6 +49516,7 @@ browsershots.org#@#.advert_area
 ||vbtrbulabutew.site^
 ||vbyhuugfwnfic.online^
 ||vbykiprxfpvpt.space^
+||vbyxdksfhpsqx.com^
 ||vbyyrfqfbom.net^
 ||vbzlokvdommwl.online^
 ||vcbarjjmuxbxi.website^
@@ -50686,6 +50700,7 @@ browsershots.org#@#.advert_area
 ||wftoukfy.net^
 ||wfukhinw.com^
 ||wfvuctrttrdwk.global^
+||wfwjybergdbg.com^
 ||wfwnihvjcsddw.website^
 ||wfzoskvfbdwot.site^
 ||wg-aff.com^
@@ -51687,6 +51702,7 @@ browsershots.org#@#.advert_area
 ||xjurarsoqdinb.website^
 ||xk3ny3758tvvbj2oozljxppympwh.rest^
 ||xkanzuqreeloy.store^
+||xkhjonrijnvvy.online^
 ||xkihevzkxjtdq.website^
 ||xkjcixcapnt.net^
 ||xklejvczdbknm.space^
