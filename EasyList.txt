@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Zftzs6yv1nXlFCONTs2Z8g
-! Version: 202512270201
+! Checksum: n28i7XpqLy8b89np4OxWjA
+! Version: 202512270351
 ! Title: EasyList
-! Last modified: 27 Dec 2025 02:01 UTC
+! Last modified: 27 Dec 2025 03:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -15743,6 +15743,7 @@ browsershots.org#@#.advert_area
 ||254a.com^
 ||25ed3d6f24.com^
 ||25itoozlzby1o83b88695m5.cfd^
+||25k7tfu8nkj65m45u373yh.cfd^
 ||25obpfr.de^
 ||2639iqjkl.de^
 ||26e8841da4.com^
@@ -18436,6 +18437,7 @@ browsershots.org#@#.advert_area
 ||amulna.click^
 ||amumxszhggxxi.space^
 ||amunfezanttor.com^
+||amused-fish.pro^
 ||amuserblah.click^
 ||amusershuvra.shop^
 ||amusgjaczncmg.site^
@@ -20534,6 +20536,7 @@ browsershots.org#@#.advert_area
 ||bhbbsqtof.com^
 ||bhbkvnpbvbrbv.site^
 ||bhcifkfrtccdt.online^
+||bhclaqyityl.com^
 ||bhcont.com^
 ||bhcpkklclwjen.site^
 ||bhdaiujgxcxig.website^
@@ -28136,6 +28139,7 @@ browsershots.org#@#.advert_area
 ||esyeqegjjxuwr.website^
 ||esyoqiusgoxt.com^
 ||etagumlbvhmuk.online^
+||etailtastan.net^
 ||etairgocheekr.com^
 ||etajbmcr.com^
 ||etalageunwept.qpon^
@@ -31080,6 +31084,7 @@ browsershots.org#@#.advert_area
 ||glitteringovernightflea.com^
 ||glitteringsinkingdefense.com^
 ||glitteringunavoidable.com^
+||glivqmmrc629tqf.rest^
 ||glixoushep.net^
 ||gliybhqdie.xyz^
 ||glizauvo.net^
@@ -36799,6 +36804,7 @@ browsershots.org#@#.advert_area
 ||knelledchorus.rest^
 ||knewthump.com^
 ||knfeiikyojdib.life^
+||kngdkfvrx.xyz^
 ||knifebackfiretraveller.com^
 ||knifepierce.com^
 ||knifingundight.cyou^
@@ -40643,6 +40649,7 @@ browsershots.org#@#.advert_area
 ||mtypitea.net^
 ||mtyrltifpzwzb.online^
 ||mtyxmamrsjxyr.space^
+||muadrkptibau.com^
 ||muai-pysmlp.icu^
 ||muanadalow.xyz^
 ||mubkemxsr.net^
@@ -42522,6 +42529,7 @@ browsershots.org#@#.advert_area
 ||obvdcylwtpaaa.tech^
 ||obviousestate.com^
 ||obvioushome.com^
+||obviouspassenger.pro^
 ||obviouspeh.qpon^
 ||obwakcqravc.com^
 ||obwguczcik.com^
@@ -42623,6 +42631,7 @@ browsershots.org#@#.advert_area
 ||odvazhfsnswns.online^
 ||odxtwpsygcpgt.space^
 ||odyjsxwapjvac.online^
+||odylepeeoy.rest^
 ||odyncmusq.xyz^
 ||odzzperikpir.com^
 ||oebdkgudbwlvd.space^
@@ -51659,6 +51668,7 @@ browsershots.org#@#.advert_area
 ||sqwregvkrwdtr.online^
 ||sqwwhdckyewdnlu.net^
 ||sqykvemny.net^
+||sqyoswjftqnjk.online^
 ||sqyuxifbrkuez.website^
 ||srasomqmogkfpc.net^
 ||sravakaeastre.cfd^
@@ -51757,6 +51767,7 @@ browsershots.org#@#.advert_area
 ||stairseertapsie.net^
 ||stairtoava.com^
 ||stairwellregularspontaneous.com^
+||stalecomplex.pro^
 ||stalelack.pro^
 ||staletraffic.com^
 ||stallsobservance.com^
@@ -52509,6 +52520,7 @@ browsershots.org#@#.advert_area
 ||syfrvkuuzsjkc.one^
 ||syfsmblwp.net^
 ||syhhlxnyzltmu.site^
+||syimwfacvwtqp.online^
 ||syinga.com^
 ||syjkcdmwgqwrm.top^
 ||syktxlsluslyrp.com^
@@ -55947,6 +55959,7 @@ browsershots.org#@#.advert_area
 ||vdmrsubdqloit.site^
 ||vdocifgpcjirs.online^
 ||vdopia.com^
+||vdpozxvnmhbqn.website^
 ||vdqdcjwecjcqy.store^
 ||vdqkegutiwxez.website^
 ||vdqyvioulgwkv.website^
@@ -56463,6 +56476,7 @@ browsershots.org#@#.advert_area
 ||vmecbdkpvugpj.website^
 ||vmenlgdowysab.website^
 ||vmhrqjvddhnwp.site^
+||vmhvdavztzysp.online^
 ||vmicdkmpvgbqt.online^
 ||vmidutpti.com^
 ||vmiymbabxueli.space^
@@ -56547,6 +56561,7 @@ browsershots.org#@#.advert_area
 ||voluumtrk.com^
 ||voluumtrk3.com^
 ||volyze.com^
+||voneiypefajrq.site^
 ||vonkol.com^
 ||vooboagaudophoa.com^
 ||voochoafodoa.net^
@@ -58015,6 +58030,7 @@ browsershots.org#@#.advert_area
 ||worst-recognition.pro^
 ||worstbreath.pro^
 ||worstpacifyflames.com^
+||worstrest.pro^
 ||worthless-news.com^
 ||worthless-rain.pro^
 ||worthlessbend.com^
