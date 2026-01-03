@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ebRRyNm6RVjV3nzcGbWXMA
-! Version: 202601030201
+! Checksum: kuGl7WZXHjNTtlRrRMG12A
+! Version: 202601030351
 ! Title: EasyList
-! Last modified: 03 Jan 2026 02:01 UTC
+! Last modified: 03 Jan 2026 03:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -833,6 +833,8 @@ _reklama_$domain=~youtube.com
 ! l.wl.co scam on X
 /_meetups/r.php?click_id=$document
 ! Ad-Shield
+.com/papi/*/327/
+.com/papi/*/456/
 .com/players/*/-1/70/$script,third-party
 /ad-shield/e/*$script,third-party
 /anymanagerrecover.js
@@ -852,10 +854,6 @@ _reklama_$domain=~youtube.com
 ://www.*.com/*/-1/70/$script,subdocument,third-party,xmlhttprequest
 ://www.*.com/players/*/-1/$script,subdocument,third-party,xmlhttprequest
 ://www.*.com/players/*/a/$subdocument,third-party,domain=~edu|~gov
-://www.*.xyz/players/*/-1/$script,subdocument,third-party,xmlhttprequest
-://www.*.xyz/players/*/a/$subdocument,third-party
-://www.*.xyz/players/*?h=$script,third-party
-://www.*.xyz/script/*.com.js|$script,third-party
 ://www.*/player/*/a/$third-party,xmlhttprequest
 ://www.*/player/*/m/$script,third-party
 wss://www.*.xyz/ws^$third-party
@@ -18204,6 +18202,7 @@ browsershots.org#@#.advert_area
 ||alxxmbhdkxmbh.space^
 ||alysson.de^
 ||alzcdizuqhwfw.online^
+||alzlwkybyblw.top^
 ||am10.ru^
 ||am15.net^
 ||amaabfvuyispa.space^
@@ -22512,6 +22511,7 @@ browsershots.org#@#.advert_area
 ||cholatetapalos.com^
 ||choleicvends.help^
 ||cholicklyceum.qpon^
+||cholieygrs.com^
 ||cholummoxas.help^
 ||chomeshoomsu.net^
 ||chondrejapetus.cyou^
@@ -22791,6 +22791,7 @@ browsershots.org#@#.advert_area
 ||cleverjump.org^
 ||clevernt.com^
 ||cleverwebserver.com^
+||clevismarco.qpon^
 ||clfvrxluadwhar.xyz^
 ||clhxzrqdatxqm.store^
 ||clhywbegooqmd.website^
@@ -31584,6 +31585,7 @@ browsershots.org#@#.advert_area
 ||helpcoy.cfd^
 ||helpedpalisse.cfd^
 ||helpertesthome.com^
+||helveschaffedjoyhop.cfd^
 ||hem41xm47.com^
 ||hematalmuffs.qpon^
 ||hemathematica.org^
@@ -34241,6 +34243,7 @@ browsershots.org#@#.advert_area
 ||jfmktbfdclecz.space^
 ||jfpm64gvzhobwlep9y.rest^
 ||jfqqvtevayyfm.online^
+||jfqx9wnxhqu1kk1.cfd^
 ||jfrtopxglnetf.online^
 ||jfuxevakslazy.site^
 ||jfverzoeowotc.store^
@@ -34807,6 +34810,7 @@ browsershots.org#@#.advert_area
 ||jupteshoofah.net^
 ||juqlfezaqcyrg.online^
 ||jurallylepta.qpon^
+||jurgisoorsaboz.com^
 ||jurisdiction423.fun^
 ||jursp.com^
 ||juryolympicsspookily.com^
@@ -40791,6 +40795,7 @@ browsershots.org#@#.advert_area
 ||oblocpnaj.com^
 ||oblong-people.pro^
 ||oblong-punch.com^
+||obmevunsbrhg.xyz^
 ||obmpabheweiku.space^
 ||obmvaaeqgqvsx.space^
 ||obolestiver.cfd^
@@ -41663,6 +41668,7 @@ browsershots.org#@#.advert_area
 ||oruxmvyydrvkr.website^
 ||orvgpjjyagvfn.site^
 ||orvietnmqxcgm.online^
+||oryssidovidbabbly.cfd^
 ||orz9yhwq645zc97umomyrv3.cfd^
 ||orzukuzorpxvp.online^
 ||orzunkvpcagtu.space^
@@ -41776,6 +41782,7 @@ browsershots.org#@#.advert_area
 ||otpftzljmqtsc.space^
 ||otphgpujdjxws.space^
 ||otpljoausqoif.website^
+||otprfqxm.com^
 ||otswhtxkfprcy.online^
 ||ottbquetbznbx.space^
 ||otunmakpjbtga.website^
@@ -42861,6 +42868,7 @@ browsershots.org#@#.advert_area
 ||phkfjfnsnhfqe.website^
 ||phknwauhyunwi.online^
 ||phksofjzxyxgv.space^
+||phlcbgfbxbxu.com^
 ||phlgoukjpcgla.space^
 ||phlorolminever.cfd^
 ||phloxcombre.cfd^
@@ -43176,6 +43184,7 @@ browsershots.org#@#.advert_area
 ||plantationexhaust.com^
 ||plantationhick.com^
 ||planxtysamlet.cfd^
+||plasmidjerky.com^
 ||plasmtyramin.cyou^
 ||plasticapplication.com^
 ||plasticfreakmervail.cyou^
@@ -45837,6 +45846,7 @@ browsershots.org#@#.advert_area
 ||receiptcadenceresurrection.com^
 ||receiverbookwormlazy.com^
 ||recensegaps.qpon^
+||recent-brain.pro^
 ||recentlylamentharmful.com^
 ||recentopportunity.com^
 ||receptioninflation.com^
@@ -50156,6 +50166,7 @@ browsershots.org#@#.advert_area
 ||syjkcdmwgqwrm.top^
 ||sylfaczvioejj.site^
 ||sylloedema.help^
+||sylphlatris.cyou^
 ||sylsiohopvaav.website^
 ||sylvitetortis.qpon^
 ||sylxisys.com^
