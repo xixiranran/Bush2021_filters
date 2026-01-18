@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: ALDpOnHIoamx4kbLndgy8w
-! Version: 202601180221
+! Checksum: abwXfatAPwGCCpvQq3WhDQ
+! Version: 202601180401
 ! Title: EasyPrivacy
-! Last modified: 18 Jan 2026 02:21 UTC
+! Last modified: 18 Jan 2026 04:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3809,6 +3809,7 @@ omni.soundestlink.com$image
 ||venture-365-inspired.com^
 ||venusrevival.com^
 ||veozn3f.com^
+||veradata.network^
 ||vfghe.com^
 ||videoplayerhub.com^
 ||visit-server.inmobi-choice.io^
