@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: hpuQehSeA8F//4/sagI8OQ
-! Version: 202601271841
+! Checksum: cb5ynBBxTmonewiLnNIDBg
+! Version: 202601272111
 ! Title: EasyList
-! Last modified: 27 Jan 2026 18:41 UTC
+! Last modified: 27 Jan 2026 21:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18516,6 +18516,7 @@ browsershots.org#@#.advert_area
 ||amlzndgkbicak.store^
 ||ammeossmalts.help^
 ||ammhmvurnghxn.space^
+||ammisooeouofx.space^
 ||ammmkoaxz.com^
 ||ammonicdowsing.com^
 ||amnaprosthbfr.online^
@@ -22015,6 +22016,7 @@ browsershots.org#@#.advert_area
 ||buggerswaka.qpon^
 ||buggessrefreshfanwe.cyou^
 ||bugleczmoidgxo.com^
+||bugourtuftas.com^
 ||bugs2022.com^
 ||bugscrawled.com^
 ||bugshasrub.cyou^
@@ -42012,6 +42014,7 @@ browsershots.org#@#.advert_area
 ||moreensramack.click^
 ||moregamers.com^
 ||morehkvqnxtlo.site^
+||morellelaccaseleve.cyou^
 ||morestamping.com^
 ||morfreyoutfast.qpon^
 ||morgdm.ru^
@@ -42023,6 +42026,7 @@ browsershots.org#@#.advert_area
 ||morningstraws.com^
 ||morphewasg.qpon^
 ||morrionakasha.help^
+||morrosfizzles.cfd^
 ||morselmina.cyou^
 ||mortifiedassociation.pro^
 ||mortifiedcourse.com^
@@ -45524,6 +45528,7 @@ browsershots.org#@#.advert_area
 ||outclaydola.com^
 ||outcomefriendlysurname.com^
 ||outcrycats.com^
+||outdidfillet.com^
 ||outdoertaoist.qpon^
 ||outelectrodean.com^
 ||outenoxalite.help^
@@ -49910,6 +49915,7 @@ browsershots.org#@#.advert_area
 ||rbaxuqhmkgcvz.space^
 ||rbdhrkaaxqelb.space^
 ||rbejwzfebcxaz.world^
+||rbiwfrwrmwjbqr.com^
 ||rbjnuporihrye.store^
 ||rbkedsxtvsdsd.space^
 ||rbkjacmvdcmxa.online^
@@ -52162,6 +52168,7 @@ browsershots.org#@#.advert_area
 ||scdzzqlzbvzrx.website^
 ||scenarycareme.com^
 ||scenedaybreakpatronize.com^
+||sceneryjabul.cyou^
 ||sceniteeunuch.cfd^
 ||scented-anxiety.com^
 ||scented-cash.pro^
@@ -57002,6 +57009,7 @@ browsershots.org#@#.advert_area
 ||tuckedtransmitterwizards.com^
 ||tuckedtucked.com^
 ||tucwydhulyyuk.net^
+||tudijnooncntx.com^
 ||tudrrynzkocdq.website^
 ||tuduenecxvgkd.com^
 ||tuesdayfetidlit.com^
@@ -58599,6 +58607,7 @@ browsershots.org#@#.advert_area
 ||vagrejaba.com^
 ||vague-key.com^
 ||vaguefact.pro^
+||vahanatwilled.cyou^
 ||vahcvdeffqkek.space^
 ||vahpkfgdlobhd.com^
 ||vaibumoodaigrou.net^
@@ -59279,6 +59288,7 @@ browsershots.org#@#.advert_area
 ||viznfzhbiiual.space^
 ||vizoalygrenn.com^
 ||vizoruntuck.cfd^
+||vjaayigfrnqk.com^
 ||vjajkbylamewj.top^
 ||vjbreynjgmfpr.online^
 ||vjcyuwanbdnpu.site^
@@ -59694,6 +59704,7 @@ browsershots.org#@#.advert_area
 ||vuvcupvrfosyk.online^
 ||vuveyknxkvdeb.space^
 ||vuvidbuqgfcne.website^
+||vuwgityuhrcvf.online^
 ||vuwofoeszqiby.store^
 ||vuwzer.com^
 ||vuzhzlzswecvc.global^
@@ -59816,6 +59827,7 @@ browsershots.org#@#.advert_area
 ||vytkxcvmdzgbj.online^
 ||vytpdqiqwezti.website^
 ||vyuaolnqfgoas.store^
+||vyufgiaesxzib.site^
 ||vyvjoeeryyol.top^
 ||vywvncjascsrw.world^
 ||vyxifgsrgihgr.online^
@@ -61519,6 +61531,7 @@ browsershots.org#@#.advert_area
 ||x7u1eb3xiyc43t4.rest^
 ||x8o2523lz3fh1pwr8gmku1n5cvox5rjl.rest^
 ||x9425yhqyzqfrpnp8my1rb2xw4.cfd^
+||xabgltcxapxim.site^
 ||xabgqnnjywsus.website^
 ||xabpahjkwqdcq.online^
 ||xackuhvfatt.com^
@@ -62692,6 +62705,7 @@ browsershots.org#@#.advert_area
 ||ynipuxptcx.com^
 ||ynjryqkgtlixu.space^
 ||ynlipxua.com^
+||ynlucjumrddkg.website^
 ||ynossspikirow.online^
 ||ynqugoqew.com^
 ||ynrhzckotwzal.site^
@@ -63011,6 +63025,7 @@ browsershots.org#@#.advert_area
 ||yxnkrmzdmjwwt.site^
 ||yxoygmeyhpxnf.site^
 ||yxpmkgzsqcxyu.site^
+||yxqdumuuarpnj.online^
 ||yxrocrfgsuclr.space^
 ||yxtwurrbxqifz.website^
 ||yxunqfhyuwrxt.online^
