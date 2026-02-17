@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: VPOzA94W6sRUiwipiGvT0Q
-! Version: 202602170241
+! Checksum: cW6DHj3+gAnJsUNQhziiTw
+! Version: 202602170451
 ! Title: EasyList
-! Last modified: 17 Feb 2026 02:41 UTC
+! Last modified: 17 Feb 2026 04:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -20983,6 +20983,7 @@ browsershots.org#@#.advert_area
 ||bhootscanman.cyou^
 ||bhpwqtiudzqnz.vip^
 ||bhqbirsac.site^
+||bhqwhike.xyz^
 ||bhrltiziiipad.website^
 ||bhsfjllpzzmwq.site^
 ||bhshm.com^
@@ -21036,6 +21037,7 @@ browsershots.org#@#.advert_area
 ||biffmugweed.cyou^
 ||biffsjhyckaiv.website^
 ||bifidganza.help^
+||bifocalacid.com^
 ||biftficc.com^
 ||big-brief.com^
 ||bigaeparisii.help^
@@ -23261,6 +23263,7 @@ browsershots.org#@#.advert_area
 ||cephoupharauts.net^
 ||cepthdmcba.com^
 ||ceqgiawfjpxkwg.net^
+||ceqspqzcifqhg.online^
 ||ceqyuidnlnyib.site^
 ||cerciogees.rest^
 ||cerebrarabbity.cfd^
@@ -26031,6 +26034,7 @@ browsershots.org#@#.advert_area
 ||dcwnhlzrvnlnj.website^
 ||dcwtsqmmogfua.space^
 ||dcxnjdjvurerw.site^
+||dczicllonbfre.site^
 ||dd133.com^
 ||dd1xbevqx.com^
 ||dd268fdaa5.com^
@@ -34692,6 +34696,7 @@ browsershots.org#@#.advert_area
 ||hfyxqiopysoqi.online^
 ||hfzfnasjbmthr.website^
 ||hg-bn.com^
+||hg1ot2k9ith1rgi.rest^
 ||hgagwcznmclhv.store^
 ||hgbdjawazluzd.site^
 ||hgbn.rocks^
@@ -38729,6 +38734,7 @@ browsershots.org#@#.advert_area
 ||k2o2ls46.xyz^
 ||k43tj9936233wnxi2j66.cfd^
 ||k55p9ka2.de^
+||k5qgbzbzrbu1f3ul.cfd^
 ||k5zoom.com^
 ||k62ey3mkjxq5xoxo55nyuz9vwztj.cfd^
 ||k658wboqe53ffqxn.cfd^
@@ -41825,6 +41831,7 @@ browsershots.org#@#.advert_area
 ||lyssasdamagesuresis.cfd^
 ||lythesimblot.cfd^
 ||lyticaframeofm.com^
+||lyusuwiuwhwtl.online^
 ||lyvkvqitzktkx.store^
 ||lyvlbjzbozkxy.space^
 ||lyvqjhhxlcxhy.space^
@@ -42382,6 +42389,7 @@ browsershots.org#@#.advert_area
 ||mdhldqpicqfgg.online^
 ||mdiegydcuekvkjf.net^
 ||mdienajibvwdc.space^
+||mdjaqbmzrwrcx.space^
 ||mdjhrgdnrgxrb.site^
 ||mdjsnbqrcjute.space^
 ||mdldkfpgfgttw.website^
@@ -43543,6 +43551,7 @@ browsershots.org#@#.advert_area
 ||mpgnodally.qpon^
 ||mphhnxzquuyij.store^
 ||mpipnopvjuuee.space^
+||mpjhcyxaczwoh.space^
 ||mpk01.com^
 ||mplayeranyd.info^
 ||mpmowomlypnmf.website^
@@ -48270,6 +48279,7 @@ browsershots.org#@#.advert_area
 ||pgssl.com^
 ||pgubarjtdghvg.site^
 ||pgwwumwejaops.website^
+||pgyikoxaonfpt.site^
 ||pgyoihqqfjafy.space^
 ||pgzjhqnndpyyt.site^
 ||pgzxnpyuitkmz.site^
@@ -53235,6 +53245,7 @@ browsershots.org#@#.advert_area
 ||rptzikhuyzsgy.website^
 ||rpueeoqgaixcb.website^
 ||rpvhxowckitodm.net^
+||rpwmoogfutpdh.space^
 ||rpxivezmgxguv.site^
 ||rpxjfhdls.com^
 ||rpxjlfxnegnlz.website^
@@ -53636,6 +53647,7 @@ browsershots.org#@#.advert_area
 ||rxzstqcnekzkn.space^
 ||ryacossid.cfd^
 ||ryajaddrsylwy.site^
+||ryakxston.com^
 ||ryapalta.com^
 ||rycvvwqsfswph.com^
 ||ryddiuaiixndo.site^
@@ -53882,6 +53894,7 @@ browsershots.org#@#.advert_area
 ||sanitybead.com^
 ||sanjaksrearmed.help^
 ||sannupforet.qpon^
+||sannupleonite.com^
 ||sannuppraiss.cfd^
 ||sannupsgelid.shop^
 ||sanpzoyjzrjmu.website^
@@ -54507,6 +54520,7 @@ browsershots.org#@#.advert_area
 ||septbajri.com^
 ||septilebenzoic.cyou^
 ||septohaupho.net^
+||seqmfwzsktmuj.site^
 ||sequarieversegued.qpon^
 ||sequelbusbar.cyou^
 ||sequenceclickmeasles.com^
@@ -62560,6 +62574,7 @@ browsershots.org#@#.advert_area
 ||wavevoyager.co^
 ||wavingauradignity.com^
 ||wavingscrambledesert.com^
+||wavplfeb.com^
 ||wavy-meeting.pro^
 ||wawaidlers.qpon^
 ||wawdycfvprblg.space^
@@ -64091,6 +64106,7 @@ browsershots.org#@#.advert_area
 ||xajgsjguxriuc.space^
 ||xakhgpksmptdm.website^
 ||xalhpojzea.com^
+||xankzgpeqersd.site^
 ||xaofdyhfyowfw.space^
 ||xapads.com^
 ||xarukaawenabr.site^
@@ -65117,6 +65133,7 @@ browsershots.org#@#.advert_area
 ||yggujyvmvmhgo.website^
 ||yghhkouwxpvew.site^
 ||ygimeqcpvbtci.rocks^
+||ygiuraqcxqgfmej.com^
 ||ygkswbscgvukj.space^
 ||ygncvlnvzvsco.website^
 ||ygolbhqmlvhkz.online^
