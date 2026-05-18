@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: tGC0ghSPVjiLmgaA188lEQ
-! Version: 202605180411
+! Checksum: xYUeI9aE2PYFCmjjYzcnkg
+! Version: 202605181011
 ! Title: EasyPrivacy
-! Last modified: 18 May 2026 04:11 UTC
+! Last modified: 18 May 2026 10:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5457,6 +5457,7 @@ omni.soundestlink.com$image
 ||nprove.com^$third-party
 ||nr-data.net^$third-party
 ||nr7.us^$third-party
+||nresystems.com^$third-party
 ||nrich.ai^$third-party
 ||nstracking.com^$third-party
 ||nuggad.net^$third-party
