@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 2WKzX71ZPIz4AwZgoRnydw
-! Version: 202605310431
+! Checksum: S1khlwaMQgP70u8OTasUXA
+! Version: 202605310901
 ! Title: EasyPrivacy
-! Last modified: 31 May 2026 04:31 UTC
+! Last modified: 31 May 2026 09:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3032,8 +3032,8 @@ _WebVitalsReporter_
 /rrweb.js
 /rrweb.min.js
 ! DNS checks
-/DNSCheck.js
-/DNSChecker.js
+/DNSCheck.js$domain=~github.com
+/DNSChecker.js$domain=~github.com
 ! hawkeye
 /hawk.js
 /hawkeye.js
