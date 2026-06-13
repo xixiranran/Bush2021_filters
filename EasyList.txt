@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: X+rBuFNdoU26IkS3ht7DwQ
-! Version: 202606131402
+! Checksum: ypoypKjE19CdHz97ao2ETw
+! Version: 202606131602
 ! Title: EasyList
-! Last modified: 13 Jun 2026 14:02 UTC
+! Last modified: 13 Jun 2026 16:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -16648,6 +16648,7 @@ browsershots.org#@#.advert_area
 ||84e867f7b4.com^
 ||84eb50d125.com^
 ||84gs08xe1.com^
+||84h7ibw983r2p5wgbiivyxxo54.rest^
 ||8537b5712c.com^
 ||857a41603f.com^
 ||862ace.com^
@@ -24234,6 +24235,7 @@ browsershots.org#@#.advert_area
 ||crocodail-dandy.com^
 ||crogctnujttuy.site^
 ||cromerelaine.com^
+||cronaura.com^
 ||croni.site^
 ||cronianlavage.cyou^
 ||crookcalculated.com^
@@ -26494,6 +26496,7 @@ browsershots.org#@#.advert_area
 ||dspultra.com^
 ||dspwdz.com^
 ||dsqdbi.com^
+||dsqnnx.com^
 ||dsqpog.com^
 ||dsqvcm.com^
 ||dsqyla.com^
@@ -33776,6 +33779,7 @@ browsershots.org#@#.advert_area
 ||ibxsehlu.com^
 ||ibyhdkkcdkkii.site^
 ||ibyossxwwjeij.website^
+||ibztceaxvhemq.online^
 ||icasmtolanesairbag.cyou^
 ||icatethebenefits.com^
 ||icblipgsqcrre.site^
@@ -35868,6 +35872,7 @@ browsershots.org#@#.advert_area
 ||josipoppugn.qpon^
 ||josippreomit.shop^
 ||josulhtyxgarv.space^
+||jotteroctaveprepink.cyou^
 ||jottiercedserail.cyou^
 ||joubarbspurlet.shop^
 ||joudauhee.com^
@@ -37022,6 +37027,7 @@ browsershots.org#@#.advert_area
 ||koeebuetwevng.space^
 ||koeulypcduie.com^
 ||kohadfzjolyfy.website^
+||kohjlmvc.com^
 ||koiaripolymny.com^
 ||koifpdfagsxjk.website^
 ||koitay.cyou^
@@ -37206,6 +37212,7 @@ browsershots.org#@#.advert_area
 ||kthukxjctweql.site^
 ||ktimmewz.com^
 ||ktinalzpiak.in^
+||ktjsyxvvpxdao.site^
 ||ktkjmp.com^
 ||ktldjkvzcxpmv.online^
 ||ktllgtab.com^
@@ -37855,6 +37862,7 @@ browsershots.org#@#.advert_area
 ||lemonpier.com^
 ||lemouwee.com^
 ||lempogqzxbfss.website^
+||lenastavedoppose.qpon^
 ||lencfwgezcohg.site^
 ||lencgpckrwhdv.site^
 ||lenchseances.qpon^
@@ -38013,6 +38021,7 @@ browsershots.org#@#.advert_area
 ||lhqzzfdpqemuq.space^
 ||lhskilqejvbfh.site^
 ||lhskixjlykvta.space^
+||lhskppletqwja.online^
 ||lhuvxiezozkjg.online^
 ||lhuwawhcxtltx.space^
 ||lhvavsdsnhxgz.website^
@@ -39003,6 +39012,7 @@ browsershots.org#@#.advert_area
 ||lycus-nom.com^
 ||lycykqrnprxjc.site^
 ||lydditeairth.cfd^
+||lydfpyoaexlvq.site^
 ||lydiwcrdtuefksn.com^
 ||lydkuzntnhxim.website^
 ||lydrum.click^
@@ -41541,6 +41551,7 @@ browsershots.org#@#.advert_area
 ||ngvptqydvxpfa.website^
 ||ngwdljgbshhof.site^
 ||ngwgkhtdykzzz.online^
+||ngxrirfmawbd.com^
 ||ngxvojbpnjtjv.space^
 ||ngy1fklz2jm9jx1.rest^
 ||nhatsadwafljs.site^
@@ -42646,6 +42657,7 @@ browsershots.org#@#.advert_area
 ||ochkygubhlybt.site^
 ||ochringnondark.cfd^
 ||ochrodivoto.shop^
+||ochxpgojofbgk.space^
 ||ocijnhmnvjsdq.com^
 ||ocimummckay.shop^
 ||ocinzfdyslxja.online^
@@ -46227,6 +46239,7 @@ browsershots.org#@#.advert_area
 ||ptpoimdgadro.com^
 ||ptppteiawpvae.space^
 ||ptqdlabxislis.store^
+||ptsjjwdsrwrij.website^
 ||pttlghemsjghh.online^
 ||pttpuhjcczqgn.site^
 ||pttqxqffpkusk.space^
@@ -47087,6 +47100,7 @@ browsershots.org#@#.advert_area
 ||qqovdipkzwtjb.site^
 ||qqovvlzwelwfp.online^
 ||qqpklxjesmajr.online^
+||qqpuygzonbens.website^
 ||qqqajygpfmdea.space^
 ||qqqbvlafzdqwr.space^
 ||qqqfrcxyeecpp.space^
@@ -47394,6 +47408,7 @@ browsershots.org#@#.advert_area
 ||qxlivwpqqp.com^
 ||qxninags.com^
 ||qxozluyvvyabw.online^
+||qxpxrbettkskb.space^
 ||qxqsrwtzxbpae.store^
 ||qxrbu.com^
 ||qxrcbjtqtzvdcp.com^
@@ -47784,6 +47799,7 @@ browsershots.org#@#.advert_area
 ||rdwddnijavmk.com^
 ||rdwfbrzboplva.website^
 ||rdwmct.com^
+||rdxxanzpgqlse.space^
 ||rdzjxlizigryv.online^
 ||rdzretjctqkcn.site^
 ||reacheffecti.work^
@@ -48372,6 +48388,7 @@ browsershots.org#@#.advert_area
 ||rewinddubbones.com^
 ||rewrapssmeary.com^
 ||rewritewitch.com^
+||rewzirntqsbrk.website^
 ||rexadvert.xyz^
 ||rexargue.com^
 ||rexdaaohsoxkr.space^
@@ -49205,6 +49222,7 @@ browsershots.org#@#.advert_area
 ||rugpowerfully.com^
 ||ruhfpcfkysoxw.site^
 ||ruhicofhzlyp.com^
+||ruinerobvolve.com^
 ||ruinousmanipulation.com^
 ||rujllgvjdedrf.site^
 ||rujpqipniloqi.love^
@@ -49612,6 +49630,7 @@ browsershots.org#@#.advert_area
 ||sanokpfwhwgpd.online^
 ||sanpzoyjzrjmu.website^
 ||sanseisyarner.com^
+||santolssilenic.qpon^
 ||santtacklingallas.org^
 ||santuao.xyz^
 ||sanynouncem.org^
@@ -59018,6 +59037,7 @@ browsershots.org#@#.advert_area
 ||wxqhhskaltnbw.site^
 ||wxrgjdkxhegjn.online^
 ||wxtldkydabpmz.online^
+||wxutv386vrm757.cfd^
 ||wxwdpvolofgdt.site^
 ||wxwjidcqfsakq.space^
 ||wxxjvvnetyomm.website^
@@ -59643,6 +59663,7 @@ browsershots.org#@#.advert_area
 ||xqfikpeuitfvn.online^
 ||xqfyralwzajbx.website^
 ||xqgvmpalger.com^
+||xqhcviqr.com^
 ||xqhgkteqenadi.com^
 ||xqkawrafpewuz.online^
 ||xqkllzschtltc.site^
