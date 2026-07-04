@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: m+pB8zJdLRWb/NZyeP5vhA
-! Version: 202607041342
+! Checksum: 7oxuqUYLu32ViAHJeC1mOw
+! Version: 202607041602
 ! Title: EasyList
-! Last modified: 04 Jul 2026 13:42 UTC
+! Last modified: 04 Jul 2026 16:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18859,6 +18859,7 @@ browsershots.org#@#.advert_area
 ||arimaspdeek.com^
 ||arimaspthram.qpon^
 ||ariotgribble.com^
+||aristolsah.cfd^
 ||arithpouted.com^
 ||arjkyishfnbms.site^
 ||arkdcz.com^
@@ -19737,6 +19738,7 @@ browsershots.org#@#.advert_area
 ||bare-type.pro^
 ||baredue.pro^
 ||barelydonkeysteed.com^
+||bargeeoxamid.cfd^
 ||bargingjabber.com^
 ||barinvent.net^
 ||baritescarve.cfd^
@@ -20524,6 +20526,7 @@ browsershots.org#@#.advert_area
 ||bkvxjygccpkwk.space^
 ||bkwhgjgfhsnbu.com^
 ||bkwuodwvehlzr.life^
+||bkzhiu3yv8gzbml.cfd^
 ||bkzojuncitbqa.space^
 ||bl230126pb.com^
 ||blackandwhite-temporary.com^
@@ -24493,6 +24496,7 @@ browsershots.org#@#.advert_area
 ||ddhwkjvctuxpl.space^
 ||ddissezttnheq.space^
 ||ddkwzfhfqfuxb.site^
+||ddkyibdnflbxqn.com^
 ||ddlpahnomzxfn.website^
 ||ddmctsbqysfgi.website^
 ||ddmsvcltbyjoc.store^
@@ -27165,6 +27169,7 @@ browsershots.org#@#.advert_area
 ||envlepcmsvhww.online^
 ||envoymusicianpaid.com^
 ||enwombssighing.com^
+||enwraptboteinruned.cyou^
 ||enxjwxpa.com^
 ||enyfyltscarvo.online^
 ||enylhpdbexguq.website^
@@ -29750,6 +29755,7 @@ browsershots.org#@#.advert_area
 ||gcbjctupujjsn.website^
 ||gcfubeywqiffq.website^
 ||gcgrabxewyxwe.website^
+||gcgrpebxuiqdo.website^
 ||gcigziwma.in^
 ||gcj4q7j5u25hqb23xwruyku6cbmqt4.cfd^
 ||gcmwodwqcaqjw.space^
@@ -31050,6 +31056,7 @@ browsershots.org#@#.advert_area
 ||gztdvuuihunso.website^
 ||gzugqzgsfr.com^
 ||gzvknriwrcwtt.website^
+||gzynllfiy.com^
 ||gzzfcmflxfspx.store^
 ||h0w-t0-watch.net^
 ||h12-media.com^
@@ -32178,6 +32185,7 @@ browsershots.org#@#.advert_area
 ||hqnmuuwcsudqd.store^
 ||hqpass.com^
 ||hqscene.com^
+||hqstcsetsckmf.website^
 ||hqszwdormatma.com^
 ||hqtwmtsflttlx.site^
 ||hquerdxxxxdlp.site^
@@ -33351,6 +33359,7 @@ browsershots.org#@#.advert_area
 ||instinctiveicilywan.com^
 ||instinctradiatorrook.com^
 ||institutionnounreverend.com^
+||instrkashasgarble.cfd^
 ||instructaffrontlightly.com^
 ||instruments2333.com^
 ||instruments29001.net^
@@ -33542,6 +33551,7 @@ browsershots.org#@#.advert_area
 ||iplabkliosubm.space^
 ||iplrzphyynhbe.website^
 ||ipncbqbnuwtol.site^
+||iporallfnlarv.website^
 ||ipouucslkqmra.site^
 ||ippleshiswashisc.org^
 ||ipredictive.com^
@@ -33822,6 +33832,7 @@ browsershots.org#@#.advert_area
 ||iwwebwhnmr.com^
 ||iwwqjkclborxr.website^
 ||iwxasakxqpcxi.website^
+||iwynvbppcemni.online^
 ||iwyzycodonzlm.website^
 ||iwzomgnuboeol.site^
 ||ixabcdszeufqo.icu^
@@ -33884,6 +33895,7 @@ browsershots.org#@#.advert_area
 ||iyykavopdpkxx.site^
 ||iyykxvzgtxuyq.space^
 ||iyyzqjvjeehdi.store^
+||iz8mix82p4t6c97.rest^
 ||izaybwqvajljf.space^
 ||izccryctmxtwb.website^
 ||izcftgjuemufo.site^
@@ -33902,6 +33914,7 @@ browsershots.org#@#.advert_area
 ||izoga.xyz^
 ||izrnvo.com^
 ||izsbrnugzqrqq.online^
+||izsvfrkdnuetd.website^
 ||izubaoknanmwa.online^
 ||izucnttxblmpg.website^
 ||izvclwnnwbytd.site^
@@ -34242,6 +34255,7 @@ browsershots.org#@#.advert_area
 ||jh374occk4ucnu.rest^
 ||jhbzbiomaieex.store^
 ||jhcbturgsvujd.site^
+||jhdniecbnrkhq.online^
 ||jhebhefcekqpi.site^
 ||jheypehwgocjq.space^
 ||jhfjslomqzfte.site^
@@ -34358,6 +34372,7 @@ browsershots.org#@#.advert_area
 ||jkwxanffxdpsm.online^
 ||jkxihdymwxueh.space^
 ||jkxlzrxhtqrdr.online^
+||jkxmipnxwbjtv.website^
 ||jkykczdwuchq.com^
 ||jkzakzazloavb.top^
 ||jkzakzazlojvz.top^
@@ -34424,6 +34439,7 @@ browsershots.org#@#.advert_area
 ||jndcdxcoqjroj.store^
 ||jnlevhmebqcxc.website^
 ||jnmqhpecyjrnf.online^
+||jnqbkpsymoads.site^
 ||jnvgvhkfkrgvp.site^
 ||jnvwjvpquelgr.website^
 ||jnwcubaojvaqh.site^
@@ -34791,6 +34807,7 @@ browsershots.org#@#.advert_area
 ||juxpdnekqdmka.space^
 ||juymjvrjpbdpg.site^
 ||juywkhbpmswmq.website^
+||jvfyzambiefys.space^
 ||jvhhjiikwjrpx.site^
 ||jvipcwxcq.com^
 ||jvizkqur6egmgee4jb3r.cfd^
@@ -35734,6 +35751,7 @@ browsershots.org#@#.advert_area
 ||kunvertads.com^
 ||kuocnypfyulcp.online^
 ||kuolkoola.com^
+||kuppwuhxrlalt.site^
 ||kupzziangni.in^
 ||kureedsnbcuuj.space^
 ||kurrhlwywpswg.site^
@@ -36920,6 +36938,7 @@ browsershots.org#@#.advert_area
 ||loqnomgwbsiel.site^
 ||lordhelpuswithssl.com^
 ||lordtroublessounding.com^
+||lorftyrrshdxj.online^
 ||lorgtbzlfxixd.online^
 ||lornstupexbelgae.cyou^
 ||lorryurban.com^
@@ -38856,6 +38875,7 @@ browsershots.org#@#.advert_area
 ||mshago.com^
 ||msjdlpjdyorlv.store^
 ||msjyzcuvitsht.site^
+||mskdipevntnhj.online^
 ||mslhvnakjrwgl.store^
 ||mslimofdbkqsr.space^
 ||msnenkmvzkacs.site^
@@ -43547,6 +43567,7 @@ browsershots.org#@#.advert_area
 ||primarilyresources.com^
 ||primaryads.com^
 ||primaryapologizediversity.com^
+||primaryattract.com^
 ||primaryquantity.com^
 ||prime-ever.com^
 ||prime-president.com^
@@ -46062,6 +46083,7 @@ browsershots.org#@#.advert_area
 ||ridderlida.shop^
 ||riddleddermsudoric.cyou^
 ||riddledevited.cfd^
+||riddlershists.cyou^
 ||riddmqqubqwnj.website^
 ||rideradjective.com^
 ||riderouts.cfd^
@@ -47129,6 +47151,7 @@ browsershots.org#@#.advert_area
 ||sb-stat1.com^
 ||sbaogipghxpne.space^
 ||sbaxwhtjxblva.store^
+||sbblcgpj.com^
 ||sbcevpodyiqis.space^
 ||sbcnhcby.com^
 ||sbddnhvoxvilt.space^
@@ -53436,6 +53459,7 @@ browsershots.org#@#.advert_area
 ||vhguwxfcbjopc74k.cfd^
 ||vhiamqzkvqyhe.space^
 ||vhjjsemqjyvnq.space^
+||vhkitnpxk.com^
 ||vhkztjtaafvfk.online^
 ||vhlinocmokqtv.online^
 ||vhltqzhcuoobq.website^
