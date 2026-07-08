@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: DguMwUHHROpaaFZbappVfw
-! Diff-Path: ../patches/3_optimized/3_optimized-s-1783432221-3600.patch
+! Checksum: jS35KxkJtHXs/zqpiLONew
+! Diff-Path: ../patches/3_optimized/3_optimized-s-1783514655-3600.patch
 ! Title: AdGuard Tracking Protection filter (Optimized)
 ! Description: The most comprehensive list of various online counters and web analytics tools. Use this filter if you do not want your actions on the Internet to be tracked.
-! Version: 2.1.6.73
-! TimeUpdated: 2026-07-07T13:46:51+00:00
+! Version: 2.1.6.80
+! TimeUpdated: 2026-07-08T12:40:15+00:00
 ! Expires: 5 days (update frequency)
 !+ NOT_PLATFORM(ext_chromium_mv3)
 www.youtube.com##+js(no-xhr-if, /\/api\/stats\/atr\?.+?&rt=\d+\.\d+.+?&volume=\d+&cbr=.+?&fexp=v1%[-%0-9C]{300\,}&.+?&muted=\d(&vis=3)?&docid=/ method:POST)
@@ -210,6 +210,7 @@ biteki.com##.slick-slide > div[id] + script:upward(1):remove()
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||api.tblcontent.com^
 ||getjan.io^
 ||lkqivtsnfvriw.website^
 ||fireanalytics.firestream.to^
@@ -78703,6 +78704,11 @@ biteki.com##.slick-slide > div[id] + script:upward(1):remove()
 ||countly.
 ||countly-
 |piwik.
+||analytics.evolushost.com^
+||analytics.vk.asahi.co.jp^
+||v.ipinfo.io^
+||a.ipinfo.io^
+||e.bad.news^
 ||omnimove.tourradar.com^
 ||jitsu.ixbt.games^
 ||streams-scores.rbl.ms^
@@ -181499,7 +181505,7 @@ _social_tracking.js^
 _tracking.php?b=
 /aegis-sdk/*$script
 /tnc.js?h=
-||tags.tiqcdn.com/utag/*/prod/utag.js$domain=mcafee.com|help.dropbox.com|radissonhotels.com|post.ch|usnews.com|krymr.com|cnet.com|adidas.co.uk|adidas.nl|adidas.pl|lineadirecta.com|sibreal.org|modernatx.com|louisvuitton.com|simplybusiness.co.uk|uber.com|monroeandmain.com|totaljobs.com|mitsubishi-motors.co.jp|ubereats.com|grubhub.com|talksport.com|truecar.com|hulu.com|qvc.jp|brother-usa.com|mtvema.com|mtv.co.uk|mtv.de|mtv.it|thesun.co.uk|anantara.com|iflscience.com|calvinklein.ca|taylor.com|news.com.au|agoda.com|vodafone.com.tr|huawei.com|the-sun.com|lavazza.com
+||tags.tiqcdn.com/utag/*/prod/utag.js$domain=mcafee.com|help.dropbox.com|radissonhotels.com|post.ch|usnews.com|krymr.com|cnet.com|adidas.co.uk|adidas.nl|adidas.pl|lineadirecta.com|sibreal.org|modernatx.com|louisvuitton.com|simplybusiness.co.uk|uber.com|monroeandmain.com|totaljobs.com|mitsubishi-motors.co.jp|ubereats.com|grubhub.com|talksport.com|truecar.com|hulu.com|qvc.jp|brother-usa.com|mtvema.com|mtv.co.uk|mtv.de|mtv.it|thesun.co.uk|anantara.com|iflscience.com|calvinklein.ca|taylor.com|news.com.au|agoda.com|vodafone.com.tr|huawei.com|the-sun.com|lavazza.com|greenmangamingbundles.com
 ||tags.tiqcdn.com/utag/*/utag.sync.js$domain=yousee.dk|sibreal.org|calvinklein.ca|hosteurope.de|news.com.au|lavazza.com
 ||mc.yandex.ru/metrika/tag.js$script,redirect=metrika-yandex-tag,domain=~id.x5.ru|~aiondb.ru
 ||mc.yandex.ru/metrika/watch.js$script,redirect=metrika-yandex-watch
@@ -181525,6 +181531,8 @@ mexc.com##+js(set-local-storage-item, _yjsu_yjad, $remove$)
 /prod/dfm/t8y9347t.min.js$redirect=noop.txt,important,domain=dailycamera.com,image,media,subdocument,stylesheet,script,xhr,other
 ||google-analytics.com^$object,redirect=noop.js,script
 ||googletagmanager.com/gtag/$3p,object,redirect=noop.js,script
+||static.tblcontent.com/libtrc/tr5?type=loaderpixel
+||tengrinews.kz/build/assets/analytic-
 ||cdn.eu.amplitude.com/libs/analytics-browser-
 ||trip.com/*/monitor/log
 ||tripcdn.com/modules/ibu/xtracker/
@@ -191489,6 +191497,7 @@ demae-can.com##+js(remove-attr, data-trm-action|data-trm-category|data-trm-label
 ||deployinput.com^
 ||derbypops.com^
 ||desertgates.com^
+||designdew.com^
 ||designsgrid.com^
 ||desirebucket.com^
 ||desiredirt.com^
@@ -191564,6 +191573,7 @@ demae-can.com##+js(remove-attr, data-trm-action|data-trm-category|data-trm-label
 ||elusivecascade.com^
 ||embellishedmeadow.com^
 ||emberwhisper.com^
+||embossedpaper.com^
 ||eminentbubble.com^
 ||eminentend.com^
 ||emptyboats.com^
