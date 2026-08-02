@@ -1,11 +1,12 @@
 ![Adblock Plus 2.0]
-! Checksum: 6xQcywe1BpuNOZaWsNEdlw
-! Diff-Path: ../patches/2_optimized/2_optimized-s-1785670398-3600.patch
+! Checksum: vJfe6W8VA9Mgh3ix8/Q9cg
+! Diff-Path: ../patches/2_optimized/2_optimized-s-1785677803-3600.patch
 ! Title: AdGuard Base filter + EasyList (Optimized)
 ! Description: EasyList + AdGuard English filter. This filter is necessary for quality ad blocking.
-! Version: 2.4.81.10
-! TimeUpdated: 2026-08-02T11:29:46+00:00
+! Version: 2.4.81.12
+! TimeUpdated: 2026-08-02T13:33:32+00:00
 ! Expires: 5 days (update frequency)
+||juneworewyjyna.com^
 ||p.lbserver.xyz^
 ||warkedmalie.com^
 ||tubexazimebeze.com^
@@ -6463,6 +6464,7 @@ mivo.com##.top-ads
 !+ NOT_PLATFORM(windows, mac, android, cli)
 @@||mivo.com^$generichide
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=m2o.it
+corriere.it##.sponsor-strip
 gazzetta.it###rcsad_Bacheca1
 ||assets.fanpage.it/ciaoprebid-js/*/adstack/sdk/doPrebid.js
 fanpage.it##.adv-wrapper
@@ -15723,7 +15725,7 @@ tube8.net,tube8.es,tube8.com,tube8.fr###pb_template
 ||ii.apl*.me/js/pop.js
 me##body > #ads[style^="position: absolute; z-index:"]
 me##body[bgcolor="#000000"] > div[id="adbtm"][style^="position: fixed;"]
-xhamster46.desi##.xplayer > div.xh-helper-hidden + div[class*="-hover-menu"]
+xhamster.com,xhamster46.desi##.xplayer > div.xh-helper-hidden + div[class*="-hover-menu"]
 xhamster46.desi##.thumb-list__item:has(> div[class*="skeleton-"])
 xhamster46.desi,tr.myxh.today,tr.usbxh.life,xhamster44.desi,aawweb.beauty,colourxh.site,xhamster43.desi,fullxh.com,interxh.site,xhspot.com,xhwide5.com,xhchannel.com,xhtotal.com,xhtree.com,xhwide2.com,xhlease.world,xhamsterporno.mx,valuexh.life,xhdate.world,xhbranch5.com,galleryxh.site,xhbig.com,xhaccess.com,xhofficial.com,seexh.com,xhamster42.desi,xhvid.com,xhamster20.desi,xhamster19.desi,xhwebsite2.com,xhamster18.desi,xhadult3.com,xhadult2.com,xhmoon5.com,xhwide1.com,xhamster3.com,xhplanet2.com,megaxh.com,xhamster16.*,xhamster.com,xhamster2.com,xhamster7.com,xhamster8.com,xhamster9.com,xhamster10.com,xhamster12.com,xhamster13.*,xhamster14.com,xhamster15.com,xhamster17.*,xhamster18.*,xhamster19.com,xhamster1.desi,xhamster2.desi,xhamster3.*,xhamster4.desi,xhamster22.com,xhamster27.com,openxh.com,xhamster5.desi,xhopen.com,openxh1.com,xhamster40.com,xhamster.one,xhamster.desi,stripchat.com##div[class*="premium-n-overlay"]
 xhamster46.desi,tr.myxh.today,tr.usbxh.life,xhamster44.desi,aawweb.beauty,colourxh.site,xhamster43.desi,fullxh.com,interxh.site,xhspot.com,xhwide5.com,xhchannel.com,xhtotal.com,xhtree.com,xhwide2.com,xhlease.world,xhamsterporno.mx,valuexh.life,xhdate.world,xhbranch5.com,galleryxh.site,xhbig.com,xhaccess.com,xhofficial.com,seexh.com,xhamster42.desi,xhvid.com,xhamster20.desi,xhamster19.desi,xhwebsite2.com,xhamster18.desi,xhadult3.com,xhadult2.com,xhmoon5.com,xhwide1.com,xhamster3.com,xhplanet2.com,megaxh.com,xhamster16.*,xhamster.com,xhamster2.com,xhamster7.com,xhamster8.com,xhamster9.com,xhamster10.com,xhamster12.com,xhamster13.*,xhamster14.com,xhamster15.com,xhamster17.*,xhamster18.*,xhamster19.com,xhamster1.desi,xhamster2.desi,xhamster3.*,xhamster4.desi,xhamster22.com,xhamster27.com,openxh.com,xhamster5.desi,xhopen.com,openxh1.com,xhamster40.com,xhamster.one,xhamster.desi,stripchat.com##.top-menu div[data-item] > a[target="_blank"]
@@ -24753,6 +24755,7 @@ browsershots.org#@#.advert_area
 ||alypinsaeume.cyou^
 ||alzilcohddyyx.online^
 ||am15.net^
+||amahkearn.cyou^
 ||amakosacomates.shop^
 ||amaltasmisoswiyat.cfd^
 ||amamaunuque.cyou^
@@ -25167,6 +25170,7 @@ browsershots.org#@#.advert_area
 ||attendanceoffvow.com^
 ||attentbrazes.cyou^
 ||attentionantecedentsuperb.com^
+||atticsbalawa.shop^
 ||attirecideryeah.com^
 ||attornavows.cyou^
 ||attractivecutier9t3.com^
@@ -25418,6 +25422,7 @@ browsershots.org#@#.advert_area
 ||bantaculei.cfd^
 ||baptizeillusion.com^
 ||barbeauluhinga.qpon^
+||barberssmitch.cfd^
 ||barbulasnippet.qpon^
 ||barbuleclionacowbird.qpon^
 ||barbuttriplet.cfd^
@@ -26809,6 +26814,7 @@ browsershots.org#@#.advert_area
 ||chouanboniata.cfd^
 ||choughbigeye.cfd^
 ||chromosbuckpot.cfd^
+||chrwxvdfrkwan.space^
 ||chsrkred.com^
 ||chubbyexemplaryhardiness.com^
 ||chufftyigh.qpon^
@@ -28141,6 +28147,7 @@ browsershots.org#@#.advert_area
 ||dodgyfactoidprecut.com^
 ||dodletpicklemeecher.qpon^
 ||doershutes.cfd^
+||dofbdukakqfty.website^
 ||dogboatalbucacorage.cfd^
 ||dogbodydelire.qpon^
 ||dogshipbeardie.qpon^
@@ -28352,6 +28359,7 @@ browsershots.org#@#.advert_area
 ||dsmzyk.com^
 ||dsnbwt.com^
 ||dsndcg.com^
+||dsngwj.com^
 ||dsngws.com^
 ||dsnhfu.com^
 ||dsnhsz.com^
@@ -28460,6 +28468,7 @@ browsershots.org#@#.advert_area
 ||duneenwinds.qpon^
 ||dungasballam.shop^
 ||dunitejuffer.cfd^
+||dunsunless.cyou^
 ||duotonebusaos.qpon^
 ||dupefurison.qpon^
 ||dupesupways.cfd^
@@ -28898,6 +28907,7 @@ browsershots.org#@#.advert_area
 ||eoztlcmvqodmx.online^
 ||epeuslilacky.cyou^
 ||ephapsepli.shop^
+||ephetaekorec.shop^
 ||epicclicks.net^
 ||epidemicfaithlesscoats.com^
 ||epidemybearpaw.com^
@@ -29109,6 +29119,7 @@ browsershots.org#@#.advert_area
 ||exustfaunish.qpon^
 ||exuviumprocyon.cyou^
 ||exygzvytvsboj.site^
+||exyznpzyprchx.site^
 ||ey43.com^
 ||eycfdxhanqord.site^
 ||eydyabfmfmnmb.site^
@@ -29785,6 +29796,7 @@ browsershots.org#@#.advert_area
 ||futureads.io^
 ||futureus.com^
 ||fuwzpwzofaxns.online^
+||fuzmqfcndgbbw.online^
 ||fuzzyletter.pro^
 ||fvcsurnjbowiq.com^
 ||fvcwqkkqmuv.com^
@@ -29793,6 +29805,7 @@ browsershots.org#@#.advert_area
 ||fvmfdzpwbm.com^
 ||fvo3lzrwe4nvmu.rest^
 ||fvodjiezompvt.website^
+||fvpfkgblvurdf.online^
 ||fvutnpbszan.com^
 ||fvzpgufnagkhd.website^
 ||fw7u7ub6kkux9woj48bcu57p7x.cfd^
@@ -29818,7 +29831,9 @@ browsershots.org#@#.advert_area
 ||fylfotchassedcesura.qpon^
 ||fyt7ehcmwjow5h4yvu.cfd^
 ||fytvrytpipenx.space^
+||fyzbeagfrxsrl.space^
 ||fzcgwycgkipou.online^
+||fzcknngqwit4k6gkbt.cfd^
 ||fzcrfbmjrgyli.site^
 ||fzkxfgpwfmafd.space^
 ||fzqjigcdzyzap.online^
@@ -29940,6 +29955,7 @@ browsershots.org#@#.advert_area
 ||gcouijfqnabju.site^
 ||gcpnnmnuedgs.com^
 ||gctpyuuymhwwt.website^
+||gcvpxvxycogiu.online^
 ||gcwnbtwedkpdz.site^
 ||gcxanoccyeghw.space^
 ||gcxjseujjaqra.site^
@@ -32027,6 +32043,7 @@ browsershots.org#@#.advert_area
 ||kaaattohmgwjt.com^
 ||kabobsvex.cfd^
 ||kadime.cc^
+||kaeslantana.cfd^
 ||kagkbhfnxye.com^
 ||kagqkrsrevbmz.site^
 ||kahrucmzafqan.online^
@@ -32124,6 +32141,7 @@ browsershots.org#@#.advert_area
 ||kettledroopingcontinuation.com^
 ||ketylclayen.qpon^
 ||keukzdjaxsnjx.space^
+||kevilresew.cyou^
 ||keyedtryma.qpon^
 ||keyholedingy.com^
 ||keymovehostel.shop^
@@ -32563,6 +32581,7 @@ browsershots.org#@#.advert_area
 ||lectormanga1.com^
 ||lectureolympics.com^
 ||leechedcamball.cyou^
+||leekishspurreroldened.qpon^
 ||leeksspicing.qpon^
 ||leetaipt.net^
 ||leezoama.net^
@@ -33182,6 +33201,7 @@ browsershots.org#@#.advert_area
 ||matelycoker.qpon^
 ||mathads.com^
 ||mathematicsefficiencyburnt.com^
+||mathphenate.qpon^
 ||mathspositionuproar.com^
 ||matiesyacare.cyou^
 ||matiro.com^
@@ -34104,6 +34124,7 @@ browsershots.org#@#.advert_area
 ||noblemangetawayeclipse.com^
 ||noblyscopedhomered.cyou^
 ||noddlesmuvule.qpon^
+||noduledbaffs.cyou^
 ||noelmilksop.qpon^
 ||nofeu.com^
 ||nohowsankhya.com^
@@ -35724,6 +35745,7 @@ browsershots.org#@#.advert_area
 ||psoptcbvn.com^
 ||pstreetma.com^
 ||pt-xb.xyz^
+||pt5ugnxnyle3zw.rest^
 ||ptapjmp.com^
 ||ptauxofi.net^
 ||ptawe.com^
@@ -36627,6 +36649,7 @@ browsershots.org#@#.advert_area
 ||ripewing.com^
 ||ripoffsativawurst.cfd^
 ||riprapmocoanpriapus.cfd^
+||ripupcrawgoa.cfd^
 ||riqunamcnaqaz.online^
 ||rirafdfklbsxo.website^
 ||rirki.com^
@@ -37648,6 +37671,7 @@ browsershots.org#@#.advert_area
 ||snzrmcottn.com^
 ||so-gr3at3.com^
 ||soakweaseluniversal.com^
+||soapiersizing.shop^
 ||sobakenchmaphk.com^
 ||soberanvil.com^
 ||sobereremyds.shop^
@@ -38401,6 +38425,7 @@ browsershots.org#@#.advert_area
 ||teraticsquelch.cyou^
 ||terbit2.com^
 ||teriannrammage.cfd^
+||termensulked.qpon^
 ||terminalinmatesupreme.com^
 ||terminorubato.shop^
 ||terneriodicjubas.qpon^
@@ -38484,6 +38509,7 @@ browsershots.org#@#.advert_area
 ||thirteenpun.com^
 ||thisiswaldo.com^
 ||thjfqbwhlegns.website^
+||thokishbahoo.cyou^
 ||thongrooklikelihood.com^
 ||thorncontinuepalm.com^
 ||thoseeducation.com^
@@ -39251,6 +39277,7 @@ browsershots.org#@#.advert_area
 ||unfrillotters.shop^
 ||unfrizzpacinko.com^
 ||unfumedaten.cfd^
+||ungagtangramfugate.cfd^
 ||ungirdsgnawn.qpon^
 ||ungrandswopped.cyou^
 ||unhandseburine.cfd^
@@ -39775,6 +39802,7 @@ browsershots.org#@#.advert_area
 ||vivifysation.shop^
 ||vivodemisrentas.net^
 ||vivotzrigtry.com^
+||vivxuzpwao.in^
 ||vizardpurdas.shop^
 ||vjcygrstkrujo.site^
 ||vjnecgxhugnqt.online^
@@ -45772,6 +45800,8 @@ userstyles.org##[class^="styles-grid_gridItems_"] > .hideInMobile:has(> [class^=
 argos.co.uk##[class^="styles__LazyHydrateCard-sc"]:has([class*="SponsoredBadge"])
 thestreet.com##[class^="styles_container"]:has(.OUTBRAIN)
 outlook.live.com##[data-app-section="MessageList"] div[style^="position: absolute; left: 0px; top: 0px"]:has(.ms-Shimmer-container)
+stockx.com##[data-component="brand-tile"]:has([data-testid="sponsored-tag"])
+stockx.com##[data-component="product-tile"]:has([data-testid="sponsored-tag"])
 maisonsdumonde.com##[data-el="product-card-grid"] article:has([data-el="product-card__sponsored"])
 pixiv.net##[data-gtm-recommend-zone="index"] li:has(> div > iframe[name$="rectangle"])
 softonic.com##[data-meta="placeholder-slot"]:has([data-label="Advertisement"])
@@ -45782,6 +45812,7 @@ etsy.com##[data-page-type="market"]:has([id^="ad-listing-title-"])
 noon.com##[data-qa="plp-grid"] [data-qa="plp-product-box"]:has(svg[width="20"] > path[d])
 noon.com##[data-qa="widget_recommendedProducts"]:has(svg[width="20"] > path[d])
 wolt.com##[data-test-id="MainDiscoveryContent"] li[draggable]:has(a[aria-label*="Sponsored"])
+stockx.com##[data-testid="banner-collage"] .chakra-aspect-ratio:has(a[title*="Promo"])
 samsclub.com##[data-testid="item-stack"] > .mb0:has(a[href^="https://www.samsclub.com/midas/sams-crs/track?"])
 petco.com##[data-testid="product-buy-box"]:has([class*="SponsoredText"])
 kayak.com##[role="button"]:has([class*="ad-marking"])
@@ -46166,6 +46197,7 @@ bitchute.com##.row.justify-center:contains(Advertisement)
 bleepingcomputer.com##.cz-line-heading:contains(Sponsor Posts)
 bleepingcomputer.com##.cz-line-heading:contains(Sponsor Posts) + ul
 bleepingcomputer.com##ul#bc-home-news-main-wrap > li:contains(Sponsored)
+chatgpt.com##.opacity-100.transition-opacity.ease-out:contains(Sponsored options)
 coles.com.au##.coles-targeting-UnitContainer:has(ul.product__top_messaging)
 coles.com.au##.list-item[role="presentation"]:has([data-testid="product-tile"]:contains(Sponsored))
 coolors.co##a:has(div:last-child:contains(Hide))
