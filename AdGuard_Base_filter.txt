@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: +S9o0dEWbq+/6dor1JhImA
-! Diff-Path: ../patches/2_optimized/2_optimized-s-1786760940-3600.patch
+! Checksum: BQ3OnHUCd56Usz4nqmmk8Q
+! Diff-Path: ../patches/2_optimized/2_optimized-s-1786770730-3600.patch
 ! Title: AdGuard Base filter + EasyList (Optimized)
 ! Description: EasyList + AdGuard English filter. This filter is necessary for quality ad blocking.
-! Version: 2.4.83.80
-! TimeUpdated: 2026-08-15T02:25:21+00:00
+! Version: 2.4.83.83
+! TimeUpdated: 2026-08-15T05:09:16+00:00
 ! Expires: 5 days (update frequency)
 ||ezojs.com^
 ||luugy.com^
@@ -23746,6 +23746,7 @@ browsershots.org#@#.advert_area
 ||9l5ss9l.de^
 ||9o924o5rnzb7bor.cfd^
 ||9pub.io^
+||9qbm4q34m29b5o4eh6xkn.rest^
 ||9tumza4dp4o9.com^
 ||9wu8vigxo2hb45.cfd^
 ||9xeqynu3gt7c.com^
@@ -26423,6 +26424,7 @@ browsershots.org#@#.advert_area
 ||cashawbraying.shop^
 ||cashawsbreck.qpon^
 ||cashcinemaunbiased.com^
+||cashingonymitykavi.qpon^
 ||cashingpostman.shop^
 ||cashmachines.biz^
 ||cashtrafic.com^
@@ -27129,6 +27131,7 @@ browsershots.org#@#.advert_area
 ||cornflowercigar.com^
 ||cornualsinamin.cyou^
 ||cornyband.pro^
+||corojohusband.com^
 ||coronaehavance.shop^
 ||coronetbaying.cyou^
 ||correctdilutetrophy.com^
@@ -27142,6 +27145,7 @@ browsershots.org#@#.advert_area
 ||coscetfec.cfd^
 ||coseismcimeter.qpon^
 ||cosetengarb.com^
+||cosetssovkhoz.com^
 ||cosherslattens.qpon^
 ||cosinescichlid.cyou^
 ||cosmeticsgenerosity.com^
@@ -28596,6 +28600,7 @@ browsershots.org#@#.advert_area
 ||ekcnyrabadtq.com^
 ||ekhay.com^
 ||ekhsvsp.com^
+||ekhwbzfks.com^
 ||ekjjvwrdbm.com^
 ||ekjkfnbgpfrbd.website^
 ||ekklgpfmaviji.online^
@@ -32134,6 +32139,7 @@ browsershots.org#@#.advert_area
 ||lankercigala.cfd^
 ||lanky-bar.com^
 ||lankyteaching.com^
+||lanpeatced.com^
 ||lantodomirus.com^
 ||lappeteild.shop^
 ||lapsdurantfoulard.qpon^
@@ -32514,6 +32520,7 @@ browsershots.org#@#.advert_area
 ||loperbrattle.com^
 ||lopersmacabi.cyou^
 ||lophiiderugate.cfd^
+||lophineoutsayresave.cyou^
 ||lopsideddebate.com^
 ||loquatsbilker.cfd^
 ||lordomawarrenstidder.cfd^
@@ -34040,6 +34047,7 @@ browsershots.org#@#.advert_area
 ||officialvillage.pro^
 ||offoonguser.com^
 ||offspringthisscarcely.com^
+||ofhkcsf.com^
 ||ofhypnoer.com^
 ||ofjamkwak.com^
 ||ofjfztoqeyzpj.space^
@@ -34477,6 +34485,7 @@ browsershots.org#@#.advert_area
 ||p2yn.com^
 ||p84eelu36l7ip3xlq9oxuugeoc5.rest^
 ||p8lxfvgnj426gpeemu5k6t.rest^
+||p9pxgx91z15el4b32ecfxo1yvi.cfd^
 ||pa5ka.com^
 ||paaeeets.net^
 ||paartureen.cyou^
@@ -36475,6 +36484,7 @@ browsershots.org#@#.advert_area
 ||s2517.com^
 ||s2d6.com^
 ||s8ey.com^
+||s99s.net^
 ||sa.entireweb.com^
 ||saawsedge.com^
 ||sabatonrhamn.qpon^
@@ -36563,6 +36573,7 @@ browsershots.org#@#.advert_area
 ||sarcousaglint.cyou^
 ||sargomiaul.qpon^
 ||sargonould.cyou^
+||sarkinekelter.shop^
 ||sarodsleechy.cfd^
 ||sarodtoluyls.cfd^
 ||sarpohectare.qpon^
@@ -36994,6 +37005,7 @@ browsershots.org#@#.advert_area
 ||sillagoposs.shop^
 ||sillararrand.qpon^
 ||sillinessshoplifting.com^
+||silver-assets.online^
 ||silverwhitebirds.co^
 ||simbaresumeangered.cfd^
 ||simmeringsuitableunwoven.com^
@@ -40398,6 +40410,7 @@ browsershots.org#@#.advert_area
 ||yygcmepioyxar.space^
 ||yyhqkdoxpzjsk.online^
 ||yyjvimo.com^
+||yymupayhgc.com^
 ||yyxnoegkqkavu.space^
 ||yyyyvulnhyiur.online^
 ||yzatnnirsbyiq.space^
@@ -40625,6 +40638,7 @@ browsershots.org#@#.advert_area
 ||zxcdn.com^
 ||zxjmtfktbjgvk.website^
 ||zxlxqzn46yzbn8qxr69.rest^
+||zxnsukgybbfkmz.com^
 ||zxsvveyeixhmm.space^
 ||zxyemuurmkjcel.com^
 ||zybrdr.com^
@@ -45457,7 +45471,7 @@ bing.com##[id$="adsMvCarousel"]
 bing.com##a[href*="/aclick?ld="]
 bing.com##div[aria-label$="ProductAds"]
 bing.com##div[class="ins_exp tds"]
-chatgpt.com##[data-message-role="assistant"] > section[class] > aside[aria-label]:has(> div[role="list"] a[rel][target="_blank"][href*="?jumpid="] + span > button[aria-haspopup])
+chatgpt.com##[data-message-role="assistant"] > section[class] > aside[aria-label]:has(> div[role="list"] a[rel][target="_blank"] + span > button[aria-haspopup])
 checkfelix.com,kayak.*,swoodoo.com##.J8jg:has(.J8jg-provider-ad-badge)
 checkfelix.com,kayak.*,swoodoo.com##.YnaR
 checkfelix.com,kayak.*,swoodoo.com##div[class*="-ad-card"]
