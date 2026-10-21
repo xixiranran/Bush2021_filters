@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: dAm29KTsJfc9RWT83lT1Cg
-! Diff-Path: ../patches/224_optimized/224_optimized-s-1792546058-3600.patch
+! Checksum: A339N9Or+C+HYiUlFGa8Hg
+! Diff-Path: ../patches/224_optimized/224_optimized-s-1792567352-3600.patch
 ! Title: AdGuard Chinese filter (Optimized)
 ! Description: EasyList China + AdGuard Chinese filter. Filter list that specifically removes ads on websites in Chinese language.
-! Version: 2.1.67.97
-! TimeUpdated: 2026-10-21T01:24:23+00:00
+! Version: 2.1.67.99
+! TimeUpdated: 2026-10-21T07:18:46+00:00
 ! Expires: 5 days (update frequency)
 ||ezze0ct.com^
 ||hokkid5.com^
@@ -1113,8 +1113,6 @@ fuliba2025.net##.content > a[href][target="_blank"]
 nekoray.org##main > div[data-elementor-type="single-page"] > div.elementor-element:has(> div.e-con-inner > div.elementor-element > a[href^="https://c.nekoray.org/goto/topbanner/"])
 news.mydrivers.com##div[style="margin: auto;width: 580px;padding: 10px 0;"]
 av6k.com##+js(abort-current-script, document.write, ads_codes)
-av6k.com##.subLink
-av6k.com##.clickadu
 ||av6k.com/templets/
 ||av6k.com/video-ads/
 news.cnyes.com##.content-main > div[class]:has(div[id^="div-gpt-ad-"])
@@ -4389,6 +4387,8 @@ newduba.cn###jq_youxi
 ||eguswp0mj.com^
 ||balcnzwmsjrbjs.com^
 ||iyyfj0g7m.com^
+||5cmog8sd8.com^
+||34148m9pq.com^
 ||oit9wnhrp.com^
 ||z5c4tnjw6p.com^
 ||climbing77.com^
