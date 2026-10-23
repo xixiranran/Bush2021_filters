@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: EjvYqC8NCQZDp9ubWc6NwQ
-! Diff-Path: ../patches/224_optimized/224_optimized-s-1792678560-3600.patch
+! Checksum: Pd2ERDkX7rFRrbYbjNnh0g
+! Diff-Path: ../patches/224_optimized/224_optimized-s-1792722039-3600.patch
 ! Title: AdGuard Chinese filter (Optimized)
 ! Description: EasyList China + AdGuard Chinese filter. Filter list that specifically removes ads on websites in Chinese language.
-! Version: 2.1.68.8
-! TimeUpdated: 2026-10-22T14:12:36+00:00
+! Version: 2.1.68.11
+! TimeUpdated: 2026-10-23T02:17:30+00:00
 ! Expires: 5 days (update frequency)
 ||ezze0ct.com^
 ||hokkid5.com^
@@ -4385,6 +4385,9 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||hash.trafficmanager.net^
 ||trafficmanager.net/o.js
+||gdfzcez6q.com^
+||ftdpjbzkeprjhs.com^
+||lmbmr7zw3.com^
 ||statistics46.com^
 ||hdhuxrsiymfbvs.com^
 ||ddwododotg.com^
@@ -20675,6 +20678,7 @@ fqsousou.com,kengso.com#@#.user-share
 @@/sensorsdata.$domain=36kr.com|53zaixian.com|binance.com|by56.com|canon.com.cn|chuanglan.com|fenbi.com|guancha.cn|imooc.com|kuque.com|modian.com|saicskoda.com.cn|shanbay.com|tianyancha.com|ttcdw.cn|xinrenxinshi.com|zzjiasuqi.com
 @@/setCookie?$domain=ctrip.com|ctrip.com.hk|pinyin.cn
 @@/urchin.js$domain=on.cc
+@@||netease.com/online/lib/sentry/*/bundle.tracing.
 @@||10010.com/mall/common/js/fa.js?referer=
 @@||10086.cn/framework/modules/sdc.js
 @@||111.75.255.103/Scripts/Controls/PageView.js
