@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 0OLFJuWrDMZ5VOWyYurW8g
-! Version: 202610291813
+! Checksum: 0x8cUVyEfgJcrFsXCfQ7wg
+! Version: 202611051702
 ! Title: EasyList China
-! Last modified: 29 Oct 2026 18:13 UTC
+! Last modified: 05 Nov 2026 17:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1336,6 +1336,82 @@ newduba.cn###jq_youxi
 ||hash.trafficmanager.net^
 ||trafficmanager.net/o.js
 !
+||8ybghd4zn.com^
+||pbe40xy8g.com^
+||hfparjrmndbvta.com^
+||incenter12.com^
+||na50e68jx.com^
+||alhgxftiz.com^
+||qh7ptb6mc.com^
+||3r6fs2855.com^
+||06f2egypr.com^
+||uibpd67j6.com^
+||3g0p5hjwa.com^
+||inequation23.com^
+||494b6x7u8.com^
+||mzzueflt.com^
+||o9m5znv8ta.com^
+||bshhyxoy62.com^
+||vfmlgaxxc4.com^
+||1ny5gaksj8.com^
+||jptifzvqhanvha.com^
+||487wlz7nbc.com^
+||q70t79hxor.com^
+||5p478n58i9.com^
+||9nvj3swk9l.com^
+||1wxj1q0wo5.com^
+||rrd14g5o8n.com^
+||1p5j4qb3zc.com^
+||477d95h3tj.com^
+||wrsy5mdrj1.com^
+||gssaga13g.com^
+||vfbbxi2ap.com^
+||electrician25.com^
+||lmxnthoobcznvu.com^
+||romwdc1mv.com^
+||a8ougj16a.com^
+||0xxbtt1ov.com^
+||v62hjyw4o.com^
+||kca7afgqg.com^
+||fdseb8s0y.com^
+||mgu14s8c5h.com^
+||refrigerator16.com^
+||fwbvjxsmvznfpu.com^
+||p0m1qlvawp.com^
+||xkp30u4pxh.com^
+||22n5xlc6n0.com^
+||uxee5bmf1k.com^
+||sf5yzh4yqz.com^
+||nq6jitu4y.com^
+||08137tabw.com^
+||tableware66.com^
+||htfaxfwqywzfdo.com^
+||9v0ptnfes.com^
+||r7aon5a2a.com^
+||fmnmuuo7c.com^
+||k6p5kaelz.com^
+||20ml7x2sk.com^
+||m2fnnugqp.com^
+||7hc5zpcv6.com^
+||ezaudueu6.com^
+||frhsxjpciitptq.com^
+||mebqlxk7o.com^
+||cupboard40.com^
+||lgh8ua4fj.com^
+||rgt8qby8k.com^
+||wxylxfmqd.com^
+||4m0tg6axs.com^
+||5qnyx6k5w.com^
+||v0v9ko8q4.com^
+||0r5e0xvwes.com^
+||barstool59.com^
+||ka9gcc8ifd.com^
+||holxlriacffphq.com^
+||6iwulft12t.com^
+||ysy5uobifs.com^
+||1nvxl968le.com^
+||qty00vcqh8.com^
+||w6v754e1uw.com^
 ||ndhfz9zw2.com^
 ||itkdb58mo.com^
 ||jlpfbhmefcthbk.com^
@@ -9922,7 +9998,7 @@ meijutt.*/js/pcjs/
 ||xdnice.com/themes/xdnice/public/assets/images/quna.png
 ||xdnice.com/themes/xdnice/public/assets/images/xdnice.png
 ||xdyjt.com^
-||xfvod.pro/images/ad/
+||xfvod.pro*/images/ad/
 ||xghylt.com/api.php?mod=ad&adid=
 ||xhymsq.com/data/attachment/portal/
 ||xiacaidd.com/xiacai/ad/
@@ -10145,8 +10221,10 @@ meijutt.*/js/pcjs/
 ||159i.net/ads/
 ||girigirilove.com^*/appConfigData?key=adver_
 ||yszzq.com/Style/js/date.
+||yxxq59.cc/static/images/ads/
 !------------------------Specific element hiding rules------------------------!
 159i.net##.a3
+wenshushu.cn##.not-tree > .mer-item
 szxx.com.cn###A0
 szxx.com.cn###A1
 szxx.com.cn###A2
@@ -15727,7 +15805,7 @@ android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.t
 @@||firefox.com.cn/media/img/mozcn/spread/468-60-
 @@||fltaradio.com/js/ads.js
 @@||forexprostools.com^$domain=shougedui.com
-@@||fpyf8.com/88/tag.min.js$domain=wxredian.com
+@@.com/88/*$domain=wxredian.com
 @@||freedidi.com^$generichide
 @@||freereceivesms.com/weborama.js
 @@||friday.tw/backend/uploadpic/adindex/
@@ -17422,8 +17500,6 @@ ykxs.cc##a[href^="javascript"]
 ##div[style^="line-height"][style*="http"][style$="fixed;"]
 ##iframe[src*=".xxmh"][src*="?u="]
 ##script + .dbfh
-wss://*.*.top/$third-party
-wss://*.top/|
 yydstxt*.com/js/cdn.
 yydstxt*.com/js/html
 ||0sxs.com/js/all.
