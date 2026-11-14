@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: DYdVHw9MhsPHAlwPbR6M8w
-! Version: 202611131923
+! Checksum: p+g78QQfj2Ir2BpVRSz+MQ
+! Version: 202611140112
 ! Title: EasyPrivacy
-! Last modified: 13 Nov 2026 19:23 UTC
+! Last modified: 14 Nov 2026 01:12 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3540,6 +3540,7 @@ omni.soundestlink.com$image
 ||admediasales.com^
 ||admetrics.events^
 ||adnext.co^
+||adnz.co^
 ||adrsbl.io^
 ||adrtx.net^
 ||adscore.com^
@@ -8526,6 +8527,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cdn.tds.bid/bid.js
 ||cdn.tolt.io/tolt.js
 ||cdn.usefathom.com^
+||cdn.visits.dqapis.com^
 ||cdn.zeroclick.io/scripts/badge.js
 ||cdn.zg-api.com/a/z/js/v1/analytics.js
 ||cdnjs.work/metrics.js
@@ -10541,6 +10543,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tag.atom.gamedistribution.com^
 ||tag.aumago.com^
 ||tag.brandcdn.com^
+||tag.decentriq.com^
 ||tag.digops.sincro.io^
 ||tag.elevaate.io^
 ||tag.flagship.io^
