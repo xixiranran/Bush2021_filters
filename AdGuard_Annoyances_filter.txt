@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: GMMmgfOHslG3U/eMAT81TQ
-! Diff-Path: ../patches/14_optimized/14_optimized-s-1794748299-3600.patch
+! Checksum: 7HxcupWwURqHg8429i4b2A
+! Diff-Path: ../patches/14_optimized/14_optimized-s-1794773547-3600.patch
 ! Title: AdGuard Annoyances filter (Optimized)
 ! Description: Blocks irritating elements on web pages including cookie notices, third-party widgets and in-page pop-ups. Contains the following AdGuard filters: Cookie Notices, Popups, Mobile App Banners, Other Annoyances and Widgets.
-! Version: 2.2.86.65
-! TimeUpdated: 2026-11-15T13:07:58+00:00
+! Version: 2.2.86.67
+! TimeUpdated: 2026-11-15T20:08:19+00:00
 ! Expires: 5 days (update frequency)
 !#######################################################
 !######### General element hiding rules ################
@@ -25297,6 +25297,7 @@ yourchannel.blog.jp#@##app-follow-banner
 instagram.com##div[class]:has(> div[class]:first-child > a[href="/explore/people/"]):style(position: absolute !important; left: -3000px !important;)
 instagram.com##div[style*="opacity"] > div > div[class]:has(> div[class] > div[style] > div[style] > div[aria-labelledby] > div[class]:last-child > button)
 instagram.com##._aagw:empty
+daily.co.jp##.kb-promo
 aljazeera.com##.more-on
 businessinsider.com##.recommendedArticles
 489.fm###rightContents > ul.sakuraBnr[style="margin-top: 15px;"]
@@ -26352,7 +26353,12 @@ oppaiman.com##div.bg-nautral-base > div.border-jacarta-500
 tomshardware.com##.flcw-skinnybanner-header-bg
 top.gg##div.w-full > div.flex:has(> a[href="/subscribe"])
 top.gg##body > div.fixed:has(> div.max-w-full > a[href="/subscribe"])
-speedof.me##+js(set-constant, innerWidth, 800)
+speedof.me##+js(set-constant, somH3zjtii, true)
+speedof.me##body section:not([class*="ad-footer"]):not(.ad-rail):matches-css(position: fixed):matches-css(width: /^(1[5-6][0-9]|300)px$/):matches-css(height: /^[5-6][0-9]{2}px$/)
+speedof.me##body div:not([class*="ad-footer"]):not(.ad-rail):matches-css(position: fixed):matches-css(width: /^(1[5-6][0-9]|300)px$/):matches-css(height: /^[5-6][0-9]{2}px$/)
+speedof.me##body span:not([class*="ad-footer"]):not(.ad-rail):matches-css(position: fixed):matches-css(width: /^(1[5-6][0-9]|300)px$/):matches-css(height: /^[5-6][0-9]{2}px$/)
+speedof.me##.sci2q2w-nu695q4
+speedof.me##body div:not(.cc-consent-toast):matches-css(position: fixed):matches-css(bottom: /^(1[0-9]|2[0-9])px$/):matches-css(width: /^(2[9][0-9]|3[0-9]{2}|4[0-6][0-9])px$/):matches-css(height: /^(9[0-9]|1[0-5][0-9])px$/)
 linuxcommunity.io##aside#lcio-tee
 finanzen.net##div[data-page-header-slot="dynamic-content-boxes"]
 seriesmp4.club###vip-popup-overlay
