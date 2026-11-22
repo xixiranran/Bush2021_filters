@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: uTQwdbyfYR8lCiqRC6CLsw
-! Version: 202611211852
+! Checksum: SNF+OL+yBDbtOSQG1DcXCg
+! Version: 202611220102
 ! Title: EasyPrivacy
-! Last modified: 21 Nov 2026 18:52 UTC
+! Last modified: 22 Nov 2026 01:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -14450,6 +14450,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sexu.com/api/ttrack
 ||sexybabepics.net/re/?ping
 ||sf-syn.com/conversion_outbound_tracker$subdocument,domain=sourceforge.net
+||sfchronicle.com/api/client-logs
 ||sfgate.com/api/client-logs
 ||share.9cdn.net/share/short_cache/js/tracking/$domain=nine.com.au
 ||sharechat.com/event-tracking-service/
@@ -54316,6 +54317,10 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 !
 !---------- Icelandic ----------
 !
+!
+!---------- Indian ----------
+!
+@@||scorecardresearch.com/plugins/streaming-jwplayer/$script,domain=newstak.in
 !
 !---------- Italian ----------
 !
