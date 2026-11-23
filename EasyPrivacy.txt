@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 4KkaBBj6hyJ0IiB46LKWtQ
-! Version: 202611230122
+! Checksum: pjeId9HqVjsFCB23CABUsA
+! Version: 202611231203
 ! Title: EasyPrivacy
-! Last modified: 23 Nov 2026 01:22 UTC
+! Last modified: 23 Nov 2026 12:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -113,6 +113,7 @@
 /?swift-performance-tracking
 /_/api/v2/analytics/?
 /_/lite/performance/*
+/__activity.gif?
 /__core/metrics.js
 /__imp_apg__/*
 /__rmn.gif?
@@ -616,6 +617,7 @@
 /chartbeat.min.js
 /chcounter/counter.php
 /check.php?referrer=
+/checkout/offer/trackShow
 /chicken.gif?*=
 /cklink.gif?
 /cklog.js
@@ -4717,6 +4719,7 @@ omni.soundestlink.com$image
 ||demandscience.com^$third-party
 ||departapp.com^$third-party
 ||deqwas.net^$third-party
+||derbysoftsec.com^$third-party
 ||devatics.com^$third-party
 ||devatics.io^$third-party
 ||device9.com^$third-party
@@ -8171,6 +8174,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.sayprimer.com^
 ||analytics.scorpion.co^
 ||analytics.shareaholic.com^
+||analytics.shelbyklein.com^
 ||analytics.shorte.st^
 ||analytics.shorthand.com^
 ||analytics.sitewit.com^
@@ -9902,6 +9906,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||orion.bendingspoons.com^
 ||orts.wixawin.com^$third-party
 ||osano.com/js/?action_name=
+||otel-hfo.fareharbor.engineering/v1/traces
 ||otg.mblycdn.com/bundles/cmp.js
 ||outbrain.com/nanoWidget/externals/cookie/
 ||outbrain.com/widgetOBUserSync/
