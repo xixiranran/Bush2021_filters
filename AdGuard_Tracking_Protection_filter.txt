@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: NoLHbiziaDKZu/jzyO9GvQ
-! Diff-Path: ../patches/3_optimized/3_optimized-s-1795774327-3600.patch
+! Checksum: q1Gc7/Mlw7vkMwv8Bh/B2Q
+! Diff-Path: ../patches/3_optimized/3_optimized-s-1795803182-3600.patch
 ! Title: AdGuard Tracking Protection filter (Optimized)
 ! Description: The most comprehensive list of various online counters and web analytics tools. Use this filter if you do not want your actions on the Internet to be tracked.
-! Version: 2.1.16.59
-! TimeUpdated: 2026-11-27T10:08:16+00:00
+! Version: 2.1.16.63
+! TimeUpdated: 2026-11-27T18:09:38+00:00
 ! Expires: 5 days (update frequency)
 www.youtube.com##+js(no-xhr-if, /\/api\/stats\/atr\?.+?&rt=\d+\.\d+.+?&volume=\d+&cbr=.+?&fexp=v1%[-%0-9C]{300\,}&.+?&muted=\d(&vis=3)?&docid=/ method:POST)
 slobodnadalmacija.hr,meconomynews.com,brandbrief.co.kr,motorgraph.com##+js(abort-current-script, atob, eval(decodeURIComponent(escape(window.atob("KCgpPT5)
@@ -113949,6 +113949,9 @@ biteki.com##.slick-slide > div[id] + script:upward(1):remove()
 ||countly.
 ||countly-
 |piwik.
+||telemetry.*.oraclecloud.com^
+||events.*.oci.oraclecloud.com^
+||logging.*.oci.oraclecloud.com^
 ||ac.avito.ru^
 ||ap-prd-edge-clientlog.nexon.com^
 ||toy.log.nexon.io^
@@ -460669,6 +460672,8 @@ d4?appid*type*
 !### Temporary ###
 @@||st-*.dynamicyield.com/st*&inHead=true&id=*&jsession=*scriptVersion=*&noConsent=
 !#################
+ekitan.com##+js(set-constant, executeImpressionTicketTracking, noopFunc)
+ekitan.com##+js(set-constant, initHomesTracking, noopFunc)
 @@||fp.yangcong345.com/*/webTrack.js$domain=school.yangcongxueyuan.com
 kick.com##+js(prevent-fetch, litix.io)
 kick.com##+js(no-setTimeout-if, startBeaconSending)
@@ -464572,6 +464577,7 @@ demae-can.com##+js(remove-attr, data-trm-action|data-trm-category|data-trm-label
 ||materialisticmoon.com^
 ||materialmilk.com^
 ||materialparcel.com^
+||mathrevolt.com^
 ||maxcruisers.com^
 ||maybetony.com^
 ||meadowlullaby.com^
@@ -464587,6 +464593,7 @@ demae-can.com##+js(remove-attr, data-trm-action|data-trm-category|data-trm-label
 ||melodiousharmony.com^
 ||melodioussymphony.com^
 ||melodyglobe.com^
+||melodyivory.com^
 ||meltmilk.com^
 ||membernook.com^
 ||memeorigin.com^
@@ -464605,6 +464612,7 @@ demae-can.com##+js(remove-attr, data-trm-action|data-trm-category|data-trm-label
 ||mesaviewlodge.com^
 ||messagelists.com^
 ||messmonster.com^
+||messrod.com^
 ||messyoranges.com^
 ||metajaws.com^
 ||metalsfactory.com^
@@ -464867,6 +464875,7 @@ demae-can.com##+js(remove-attr, data-trm-action|data-trm-category|data-trm-label
 ||piquantprice.com^
 ||piquantvortex.com^
 ||pitmanmusic.com^
+||pivotfresh.com^
 ||pixeledhub.com^
 ||pixelmoonstudio.com^
 ||pixeltrouble.com^
@@ -465793,6 +465802,7 @@ demae-can.com##+js(remove-attr, data-trm-action|data-trm-category|data-trm-label
 ||usabilitybook.com^
 ||uselesslumber.com^
 ||userballot.com^
+||usersays.com^
 ||utopiaband.net^
 ||vacationsgolf.com^
 ||validmemo.com^
@@ -466069,3 +466079,6 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, OfflineAudioContext, undefi
 aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefined)
 ||ipcheck.blogsys.jp^$redirect=noop.js,script
 search.rakuten.co.jp##+js(aeld, mouseup, sendClickEvent)
+ekitan.com##+js(set, executeImpressionTicketTracking, noopFunc)
+ekitan.com##+js(set, initHomesTracking, noopFunc)
+@@||ekitan.com/transit/js/ticket-analytics.js$badfilter,~3p
